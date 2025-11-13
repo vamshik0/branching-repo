@@ -1,0 +1,29 @@
+{
+  "id": "bb947fe1-0eb4-4f12-9d98-c06d7c996b94",
+  "name": "branch-two",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "cffec43f-cac6-4d81-bb47-fcfaa774e9eb",
+  "versionType": "branch",
+  "appId": "8f81a3be-fdcc-4888-8959-7650c7d0e4c8",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "2cd0507c-aef9-4b65-b85f-47da44687cd9",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-13T16:34:20.069Z",
+  "updatedAt": "2025-11-13T16:34:20.032Z"
+}
