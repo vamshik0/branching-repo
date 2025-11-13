@@ -1,0 +1,29 @@
+{
+  "id": "727bf4c8-a74f-425b-b493-0ffea1f57671",
+  "name": "first-branch",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "ab054fd7-d30c-4bfd-8302-f99f02e0fa4a",
+  "versionType": "branch",
+  "appId": "68d30355-37d5-4f08-9af5-f45930a7c1e9",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "a9a2a178-f3fd-4310-b27d-8ea783e10bae",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-13T15:51:54.648Z",
+  "updatedAt": "2025-11-13T15:51:54.613Z"
+}
