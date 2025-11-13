@@ -1,0 +1,16 @@
+{
+  "id": "01342b8f-2d2a-4b81-973d-3b6b48ba2acf",
+  "name": "fourth-app",
+  "type": "front-end",
+  "slug": "01342b8f-2d2a-4b81-973d-3b6b48ba2acf",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2025-11-13T16:48:16.117Z",
+  "organizationId": "09940191-7562-4d87-bfe8-74b1a6276120",
+  "userId": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "icon": "archive"
+}

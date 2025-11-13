@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "fourth-app",
+  "gitAppId": "01342b8f-2d2a-4b81-973d-3b6b48ba2acf",
+  "branchName": "one",
+  "gitVersionName": "one",
+  "gitVersionId": "031f0978-2c6d-452b-9453-de6315c406fe",
+  "tooljetVersion": "3.20.38-ee-lts",
+  "createdAt": "2025-11-13T16:51:05.140Z",
+  "updatedAt": "2025-11-13T16:51:05.140Z"
+}
