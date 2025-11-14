@@ -1,0 +1,29 @@
+{
+  "id": "5c51ca76-4ef7-426c-b8e6-1e9c71242a68",
+  "name": "first-rule",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "5797031c-8ef7-4577-a8fc-ccb9d8826426",
+  "versionType": "branch",
+  "appId": "3406ef08-50c3-48c3-89f2-d6f4f06d3603",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "3ac8093e-0bc9-4924-8ec3-9c2121662a8a",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-14T06:16:04.860Z",
+  "updatedAt": "2025-11-14T06:16:04.812Z"
+}
