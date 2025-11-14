@@ -1,0 +1,16 @@
+{
+  "id": "3406ef08-50c3-48c3-89f2-d6f4f06d3603",
+  "name": "fight-club",
+  "type": "front-end",
+  "slug": "3406ef08-50c3-48c3-89f2-d6f4f06d3603",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2025-11-14T06:14:52.288Z",
+  "organizationId": "09940191-7562-4d87-bfe8-74b1a6276120",
+  "userId": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "icon": "shield"
+}
