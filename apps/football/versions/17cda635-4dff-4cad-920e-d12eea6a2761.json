@@ -1,0 +1,36 @@
+{
+  "id": "17cda635-4dff-4cad-920e-d12eea6a2761",
+  "name": "ten",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      }
+    }
+  },
+  "showViewerNavigation": true,
+  "homePageId": "25ce8896-e725-4d95-a2b1-c6135a393fc4",
+  "versionType": "branch",
+  "appId": "f367854c-662c-4a8c-beb4-9b3cab7a7cf2",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "fe22f438-92c2-4787-b6cc-5adebceeb880",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-14T13:21:26.233Z",
+  "updatedAt": "2025-11-14T13:21:26.215Z"
+}
