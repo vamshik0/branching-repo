@@ -1,0 +1,16 @@
+{
+  "id": "8b813ca6-5a2a-4ae0-ae64-75086c56460a",
+  "name": "godFather",
+  "type": "front-end",
+  "slug": "8b813ca6-5a2a-4ae0-ae64-75086c56460a",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2025-11-14T11:09:39.341Z",
+  "organizationId": "09940191-7562-4d87-bfe8-74b1a6276120",
+  "userId": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "icon": "sentfast"
+}

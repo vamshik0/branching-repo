@@ -1,0 +1,29 @@
+{
+  "id": "9105705e-8461-48fe-99b2-3231133d5bdd",
+  "name": "don-c",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "68e09bcd-8b2d-459b-a10c-0d7edec4f952",
+  "versionType": "branch",
+  "appId": "8b813ca6-5a2a-4ae0-ae64-75086c56460a",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "4b3164d6-7574-4343-a86e-394207df25a0",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-14T11:10:09.463Z",
+  "updatedAt": "2025-11-14T11:10:09.440Z"
+}
