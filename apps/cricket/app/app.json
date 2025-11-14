@@ -1,0 +1,16 @@
+{
+  "id": "223872ff-29df-47c7-af61-cfa024859687",
+  "name": "cricket",
+  "type": "front-end",
+  "slug": "223872ff-29df-47c7-af61-cfa024859687",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2025-11-14T12:05:15.921Z",
+  "organizationId": "09940191-7562-4d87-bfe8-74b1a6276120",
+  "userId": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "icon": "server"
+}
