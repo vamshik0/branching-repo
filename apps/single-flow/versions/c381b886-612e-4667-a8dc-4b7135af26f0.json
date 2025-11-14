@@ -1,0 +1,36 @@
+{
+  "id": "c381b886-612e-4667-a8dc-4b7135af26f0",
+  "name": "3-vam",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      }
+    }
+  },
+  "showViewerNavigation": true,
+  "homePageId": "0419bf82-b8b7-4d83-b219-dd93752adf29",
+  "versionType": "branch",
+  "appId": "b048a3cd-ded0-42c3-9cfa-266a28475a7b",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "ac15f5ce-ce4d-43ab-9b9e-18bc444f7631",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-14T05:53:23.659Z",
+  "updatedAt": "2025-11-14T05:53:23.597Z"
+}

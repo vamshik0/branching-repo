@@ -1,0 +1,16 @@
+{
+  "id": "b048a3cd-ded0-42c3-9cfa-266a28475a7b",
+  "name": "single-flow",
+  "type": "front-end",
+  "slug": "b048a3cd-ded0-42c3-9cfa-266a28475a7b",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2025-11-14T05:27:39.437Z",
+  "organizationId": "09940191-7562-4d87-bfe8-74b1a6276120",
+  "userId": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "icon": "server"
+}

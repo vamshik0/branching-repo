@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "single-flow",
+  "gitAppId": "b048a3cd-ded0-42c3-9cfa-266a28475a7b",
+  "branchName": "3-vam",
+  "gitVersionName": "3-vam",
+  "gitVersionId": "c381b886-612e-4667-a8dc-4b7135af26f0",
+  "tooljetVersion": "3.20.38-ee-lts",
+  "createdAt": "2025-11-14T05:53:55.024Z",
+  "updatedAt": "2025-11-14T05:53:55.024Z"
+}
