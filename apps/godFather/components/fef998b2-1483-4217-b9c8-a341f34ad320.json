@@ -1,0 +1,140 @@
+{
+  "id": "fef998b2-1483-4217-b9c8-a341f34ad320",
+  "name": "textinput1",
+  "type": "TextInput",
+  "pageId": "83c9bff5-ca02-474c-8191-132559bc34eb",
+  "parent": null,
+  "properties": {
+    "value": {
+      "value": ""
+    },
+    "label": {
+      "value": "Label"
+    },
+    "placeholder": {
+      "value": "Enter your input"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "accentColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "errTextColor": {
+      "value": "var(--cc-error-systemStatus)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "width": {
+      "value": "{{33}}"
+    },
+    "alignment": {
+      "value": "side"
+    },
+    "color": {
+      "value": "var(--cc-primary-text)"
+    },
+    "auto": {
+      "value": "{{true}}"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "icon": {
+      "value": "IconHome2"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "widthType": {
+      "value": "ofComponent"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "mandatory": {
+      "value": "{{false}}"
+    },
+    "regex": {
+      "value": ""
+    },
+    "minLength": {
+      "value": ""
+    },
+    "maxLength": {
+      "value": ""
+    },
+    "customRule": {
+      "value": ""
+    }
+  },
+  "createdAt": "2025-11-14T11:34:49.634Z",
+  "updatedAt": "2025-11-14T11:34:49.634Z",
+  "layouts": [
+    {
+      "id": "a2118c41-0833-44e9-a5a8-562c0820cab7",
+      "type": "mobile",
+      "top": 570,
+      "left": 18,
+      "width": 10,
+      "height": 40,
+      "componentId": "fef998b2-1483-4217-b9c8-a341f34ad320",
+      "dimensionUnit": "count",
+      "updatedAt": "2025-11-14T11:34:49.634Z"
+    },
+    {
+      "id": "16d2ad31-54f8-4a11-a57c-30fc87ba42d7",
+      "type": "desktop",
+      "top": 570,
+      "left": 18,
+      "width": 10,
+      "height": 40,
+      "componentId": "fef998b2-1483-4217-b9c8-a341f34ad320",
+      "dimensionUnit": "count",
+      "updatedAt": "2025-11-14T11:34:49.634Z"
+    }
+  ]
+}

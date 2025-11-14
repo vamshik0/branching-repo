@@ -1,0 +1,36 @@
+{
+  "id": "bcb05ccb-0c79-451d-9750-4ab25c099c65",
+  "name": "two",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      }
+    }
+  },
+  "showViewerNavigation": true,
+  "homePageId": "83c9bff5-ca02-474c-8191-132559bc34eb",
+  "versionType": "branch",
+  "appId": "8b813ca6-5a2a-4ae0-ae64-75086c56460a",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "2134e2b2-669c-4eff-bc3f-7fa4958e131e",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-14T11:34:38.673Z",
+  "updatedAt": "2025-11-14T11:34:38.630Z"
+}
