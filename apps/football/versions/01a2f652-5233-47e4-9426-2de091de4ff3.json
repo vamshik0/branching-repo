@@ -1,0 +1,29 @@
+{
+  "id": "01a2f652-5233-47e4-9426-2de091de4ff3",
+  "name": "nine",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "c49dc469-8344-41b8-9aca-a384f1ce124b",
+  "versionType": "branch",
+  "appId": "f367854c-662c-4a8c-beb4-9b3cab7a7cf2",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "e8d9f9f0-9f09-4c54-99a8-0a326fc9e87f",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-14T13:12:06.237Z",
+  "updatedAt": "2025-11-14T13:12:06.178Z"
+}
