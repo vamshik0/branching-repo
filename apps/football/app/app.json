@@ -1,0 +1,16 @@
+{
+  "id": "f367854c-662c-4a8c-beb4-9b3cab7a7cf2",
+  "name": "football",
+  "type": "front-end",
+  "slug": "f367854c-662c-4a8c-beb4-9b3cab7a7cf2",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2025-11-14T13:10:20.691Z",
+  "organizationId": "09940191-7562-4d87-bfe8-74b1a6276120",
+  "userId": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "icon": "home"
+}
