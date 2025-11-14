@@ -1,0 +1,29 @@
+{
+  "id": "479828fb-0253-414e-9481-0531b25fe622",
+  "name": "vk-1",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "200966f3-2d8e-424b-8960-9f0be13573d9",
+  "versionType": "branch",
+  "appId": "9854e4de-1d59-41cd-802a-f12a4610d303",
+  "currentEnvironmentId": "a01f578f-adc4-41b7-bf71-9790b7f378a9",
+  "promotedFrom": null,
+  "parentVersionId": "f8196c7e-2be0-4632-8dcd-3b1f621f7ca7",
+  "createdBy": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-14T10:26:40.085Z",
+  "updatedAt": "2025-11-14T10:26:40.058Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9854e4de-1d59-41cd-802a-f12a4610d303",
+  "name": "pulp fiction",
+  "type": "front-end",
+  "slug": "9854e4de-1d59-41cd-802a-f12a4610d303",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2025-11-14T10:18:21.893Z",
+  "organizationId": "09940191-7562-4d87-bfe8-74b1a6276120",
+  "userId": "8b22b86c-a532-41a1-a91c-f1195f88ece8",
+  "icon": "home"
+}
