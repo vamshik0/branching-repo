@@ -1,0 +1,10 @@
+{
+  "id": "4280704b-7ef1-4563-b09a-ad4a9a0542c2",
+  "organizationId": "09940191-7562-4d87-bfe8-74b1a6276120",
+  "name": "production",
+  "isDefault": true,
+  "priority": 3,
+  "enabled": true,
+  "createdAt": "2025-11-13T15:26:41.234Z",
+  "updatedAt": "2025-11-13T15:26:41.234Z"
+}
