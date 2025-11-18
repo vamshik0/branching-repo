@@ -1,0 +1,103 @@
+{
+  "id": "19a877e5-8580-48f4-a24f-cf10cef149f9",
+  "name": "button1",
+  "type": "Button",
+  "pageId": "20462cf2-7cc3-4e50-b58e-167af21ff7a3",
+  "parent": null,
+  "properties": {
+    "text": {
+      "value": "Button"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#FFFFFF"
+    },
+    "borderColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "loaderColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "icon": {
+      "value": "IconAlignBoxBottomLeft"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "type": {
+      "value": "primary"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "createdAt": "2025-11-18T11:19:31.452Z",
+  "updatedAt": "2025-11-18T11:19:31.452Z",
+  "layouts": [
+    {
+      "id": "291d1761-9302-456b-83d7-a4171cd8150e",
+      "type": "desktop",
+      "top": 490,
+      "left": 12,
+      "width": 4,
+      "height": 40,
+      "componentId": "19a877e5-8580-48f4-a24f-cf10cef149f9",
+      "dimensionUnit": "count",
+      "updatedAt": "2025-11-18T11:19:31.452Z"
+    },
+    {
+      "id": "841edf67-bc01-4b37-b76f-bdf48b1a06ab",
+      "type": "mobile",
+      "top": 490,
+      "left": 12,
+      "width": 4,
+      "height": 40,
+      "componentId": "19a877e5-8580-48f4-a24f-cf10cef149f9",
+      "dimensionUnit": "count",
+      "updatedAt": "2025-11-18T11:19:31.452Z"
+    }
+  ]
+}

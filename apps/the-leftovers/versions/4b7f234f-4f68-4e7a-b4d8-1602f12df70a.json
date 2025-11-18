@@ -1,0 +1,36 @@
+{
+  "id": "4b7f234f-4f68-4e7a-b4d8-1602f12df70a",
+  "name": "nora",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      }
+    }
+  },
+  "showViewerNavigation": true,
+  "homePageId": "20462cf2-7cc3-4e50-b58e-167af21ff7a3",
+  "versionType": "branch",
+  "appId": "80a4300a-d8a6-4504-a63f-e0b46fd0ae44",
+  "currentEnvironmentId": "e4e0ad8b-c288-4f96-8f88-0b2e7126e9d6",
+  "promotedFrom": null,
+  "parentVersionId": null,
+  "createdBy": null,
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-18T11:18:27.714Z",
+  "updatedAt": "2025-11-18T11:18:27.702Z"
+}
