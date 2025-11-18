@@ -1,0 +1,16 @@
+{
+  "id": "177a9857-97ff-4fca-81cc-1c6c62ccea62",
+  "name": "cricket",
+  "type": "front-end",
+  "slug": "177a9857-97ff-4fca-81cc-1c6c62ccea62",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2025-11-18T11:30:26.059Z",
+  "organizationId": "fbab4b57-6e17-4cd0-addc-10d1ecd289b3",
+  "userId": "11b192b1-f200-4708-8550-00ec8c3cec64",
+  "icon": "share"
+}

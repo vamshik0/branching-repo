@@ -1,0 +1,29 @@
+{
+  "id": "6cc6e3a7-e22f-436a-9fa7-274ae7e9ecec",
+  "name": "rohit",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "834ab466-ef03-4568-9a1e-38444d2361f2",
+  "versionType": "branch",
+  "appId": "177a9857-97ff-4fca-81cc-1c6c62ccea62",
+  "currentEnvironmentId": "e4e0ad8b-c288-4f96-8f88-0b2e7126e9d6",
+  "promotedFrom": null,
+  "parentVersionId": "a4c137d9-082a-4c04-b012-9bb91135fb31",
+  "createdBy": "11b192b1-f200-4708-8550-00ec8c3cec64",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-11-18T11:30:32.949Z",
+  "updatedAt": "2025-11-18T11:30:32.928Z"
+}
