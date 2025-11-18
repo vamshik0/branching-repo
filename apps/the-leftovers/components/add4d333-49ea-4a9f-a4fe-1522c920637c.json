@@ -1,8 +1,8 @@
 {
-  "id": "efe8086a-f37e-4791-8d23-d84632cfa37b",
+  "id": "add4d333-49ea-4a9f-a4fe-1522c920637c",
   "name": "buttongroup1",
   "type": "ButtonGroup",
-  "pageId": "8d683259-4552-46ac-82db-a6d33438b2c9",
+  "pageId": "04d09c9d-355b-4b72-a34e-8c629e649218",
   "parent": null,
   "properties": {
     "label": {
@@ -65,30 +65,30 @@
     }
   },
   "validation": {},
-  "createdAt": "2025-11-18T10:34:23.762Z",
-  "updatedAt": "2025-11-18T10:34:23.762Z",
+  "createdAt": "2025-11-18T10:37:19.159Z",
+  "updatedAt": "2025-11-18T10:37:19.159Z",
   "layouts": [
     {
-      "id": "a0aa8b49-7d12-46b6-b324-f6154c1a05d2",
+      "id": "c3bc3bde-fee2-4f45-9256-ca4cc24a102c",
       "type": "desktop",
       "top": 300,
       "left": 2,
       "width": 12,
       "height": 80,
-      "componentId": "efe8086a-f37e-4791-8d23-d84632cfa37b",
+      "componentId": "add4d333-49ea-4a9f-a4fe-1522c920637c",
       "dimensionUnit": "count",
-      "updatedAt": "2025-11-18T10:34:23.762Z"
+      "updatedAt": "2025-11-18T10:37:19.159Z"
     },
     {
-      "id": "86ceef6e-d99c-46c6-992b-1f5502e652e0",
+      "id": "d347fe4c-6121-4ef9-826b-00fcb6bd8c66",
       "type": "mobile",
       "top": 300,
       "left": 2,
       "width": 12,
       "height": 80,
-      "componentId": "efe8086a-f37e-4791-8d23-d84632cfa37b",
+      "componentId": "add4d333-49ea-4a9f-a4fe-1522c920637c",
       "dimensionUnit": "count",
-      "updatedAt": "2025-11-18T10:34:23.762Z"
+      "updatedAt": "2025-11-18T10:37:19.159Z"
     }
   ]
 }
