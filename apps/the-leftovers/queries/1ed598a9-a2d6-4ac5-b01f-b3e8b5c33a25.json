@@ -1,0 +1,57 @@
+{
+  "id": "1ed598a9-a2d6-4ac5-b01f-b3e8b5c33a25",
+  "name": "getStudents",
+  "options": {
+    "operation": "list_rows",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "table_id": "38e46ffb-d470-46e7-b009-10a58e0d5a4a",
+    "join_table": {
+      "joins": [
+        {
+          "id": 1763464193639,
+          "conditions": {
+            "operator": "AND",
+            "conditionsList": [
+              {
+                "operator": "=",
+                "leftField": {
+                  "table": "38e46ffb-d470-46e7-b009-10a58e0d5a4a"
+                }
+              }
+            ]
+          },
+          "joinType": "INNER"
+        }
+      ],
+      "from": {
+        "name": "38e46ffb-d470-46e7-b009-10a58e0d5a4a",
+        "type": "Table"
+      },
+      "fields": [
+        {
+          "name": "id",
+          "table": "38e46ffb-d470-46e7-b009-10a58e0d5a4a"
+        },
+        {
+          "name": "name",
+          "table": "38e46ffb-d470-46e7-b009-10a58e0d5a4a"
+        },
+        {
+          "name": "emp_id",
+          "table": "38e46ffb-d470-46e7-b009-10a58e0d5a4a"
+        },
+        {
+          "name": "role",
+          "table": "38e46ffb-d470-46e7-b009-10a58e0d5a4a"
+        }
+      ]
+    },
+    "list_rows": {},
+    "runOnPageLoad": true,
+    "method": "get"
+  },
+  "dataSourceId": "981f74ef-e510-460f-a614-3bbaf13079bf",
+  "appVersionId": "94a92792-12a4-46d0-8cd1-ca0e0eefb6f6",
+  "createdAt": "2025-11-18T11:09:43.203Z"
+}
