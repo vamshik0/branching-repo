@@ -1,0 +1,94 @@
+{
+  "id": "0626cc4d-d776-4865-9ff2-00d7634b059a",
+  "name": "buttongroup1",
+  "type": "ButtonGroup",
+  "pageId": "77d6398c-433a-46d0-8a9f-44ba8e9ffbbe",
+  "parent": null,
+  "properties": {
+    "label": {
+      "value": "Button group"
+    },
+    "defaultSelected": {
+      "value": "{{[1]}}"
+    },
+    "values": {
+      "value": "{{[1,2,3]}}"
+    },
+    "labels": {
+      "value": "{{[]}}"
+    },
+    "multiSelection": {
+      "value": "{{false}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "borderRadius": {
+      "value": "{{4}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "selectedTextColor": {
+      "value": "#FFFFFF"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "selectedBackgroundColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "alignment": {
+      "value": "left"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "createdAt": "2025-11-18T10:21:28.922Z",
+  "updatedAt": "2025-11-18T10:21:28.922Z",
+  "layouts": [
+    {
+      "id": "e7e11678-e156-49f8-b1ce-810df5638e79",
+      "type": "desktop",
+      "top": 300,
+      "left": 2,
+      "width": 12,
+      "height": 80,
+      "componentId": "0626cc4d-d776-4865-9ff2-00d7634b059a",
+      "dimensionUnit": "count",
+      "updatedAt": "2025-11-18T10:21:28.922Z"
+    },
+    {
+      "id": "331d2293-60d7-4296-b65c-2f3c5432a632",
+      "type": "mobile",
+      "top": 300,
+      "left": 2,
+      "width": 12,
+      "height": 80,
+      "componentId": "0626cc4d-d776-4865-9ff2-00d7634b059a",
+      "dimensionUnit": "count",
+      "updatedAt": "2025-11-18T10:21:28.922Z"
+    }
+  ]
+}
