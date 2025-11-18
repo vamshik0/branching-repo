@@ -1,6 +1,6 @@
 {
-  "id": "3c1a8703-40c8-4adc-97e6-2ceefa168148",
-  "name": "v1",
+  "id": "b75b35d1-2929-4257-8156-0818169cc536",
+  "name": "kevin",
   "definition": null,
   "globalSettings": {
     "appInMaintenance": false,
@@ -11,10 +11,17 @@
     "backgroundFxQuery": "",
     "appMode": "light"
   },
-  "pageSettings": null,
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      }
+    }
+  },
   "showViewerNavigation": true,
-  "homePageId": "ecc6f629-629e-4c65-896a-e98ae4015e35",
-  "versionType": "version",
+  "homePageId": "4b50e751-8419-4235-bcc7-661803ea93d4",
+  "versionType": "branch",
   "appId": "80a4300a-d8a6-4504-a63f-e0b46fd0ae44",
   "currentEnvironmentId": "e4e0ad8b-c288-4f96-8f88-0b2e7126e9d6",
   "promotedFrom": null,
@@ -24,6 +31,6 @@
   "description": null,
   "publishedAt": null,
   "releasedAt": null,
-  "createdAt": "2025-11-18T10:16:56.488Z",
-  "updatedAt": "2025-11-18T10:16:56.397Z"
+  "createdAt": "2025-11-18T10:22:11.287Z",
+  "updatedAt": "2025-11-18T10:22:11.263Z"
 }
