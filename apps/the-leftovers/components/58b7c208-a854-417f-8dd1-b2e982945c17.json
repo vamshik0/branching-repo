@@ -1,8 +1,8 @@
 {
-  "id": "d420977f-2a84-4552-9c5c-1d44bdb28690",
+  "id": "58b7c208-a854-417f-8dd1-b2e982945c17",
   "name": "table1",
   "type": "Table",
-  "pageId": "20462cf2-7cc3-4e50-b58e-167af21ff7a3",
+  "pageId": "61a1940e-6e6f-4011-a13e-24bd77f51cd4",
   "parent": null,
   "properties": {
     "title": {
@@ -18,7 +18,7 @@
       "value": "rawJson"
     },
     "data": {
-      "value": "{{queries.5653d960-ad7d-4e3e-a560-ee9ac28c9e3f.data}}"
+      "value": "{{queries.f6347ae8-a5cc-454d-9b33-2535a7a701ec.data}}"
     },
     "useDynamicColumn": {
       "value": "{{false}}"
@@ -206,30 +206,30 @@
     }
   },
   "validation": {},
-  "createdAt": "2025-11-18T11:18:27.702Z",
-  "updatedAt": "2025-11-18T11:18:27.702Z",
+  "createdAt": "2025-11-18T11:20:12.706Z",
+  "updatedAt": "2025-11-18T11:20:12.706Z",
   "layouts": [
     {
-      "id": "e710e39e-3146-485e-8355-7432fd7cbfd0",
+      "id": "0f504a14-7cea-4299-82c0-3e917bcdbc94",
       "type": "desktop",
       "top": 110,
       "left": 1,
       "width": 15,
       "height": 320,
-      "componentId": "d420977f-2a84-4552-9c5c-1d44bdb28690",
+      "componentId": "58b7c208-a854-417f-8dd1-b2e982945c17",
       "dimensionUnit": "count",
-      "updatedAt": "2025-11-18T11:18:27.702Z"
+      "updatedAt": "2025-11-18T11:20:12.706Z"
     },
     {
-      "id": "9c17b1ef-f492-4e8c-9ff1-f6d9340ddd61",
+      "id": "e6634e2f-7aa0-4823-9c59-1f82eafa0537",
       "type": "mobile",
       "top": 210,
       "left": 7,
       "width": 25,
       "height": 460,
-      "componentId": "d420977f-2a84-4552-9c5c-1d44bdb28690",
+      "componentId": "58b7c208-a854-417f-8dd1-b2e982945c17",
       "dimensionUnit": "count",
-      "updatedAt": "2025-11-18T11:18:27.702Z"
+      "updatedAt": "2025-11-18T11:20:12.706Z"
     }
   ]
 }

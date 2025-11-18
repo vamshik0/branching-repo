@@ -1,5 +1,5 @@
 {
-  "id": "5653d960-ad7d-4e3e-a560-ee9ac28c9e3f",
+  "id": "f6347ae8-a5cc-454d-9b33-2535a7a701ec",
   "name": "getStudents",
   "options": {
     "operation": "list_rows",
@@ -54,6 +54,6 @@
     "organization_id": "fbab4b57-6e17-4cd0-addc-10d1ecd289b3"
   },
   "dataSourceId": "981f74ef-e510-460f-a614-3bbaf13079bf",
-  "appVersionId": "4b7f234f-4f68-4e7a-b4d8-1602f12df70a",
-  "createdAt": "2025-11-18T11:18:27.702Z"
+  "appVersionId": "f1dc6376-3142-468c-9aae-f8f399c6bca0",
+  "createdAt": "2025-11-18T11:20:12.706Z"
 }

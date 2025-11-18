@@ -1,12 +1,12 @@
 {
-  "id": "04552728-6678-43bf-b86f-782644bbc57a",
+  "id": "1c525446-e3e5-4fb4-bcbb-674052bd38d4",
   "name": "textinput1",
   "type": "TextInput",
-  "pageId": "20462cf2-7cc3-4e50-b58e-167af21ff7a3",
+  "pageId": "61a1940e-6e6f-4011-a13e-24bd77f51cd4",
   "parent": null,
   "properties": {
     "value": {
-      "value": "{{queries.9adde9eb-05f8-41c2-8b3a-0c203981ed4a.data.message}}"
+      "value": "{{queries.56c3f46c-a3fe-4778-b232-6d724e46c82e.data.message}}"
     },
     "label": {
       "value": "Datasources"
@@ -107,30 +107,30 @@
       "value": ""
     }
   },
-  "createdAt": "2025-11-18T11:18:27.702Z",
-  "updatedAt": "2025-11-18T11:18:27.702Z",
+  "createdAt": "2025-11-18T11:20:12.706Z",
+  "updatedAt": "2025-11-18T11:20:12.706Z",
   "layouts": [
     {
-      "id": "ec7da6c2-c74b-4e46-ba55-8532cc6caafd",
+      "id": "d66006f9-6f59-41f9-b0ca-55c219ce0722",
       "type": "desktop",
       "top": 490,
       "left": 1,
       "width": 10,
       "height": 40,
-      "componentId": "04552728-6678-43bf-b86f-782644bbc57a",
+      "componentId": "1c525446-e3e5-4fb4-bcbb-674052bd38d4",
       "dimensionUnit": "count",
-      "updatedAt": "2025-11-18T11:18:27.702Z"
+      "updatedAt": "2025-11-18T11:20:12.706Z"
     },
     {
-      "id": "aa6cd910-4315-418a-b557-7312ed04b85f",
+      "id": "d9064135-661b-41e5-aeba-0be16af150c0",
       "type": "mobile",
       "top": 490,
       "left": 1,
       "width": 10,
       "height": 40,
-      "componentId": "04552728-6678-43bf-b86f-782644bbc57a",
+      "componentId": "1c525446-e3e5-4fb4-bcbb-674052bd38d4",
       "dimensionUnit": "count",
-      "updatedAt": "2025-11-18T11:18:27.702Z"
+      "updatedAt": "2025-11-18T11:20:12.706Z"
     }
   ]
 }
