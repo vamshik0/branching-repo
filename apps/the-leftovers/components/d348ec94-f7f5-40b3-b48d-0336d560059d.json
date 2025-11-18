@@ -1,9 +1,9 @@
 {
-  "id": "7bf3318b-5df0-4c58-a15c-6db6301b0ac2",
+  "id": "d348ec94-f7f5-40b3-b48d-0336d560059d",
   "name": "text1",
   "type": "Text",
-  "pageId": "4b50e751-8419-4235-bcc7-661803ea93d4",
-  "parent": "f4930599-48ec-4f21-8b29-149e1bb8bf25-header",
+  "pageId": "487950ca-fbf1-409e-91ab-78cae2b0b454",
+  "parent": "43fb7c1f-9619-4d76-805c-4feea09287c6-header",
   "properties": {
     "textFormat": {
       "value": "html"
@@ -50,12 +50,6 @@
     "loadingState": {
       "value": "{{false}}"
     },
-    "disabledState": {
-      "value": "{{false}}"
-    },
-    "visibility": {
-      "value": "{{true}}"
-    },
     "fontWeight": {
       "value": "bold"
     },
@@ -69,11 +63,7 @@
       "value": "0px 0px 0px 0px #00000090"
     }
   },
-  "generalStyles": {
-    "boxShadow": {
-      "value": "0px 0px 0px 0px #00000040"
-    }
-  },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -83,30 +73,30 @@
     }
   },
   "validation": {},
-  "createdAt": "2025-11-18T10:22:49.383Z",
-  "updatedAt": "2025-11-18T10:22:49.383Z",
+  "createdAt": "2025-11-18T10:26:54.511Z",
+  "updatedAt": "2025-11-18T10:26:54.511Z",
   "layouts": [
     {
-      "id": "fb7d13cd-3080-491f-801c-e26f0b9a13e3",
+      "id": "7964b26b-5735-471e-9951-79d913cb4d50",
       "type": "desktop",
       "top": 10,
       "left": 1,
       "width": 13.953488372093023,
       "height": 40,
-      "componentId": "7bf3318b-5df0-4c58-a15c-6db6301b0ac2",
+      "componentId": "d348ec94-f7f5-40b3-b48d-0336d560059d",
       "dimensionUnit": "count",
-      "updatedAt": "2025-11-18T10:22:49.383Z"
+      "updatedAt": "2025-11-18T10:26:54.511Z"
     },
     {
-      "id": "97cc4ab6-57a5-4348-a9d4-d0ba17607601",
+      "id": "fe66ca21-378f-498f-8004-f50496b90834",
       "type": "mobile",
       "top": 10,
       "left": 1,
       "width": 13.953488372093023,
       "height": 40,
-      "componentId": "7bf3318b-5df0-4c58-a15c-6db6301b0ac2",
+      "componentId": "d348ec94-f7f5-40b3-b48d-0336d560059d",
       "dimensionUnit": "count",
-      "updatedAt": "2025-11-18T10:22:49.383Z"
+      "updatedAt": "2025-11-18T10:26:54.511Z"
     }
   ]
 }

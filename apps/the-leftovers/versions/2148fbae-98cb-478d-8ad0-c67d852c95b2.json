@@ -1,6 +1,6 @@
 {
-  "id": "b75b35d1-2929-4257-8156-0818169cc536",
-  "name": "kevin",
+  "id": "2148fbae-98cb-478d-8ad0-c67d852c95b2",
+  "name": "v1",
   "definition": null,
   "globalSettings": {
     "appInMaintenance": false,
@@ -20,8 +20,8 @@
     }
   },
   "showViewerNavigation": true,
-  "homePageId": "4b50e751-8419-4235-bcc7-661803ea93d4",
-  "versionType": "branch",
+  "homePageId": "487950ca-fbf1-409e-91ab-78cae2b0b454",
+  "versionType": "version",
   "appId": "80a4300a-d8a6-4504-a63f-e0b46fd0ae44",
   "currentEnvironmentId": "e4e0ad8b-c288-4f96-8f88-0b2e7126e9d6",
   "promotedFrom": null,
@@ -31,6 +31,6 @@
   "description": null,
   "publishedAt": null,
   "releasedAt": null,
-  "createdAt": "2025-11-18T10:22:11.287Z",
-  "updatedAt": "2025-11-18T10:22:11.263Z"
+  "createdAt": "2025-11-18T10:26:54.526Z",
+  "updatedAt": "2025-11-18T10:26:54.511Z"
 }
