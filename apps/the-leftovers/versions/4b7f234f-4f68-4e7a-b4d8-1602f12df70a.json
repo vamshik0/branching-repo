@@ -1,5 +1,5 @@
 {
-  "id": "94a92792-12a4-46d0-8cd1-ca0e0eefb6f6",
+  "id": "4b7f234f-4f68-4e7a-b4d8-1602f12df70a",
   "name": "nora",
   "definition": null,
   "globalSettings": {
@@ -20,17 +20,17 @@
     }
   },
   "showViewerNavigation": true,
-  "homePageId": "8d683259-4552-46ac-82db-a6d33438b2c9",
+  "homePageId": "20462cf2-7cc3-4e50-b58e-167af21ff7a3",
   "versionType": "branch",
   "appId": "80a4300a-d8a6-4504-a63f-e0b46fd0ae44",
   "currentEnvironmentId": "e4e0ad8b-c288-4f96-8f88-0b2e7126e9d6",
   "promotedFrom": null,
-  "parentVersionId": "66bfa766-6c58-4b93-ba70-49f7aaa337c4",
-  "createdBy": "11b192b1-f200-4708-8550-00ec8c3cec64",
+  "parentVersionId": null,
+  "createdBy": null,
   "status": "DRAFT",
   "description": null,
   "publishedAt": null,
   "releasedAt": null,
-  "createdAt": "2025-11-18T10:34:23.779Z",
-  "updatedAt": "2025-11-18T10:34:23.762Z"
+  "createdAt": "2025-11-18T11:18:27.714Z",
+  "updatedAt": "2025-11-18T11:18:27.702Z"
 }

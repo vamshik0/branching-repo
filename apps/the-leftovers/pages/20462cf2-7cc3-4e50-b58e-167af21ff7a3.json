@@ -1,20 +1,20 @@
 {
-  "id": "8d683259-4552-46ac-82db-a6d33438b2c9",
+  "id": "20462cf2-7cc3-4e50-b58e-167af21ff7a3",
   "name": "Home",
   "handle": "home",
   "index": 1,
   "disabled": false,
   "hidden": false,
   "icon": null,
-  "createdAt": "2025-11-18T10:34:23.762Z",
-  "updatedAt": "2025-11-18T10:34:23.762Z",
+  "createdAt": "2025-11-18T11:18:27.702Z",
+  "updatedAt": "2025-11-18T11:18:27.702Z",
   "autoComputeLayout": true,
-  "appVersionId": "94a92792-12a4-46d0-8cd1-ca0e0eefb6f6",
+  "appVersionId": "4b7f234f-4f68-4e7a-b4d8-1602f12df70a",
   "pageGroupIndex": 1,
   "pageGroupId": null,
   "isPageGroup": false,
   "url": null,
   "openIn": "new_tab",
   "type": "default",
-  "appId": "80a4300a-d8a6-4504-a63f-e0b46fd0ae44"
+  "appId": ""
 }

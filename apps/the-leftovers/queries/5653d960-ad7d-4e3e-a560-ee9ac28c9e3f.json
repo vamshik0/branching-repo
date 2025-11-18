@@ -1,5 +1,5 @@
 {
-  "id": "1ed598a9-a2d6-4ac5-b01f-b3e8b5c33a25",
+  "id": "5653d960-ad7d-4e3e-a560-ee9ac28c9e3f",
   "name": "getStudents",
   "options": {
     "operation": "list_rows",
@@ -17,7 +17,8 @@
                 "operator": "=",
                 "leftField": {
                   "table": "38e46ffb-d470-46e7-b009-10a58e0d5a4a"
-                }
+                },
+                "rightField": {}
               }
             ]
           },
@@ -49,9 +50,10 @@
     },
     "list_rows": {},
     "runOnPageLoad": true,
-    "method": "get"
+    "method": "get",
+    "organization_id": "fbab4b57-6e17-4cd0-addc-10d1ecd289b3"
   },
   "dataSourceId": "981f74ef-e510-460f-a614-3bbaf13079bf",
-  "appVersionId": "94a92792-12a4-46d0-8cd1-ca0e0eefb6f6",
-  "createdAt": "2025-11-18T11:09:43.203Z"
+  "appVersionId": "4b7f234f-4f68-4e7a-b4d8-1602f12df70a",
+  "createdAt": "2025-11-18T11:18:27.702Z"
 }
