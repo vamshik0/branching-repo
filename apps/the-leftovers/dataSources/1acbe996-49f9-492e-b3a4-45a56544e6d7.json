@@ -1,0 +1,12 @@
+{
+  "id": "1acbe996-49f9-492e-b3a4-45a56544e6d7",
+  "name": "apiCall",
+  "kind": "restapi",
+  "type": "default",
+  "pluginId": null,
+  "appVersionId": null,
+  "organizationId": "fbab4b57-6e17-4cd0-addc-10d1ecd289b3",
+  "scope": "global",
+  "createdAt": "2025-11-18T11:10:43.091Z",
+  "updatedAt": "2025-11-18T11:11:36.495Z"
+}

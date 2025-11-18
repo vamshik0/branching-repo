@@ -1,0 +1,21 @@
+{
+  "id": "f3a98554-788b-4e82-97c5-2e9ce416c96f",
+  "name": "apiCall",
+  "options": {
+    "method": "get",
+    "url": "/{{globals.environment.name}}",
+    "url_params": [],
+    "headers": [],
+    "cookies": [],
+    "body": [],
+    "json_body": null,
+    "body_toggle": false,
+    "retry_network_errors": true,
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "runOnPageLoad": true
+  },
+  "dataSourceId": "1acbe996-49f9-492e-b3a4-45a56544e6d7",
+  "appVersionId": "94a92792-12a4-46d0-8cd1-ca0e0eefb6f6",
+  "createdAt": "2025-11-18T11:12:09.930Z"
+}
