@@ -1,10 +1,10 @@
 {
   "c5fbc145-8fac-4bea-bd8d-a8ef9d839b0d": {
     "gitAppName": "pulp-fiction",
-    "lastCommitMessage": "1 form",
-    "gitVersionId": "62407acd-6b14-4fb7-85e6-70f48e3ad7cb",
-    "lastpushDate": "2025-12-01T11:14:11.316Z",
-    "gitVersionName": "v1_2",
+    "lastCommitMessage": "Version v1_2 is renamed to v1",
+    "gitVersionId": "2d58683d-41d4-4ec0-acc3-42e58ba5ba4e",
+    "lastpushDate": "2025-12-01T12:57:08.983Z",
+    "gitVersionName": "v1",
     "lastCommitUser": "dev "
   }
 }
