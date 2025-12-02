@@ -11,7 +11,7 @@
           "isMaintenanceOn": false,
           "icon": "table",
           "organizationId": "d98abc10-1b20-47ec-8220-185eab84f61d",
-          "currentVersionId": null,
+          "currentVersionId": "9d5612f7-a0c7-4c65-be95-06dc7123468c",
           "userId": "52e4ec76-fde4-41b0-be7f-2cf7b2829d65",
           "workflowApiToken": null,
           "workflowEnabled": false,
@@ -21,11 +21,11 @@
           "aiGenerationMetadata": null,
           "createdAt": "2025-12-02T14:16:45.972Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-12-02T14:16:45.965Z",
+          "updatedAt": "2025-12-02T14:32:29.578Z",
           "__loaded": true,
           "editingVersion": {
-            "id": "9d5612f7-a0c7-4c65-be95-06dc7123468c",
-            "name": "v1",
+            "id": "dc236655-6f4f-404a-98dd-ab1e64de5fed",
+            "name": "v2",
             "definition": null,
             "globalSettings": {
               "appInMaintenance": false,
@@ -38,19 +38,160 @@
             },
             "pageSettings": null,
             "showViewerNavigation": true,
-            "homePageId": "e80d4b77-9825-4fa1-9f7f-e16eaf2da348",
+            "homePageId": "39a44f47-9e40-4afd-a406-b5aa2bf06bbf",
             "appId": "afe1e0a7-dbef-4e7d-beb5-da3ccc2f2d99",
             "currentEnvironmentId": "2b1efceb-418d-4877-885e-ba2dc0f151c5",
             "promotedFrom": null,
-            "parentVersionId": null,
-            "status": "DRAFT",
-            "description": null,
+            "parentVersionId": "9d5612f7-a0c7-4c65-be95-06dc7123468c",
+            "status": "PUBLISHED",
+            "description": "second",
             "publishedAt": null,
             "releasedAt": null,
-            "createdAt": "2025-12-02T14:16:46.280Z",
-            "updatedAt": "2025-12-02T14:16:45.965Z"
+            "createdAt": "2025-12-02T14:31:58.502Z",
+            "updatedAt": "2025-12-02T14:35:44.115Z"
           },
-          "components": [],
+          "components": [
+            {
+              "id": "21fadc4d-abe0-4656-bee0-f95961fea6ed",
+              "name": "textinput1",
+              "type": "TextInput",
+              "pageId": "e80d4b77-9825-4fa1-9f7f-e16eaf2da348",
+              "parent": null,
+              "properties": {
+                "value": {
+                  "value": "{{globals.environment.name}} - {{globals.appVersion.name}}"
+                },
+                "label": {
+                  "value": "Label"
+                },
+                "placeholder": {
+                  "value": "Enter your input"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "var(--cc-primary-text)"
+                },
+                "borderColor": {
+                  "value": "var(--cc-default-border)"
+                },
+                "accentColor": {
+                  "value": "var(--cc-primary-brand)"
+                },
+                "errTextColor": {
+                  "value": "var(--cc-error-systemStatus)"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "backgroundColor": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "iconColor": {
+                  "value": "var(--cc-default-icon)"
+                },
+                "direction": {
+                  "value": "left"
+                },
+                "width": {
+                  "value": "{{33}}"
+                },
+                "alignment": {
+                  "value": "side"
+                },
+                "color": {
+                  "value": "var(--cc-primary-text)"
+                },
+                "auto": {
+                  "value": "{{true}}"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                },
+                "icon": {
+                  "value": "IconHome2"
+                },
+                "iconVisibility": {
+                  "value": false
+                },
+                "widthType": {
+                  "value": "ofComponent"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {
+                "mandatory": {
+                  "value": "{{false}}"
+                },
+                "regex": {
+                  "value": ""
+                },
+                "minLength": {
+                  "value": ""
+                },
+                "maxLength": {
+                  "value": ""
+                },
+                "customRule": {
+                  "value": ""
+                }
+              },
+              "createdAt": "2025-12-02T14:31:32.579Z",
+              "updatedAt": "2025-12-02T14:31:42.502Z",
+              "layouts": [
+                {
+                  "id": "09c7e6cf-ddc7-46b3-9e09-fe812bcc00d1",
+                  "type": "desktop",
+                  "top": 210,
+                  "left": 2,
+                  "width": 10,
+                  "height": 40,
+                  "componentId": "21fadc4d-abe0-4656-bee0-f95961fea6ed",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-12-02T14:31:32.579Z"
+                },
+                {
+                  "id": "36028d74-e99b-4b2f-888e-2eb3d6bebcc9",
+                  "type": "mobile",
+                  "top": 210,
+                  "left": 2,
+                  "width": 10,
+                  "height": 40,
+                  "componentId": "21fadc4d-abe0-4656-bee0-f95961fea6ed",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-12-02T14:31:32.579Z"
+                }
+              ]
+            }
+          ],
           "pages": [
             {
               "id": "e80d4b77-9825-4fa1-9f7f-e16eaf2da348",
@@ -94,15 +235,15 @@
               "showViewerNavigation": true,
               "homePageId": "e80d4b77-9825-4fa1-9f7f-e16eaf2da348",
               "appId": "afe1e0a7-dbef-4e7d-beb5-da3ccc2f2d99",
-              "currentEnvironmentId": "2b1efceb-418d-4877-885e-ba2dc0f151c5",
+              "currentEnvironmentId": "8a027c8c-28c4-4a31-bc61-3ec354a7fbe2",
               "promotedFrom": null,
               "parentVersionId": null,
-              "status": "DRAFT",
-              "description": null,
+              "status": "PUBLISHED",
+              "description": "",
               "publishedAt": null,
               "releasedAt": null,
               "createdAt": "2025-12-02T14:16:46.280Z",
-              "updatedAt": "2025-12-02T14:16:45.965Z"
+              "updatedAt": "2025-12-02T14:32:24.116Z"
             }
           ],
           "appEnvironments": [
