@@ -1,0 +1,152 @@
+{
+  "app": [
+    {
+      "definition": {
+        "appV2": {
+          "id": "17d433ca-d6e1-4316-bd1d-bbb04c812b5d",
+          "type": "front-end",
+          "name": "hitchcock",
+          "slug": "17d433ca-d6e1-4316-bd1d-bbb04c812b5d",
+          "isPublic": false,
+          "isMaintenanceOn": false,
+          "icon": "server",
+          "organizationId": "34f4456d-81d7-4d69-b5d3-43e309664838",
+          "currentVersionId": null,
+          "userId": "b7d10b9a-8e4f-4452-bad8-7acd25764168",
+          "workflowApiToken": null,
+          "workflowEnabled": false,
+          "isInitialisedFromPrompt": false,
+          "appGeneratedFromPrompt": false,
+          "appBuilderMode": "visual",
+          "aiGenerationMetadata": null,
+          "createdAt": "2025-12-02T12:10:29.543Z",
+          "creationMode": "DEFAULT",
+          "updatedAt": "2025-12-02T12:10:29.535Z",
+          "__loaded": true,
+          "editingVersion": {
+            "id": "ad577df9-5267-4846-8f0f-29b44cc89d20",
+            "name": "v1",
+            "definition": null,
+            "globalSettings": {
+              "appInMaintenance": false,
+              "canvasMaxWidth": 100,
+              "canvasMaxWidthType": "%",
+              "canvasMaxHeight": 2400,
+              "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+              "backgroundFxQuery": "",
+              "appMode": "auto"
+            },
+            "pageSettings": null,
+            "showViewerNavigation": true,
+            "homePageId": "a1934a98-d4e1-4d04-b76d-cd45860f880a",
+            "appId": "17d433ca-d6e1-4316-bd1d-bbb04c812b5d",
+            "currentEnvironmentId": "b09c820d-30b9-4f56-ac65-16f0cdeea9e7",
+            "promotedFrom": null,
+            "parentVersionId": null,
+            "status": "DRAFT",
+            "description": null,
+            "publishedAt": null,
+            "releasedAt": null,
+            "createdAt": "2025-12-02T12:10:29.881Z",
+            "updatedAt": "2025-12-02T12:10:38.756Z"
+          },
+          "components": [],
+          "pages": [
+            {
+              "id": "a1934a98-d4e1-4d04-b76d-cd45860f880a",
+              "name": "Home",
+              "handle": "home",
+              "index": 1,
+              "disabled": null,
+              "hidden": null,
+              "icon": null,
+              "createdAt": "2025-12-02T12:10:29.535Z",
+              "updatedAt": "2025-12-02T12:10:32.149Z",
+              "autoComputeLayout": true,
+              "appVersionId": "ad577df9-5267-4846-8f0f-29b44cc89d20",
+              "pageGroupIndex": 1,
+              "pageGroupId": null,
+              "isPageGroup": false,
+              "url": null,
+              "openIn": "new_tab",
+              "type": "default",
+              "appId": ""
+            }
+          ],
+          "events": [],
+          "dataQueries": [],
+          "dataSources": [],
+          "appVersions": [
+            {
+              "id": "ad577df9-5267-4846-8f0f-29b44cc89d20",
+              "name": "v1",
+              "definition": null,
+              "globalSettings": {
+                "appInMaintenance": false,
+                "canvasMaxWidth": 100,
+                "canvasMaxWidthType": "%",
+                "canvasMaxHeight": 2400,
+                "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+                "backgroundFxQuery": "",
+                "appMode": "auto"
+              },
+              "pageSettings": null,
+              "showViewerNavigation": true,
+              "homePageId": "a1934a98-d4e1-4d04-b76d-cd45860f880a",
+              "appId": "17d433ca-d6e1-4316-bd1d-bbb04c812b5d",
+              "currentEnvironmentId": "b09c820d-30b9-4f56-ac65-16f0cdeea9e7",
+              "promotedFrom": null,
+              "parentVersionId": null,
+              "status": "DRAFT",
+              "description": null,
+              "publishedAt": null,
+              "releasedAt": null,
+              "createdAt": "2025-12-02T12:10:29.881Z",
+              "updatedAt": "2025-12-02T12:10:38.756Z"
+            }
+          ],
+          "appEnvironments": [
+            {
+              "id": "b09c820d-30b9-4f56-ac65-16f0cdeea9e7",
+              "organizationId": "34f4456d-81d7-4d69-b5d3-43e309664838",
+              "name": "development",
+              "isDefault": false,
+              "priority": 1,
+              "enabled": true,
+              "createdAt": "2025-12-02T10:33:41.177Z",
+              "updatedAt": "2025-12-02T10:33:41.177Z"
+            },
+            {
+              "id": "0aa9eb81-1f66-4363-90bc-42f91f700ec0",
+              "organizationId": "34f4456d-81d7-4d69-b5d3-43e309664838",
+              "name": "staging",
+              "isDefault": false,
+              "priority": 2,
+              "enabled": true,
+              "createdAt": "2025-12-02T10:33:41.198Z",
+              "updatedAt": "2025-12-02T10:33:41.198Z"
+            },
+            {
+              "id": "f61c28e3-cf43-40a7-ae94-0ed3b7462c59",
+              "organizationId": "34f4456d-81d7-4d69-b5d3-43e309664838",
+              "name": "production",
+              "isDefault": true,
+              "priority": 3,
+              "enabled": true,
+              "createdAt": "2025-12-02T10:33:41.206Z",
+              "updatedAt": "2025-12-02T10:33:41.206Z"
+            }
+          ],
+          "dataSourceOptions": [],
+          "schemaDetails": {
+            "multiPages": true,
+            "multiEnv": true,
+            "globalDataSources": true
+          },
+          "modules": []
+        }
+      }
+    }
+  ],
+  "tooljet_version": "3.20.45-cloud-lts"
+}
