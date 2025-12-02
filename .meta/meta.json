@@ -49,10 +49,10 @@
   },
   "17d433ca-d6e1-4316-bd1d-bbb04c812b5d": {
     "gitAppName": "hitchcock",
-    "lastCommitMessage": "1 chart",
-    "gitVersionId": "f7e8c438-3949-422b-a4f9-7f976ba6909d",
-    "lastpushDate": "2025-12-02T12:38:42.879Z",
-    "gitVersionName": "v1_1",
+    "lastCommitMessage": " v1 Version of app hitchcock promoted from development to staging",
+    "gitVersionId": "ad577df9-5267-4846-8f0f-29b44cc89d20",
+    "lastpushDate": "2025-12-02T12:59:23.331Z",
+    "gitVersionName": "v1",
     "lastCommitUser": "vamshi "
   }
 }
