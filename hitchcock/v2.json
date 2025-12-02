@@ -47,7 +47,7 @@
             "showViewerNavigation": true,
             "homePageId": "54efe323-f6ad-4b39-9793-2d60e6801241",
             "appId": "17d433ca-d6e1-4316-bd1d-bbb04c812b5d",
-            "currentEnvironmentId": "b09c820d-30b9-4f56-ac65-16f0cdeea9e7",
+            "currentEnvironmentId": "0aa9eb81-1f66-4363-90bc-42f91f700ec0",
             "promotedFrom": null,
             "parentVersionId": null,
             "status": "PUBLISHED",
@@ -55,14 +55,14 @@
             "publishedAt": null,
             "releasedAt": null,
             "createdAt": "2025-12-02T12:39:17.581Z",
-            "updatedAt": "2025-12-02T13:00:04.127Z"
+            "updatedAt": "2025-12-02T13:00:10.677Z"
           },
           "components": [
             {
-              "id": "e554f9c0-240b-45cf-a31f-6a0ef82e24c1",
+              "id": "7898c925-6d7b-4440-81c3-c0a68d0f7a3b",
               "name": "table1",
               "type": "Table",
-              "pageId": "a1934a98-d4e1-4d04-b76d-cd45860f880a",
+              "pageId": "54efe323-f6ad-4b39-9793-2d60e6801241",
               "parent": null,
               "properties": {
                 "title": {
@@ -347,47 +347,147 @@
                 }
               },
               "validation": {},
-              "createdAt": "2025-12-02T12:37:01.216Z",
-              "updatedAt": "2025-12-02T12:59:31.954Z",
+              "createdAt": "2025-12-02T12:39:16.701Z",
+              "updatedAt": "2025-12-02T13:00:13.171Z",
               "layouts": [
                 {
-                  "id": "aaae87b5-60f9-435d-a59d-847d273f1a22",
+                  "id": "1f2e8f59-b9d4-4c3e-91ee-b3873b3a4cc7",
                   "type": "mobile",
                   "top": 160,
                   "left": 2,
                   "width": 25,
                   "height": 460,
-                  "componentId": "e554f9c0-240b-45cf-a31f-6a0ef82e24c1",
+                  "componentId": "7898c925-6d7b-4440-81c3-c0a68d0f7a3b",
                   "dimensionUnit": "count",
-                  "updatedAt": "2025-12-02T12:37:01.216Z"
+                  "updatedAt": "2025-12-02T12:39:16.701Z"
                 },
                 {
-                  "id": "c6dc5306-d3db-4ad2-8795-9bbf95c0de60",
+                  "id": "d3978a8e-4b79-45e2-9f81-5248690e953d",
                   "type": "desktop",
                   "top": 160,
                   "left": 2,
                   "width": 16,
                   "height": 460,
-                  "componentId": "e554f9c0-240b-45cf-a31f-6a0ef82e24c1",
+                  "componentId": "7898c925-6d7b-4440-81c3-c0a68d0f7a3b",
                   "dimensionUnit": "count",
-                  "updatedAt": "2025-12-02T12:37:02.224Z"
+                  "updatedAt": "2025-12-02T12:39:16.701Z"
+                }
+              ]
+            },
+            {
+              "id": "f581809c-fda7-49f4-8556-7fa56957886c",
+              "name": "chart1",
+              "type": "Chart",
+              "pageId": "54efe323-f6ad-4b39-9793-2d60e6801241",
+              "parent": null,
+              "properties": {
+                "title": {
+                  "value": "This title can be changed"
+                },
+                "markerColor": {
+                  "value": "var(--cc-primary-brand)"
+                },
+                "showAxes": {
+                  "value": "{{true}}"
+                },
+                "showGridLines": {
+                  "value": "{{true}}"
+                },
+                "plotFromJson": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "barmode": {
+                  "value": "group"
+                },
+                "jsonDescription": {
+                  "value": "{\n              \"data\": [\n                  {\n                      \"x\": [\n                          \"Jan\",\n                          \"Feb\",\n                          \"Mar\"\n                      ],\n                      \"y\": [\n                          100,\n                          80,\n                          40\n                      ],\n                      \"type\": \"bar\"\n                  }\n              ]\n          }"
+                },
+                "type": {
+                  "value": "line"
+                },
+                "data": {
+                  "value": "[\n    { \"x\": \"Jan\", \"y\": 100},\n    { \"x\": \"Feb\", \"y\": 80},\n    { \"x\": \"Mar\", \"y\": 40}\n  ]"
+                }
+              },
+              "general": {},
+              "styles": {
+                "backgroundColor": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "padding": {
+                  "value": "50"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "borderColor": {
+                  "value": "var(--cc-default-border)"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2025-12-02T12:39:16.701Z",
+              "updatedAt": "2025-12-02T12:39:16.701Z",
+              "layouts": [
+                {
+                  "id": "f55888bc-72b7-489a-85bd-6d0ef951eac9",
+                  "type": "desktop",
+                  "top": 670,
+                  "left": 2,
+                  "width": 20,
+                  "height": 400,
+                  "componentId": "f581809c-fda7-49f4-8556-7fa56957886c",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-12-02T12:39:16.701Z"
+                },
+                {
+                  "id": "34ca8682-9d5b-44c4-9727-4c827883ac28",
+                  "type": "mobile",
+                  "top": 670,
+                  "left": 2,
+                  "width": 20,
+                  "height": 400,
+                  "componentId": "f581809c-fda7-49f4-8556-7fa56957886c",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-12-02T12:39:16.701Z"
                 }
               ]
             }
           ],
           "pages": [
             {
-              "id": "a1934a98-d4e1-4d04-b76d-cd45860f880a",
+              "id": "54efe323-f6ad-4b39-9793-2d60e6801241",
               "name": "Home",
               "handle": "home",
               "index": 1,
-              "disabled": null,
-              "hidden": null,
+              "disabled": false,
+              "hidden": false,
               "icon": null,
-              "createdAt": "2025-12-02T12:10:29.535Z",
-              "updatedAt": "2025-12-02T12:10:32.149Z",
+              "createdAt": "2025-12-02T12:39:16.701Z",
+              "updatedAt": "2025-12-02T12:39:16.701Z",
               "autoComputeLayout": true,
-              "appVersionId": "ad577df9-5267-4846-8f0f-29b44cc89d20",
+              "appVersionId": "634f9169-5c73-4bb0-a778-1f81ee0b583b",
               "pageGroupIndex": 1,
               "pageGroupId": null,
               "isPageGroup": false,
@@ -400,17 +500,18 @@
           "events": [],
           "dataQueries": [
             {
-              "id": "4f77ad90-173d-48aa-8e17-7d40bc89ba05",
+              "id": "7779bb1e-5ecb-45ce-9cb8-5eed164eef61",
               "name": "tooljetdb1",
               "options": {
                 "operation": "",
                 "transformationLanguage": "javascript",
-                "enableTransformation": false
+                "enableTransformation": false,
+                "organization_id": "34f4456d-81d7-4d69-b5d3-43e309664838"
               },
               "dataSourceId": "7b97a239-b763-46c7-8d27-024579060d36",
-              "appVersionId": "ad577df9-5267-4846-8f0f-29b44cc89d20",
-              "createdAt": "2025-12-02T12:37:05.660Z",
-              "updatedAt": "2025-12-02T12:37:05.660Z"
+              "appVersionId": "634f9169-5c73-4bb0-a778-1f81ee0b583b",
+              "createdAt": "2025-12-02T12:39:16.701Z",
+              "updatedAt": "2025-12-02T12:39:16.701Z"
             }
           ],
           "dataSources": [
@@ -429,8 +530,8 @@
           ],
           "appVersions": [
             {
-              "id": "ad577df9-5267-4846-8f0f-29b44cc89d20",
-              "name": "v1",
+              "id": "634f9169-5c73-4bb0-a778-1f81ee0b583b",
+              "name": "v2",
               "definition": null,
               "globalSettings": {
                 "appInMaintenance": false,
@@ -441,19 +542,26 @@
                 "backgroundFxQuery": "",
                 "appMode": "auto"
               },
-              "pageSettings": null,
+              "pageSettings": {
+                "properties": {
+                  "disableMenu": {
+                    "value": "{{false}}",
+                    "fxActive": false
+                  }
+                }
+              },
               "showViewerNavigation": true,
-              "homePageId": "a1934a98-d4e1-4d04-b76d-cd45860f880a",
+              "homePageId": "54efe323-f6ad-4b39-9793-2d60e6801241",
               "appId": "17d433ca-d6e1-4316-bd1d-bbb04c812b5d",
-              "currentEnvironmentId": "f61c28e3-cf43-40a7-ae94-0ed3b7462c59",
+              "currentEnvironmentId": "0aa9eb81-1f66-4363-90bc-42f91f700ec0",
               "promotedFrom": null,
               "parentVersionId": null,
               "status": "PUBLISHED",
-              "description": "1 table",
+              "description": "",
               "publishedAt": null,
               "releasedAt": null,
-              "createdAt": "2025-12-02T12:10:29.881Z",
-              "updatedAt": "2025-12-02T12:59:28.940Z"
+              "createdAt": "2025-12-02T12:39:17.581Z",
+              "updatedAt": "2025-12-02T13:00:10.677Z"
             }
           ],
           "appEnvironments": [
