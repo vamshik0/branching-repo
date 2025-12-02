@@ -11,7 +11,7 @@
           "isMaintenanceOn": false,
           "icon": "server",
           "organizationId": "34f4456d-81d7-4d69-b5d3-43e309664838",
-          "currentVersionId": null,
+          "currentVersionId": "ad577df9-5267-4846-8f0f-29b44cc89d20",
           "userId": "b7d10b9a-8e4f-4452-bad8-7acd25764168",
           "workflowApiToken": null,
           "workflowEnabled": false,
@@ -21,11 +21,11 @@
           "aiGenerationMetadata": null,
           "createdAt": "2025-12-02T12:10:29.543Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-12-02T12:39:17.568Z",
+          "updatedAt": "2025-12-02T12:59:46.765Z",
           "__loaded": true,
           "editingVersion": {
-            "id": "ad577df9-5267-4846-8f0f-29b44cc89d20",
-            "name": "v1",
+            "id": "634f9169-5c73-4bb0-a778-1f81ee0b583b",
+            "name": "v2",
             "definition": null,
             "globalSettings": {
               "appInMaintenance": false,
@@ -36,19 +36,26 @@
               "backgroundFxQuery": "",
               "appMode": "auto"
             },
-            "pageSettings": null,
+            "pageSettings": {
+              "properties": {
+                "disableMenu": {
+                  "value": "{{false}}",
+                  "fxActive": false
+                }
+              }
+            },
             "showViewerNavigation": true,
-            "homePageId": "a1934a98-d4e1-4d04-b76d-cd45860f880a",
+            "homePageId": "54efe323-f6ad-4b39-9793-2d60e6801241",
             "appId": "17d433ca-d6e1-4316-bd1d-bbb04c812b5d",
-            "currentEnvironmentId": "0aa9eb81-1f66-4363-90bc-42f91f700ec0",
+            "currentEnvironmentId": "b09c820d-30b9-4f56-ac65-16f0cdeea9e7",
             "promotedFrom": null,
             "parentVersionId": null,
             "status": "PUBLISHED",
-            "description": "1 table",
+            "description": "",
             "publishedAt": null,
             "releasedAt": null,
-            "createdAt": "2025-12-02T12:10:29.881Z",
-            "updatedAt": "2025-12-02T12:59:18.110Z"
+            "createdAt": "2025-12-02T12:39:17.581Z",
+            "updatedAt": "2025-12-02T13:00:04.127Z"
           },
           "components": [
             {
@@ -341,7 +348,7 @@
               },
               "validation": {},
               "createdAt": "2025-12-02T12:37:01.216Z",
-              "updatedAt": "2025-12-02T12:59:22.049Z",
+              "updatedAt": "2025-12-02T12:59:31.954Z",
               "layouts": [
                 {
                   "id": "aaae87b5-60f9-435d-a59d-847d273f1a22",
@@ -438,7 +445,7 @@
               "showViewerNavigation": true,
               "homePageId": "a1934a98-d4e1-4d04-b76d-cd45860f880a",
               "appId": "17d433ca-d6e1-4316-bd1d-bbb04c812b5d",
-              "currentEnvironmentId": "0aa9eb81-1f66-4363-90bc-42f91f700ec0",
+              "currentEnvironmentId": "f61c28e3-cf43-40a7-ae94-0ed3b7462c59",
               "promotedFrom": null,
               "parentVersionId": null,
               "status": "PUBLISHED",
@@ -446,7 +453,7 @@
               "publishedAt": null,
               "releasedAt": null,
               "createdAt": "2025-12-02T12:10:29.881Z",
-              "updatedAt": "2025-12-02T12:59:18.110Z"
+              "updatedAt": "2025-12-02T12:59:28.940Z"
             }
           ],
           "appEnvironments": [
