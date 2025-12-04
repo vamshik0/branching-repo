@@ -134,5 +134,13 @@
     "lastpushDate": "2025-12-04T06:59:07.600Z",
     "gitVersionName": "v1_1",
     "lastCommitUser": "Vamshi Kuchana"
+  },
+  "ce1331ea-da28-454b-b5cf-08eb04796a8a": {
+    "gitAppName": "adidas",
+    "lastCommitMessage": "table-with-data",
+    "gitVersionId": "65ffbcb3-061b-4834-8756-afad91f72975",
+    "lastpushDate": "2025-12-04T07:03:02.354Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "lts-dev "
   }
 }
