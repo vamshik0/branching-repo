@@ -153,10 +153,10 @@
   },
   "6df2c678-069d-4493-a164-317a13e0e191": {
     "gitAppName": "aliens",
-    "lastCommitMessage": "Version v1 is renamed to v1_1",
+    "lastCommitMessage": "Version v1_1 is renamed to v1",
     "gitVersionId": "68828860-1a6d-45db-9863-b41687eae3e2",
-    "lastpushDate": "2025-12-04T09:43:47.327Z",
-    "gitVersionName": "v1_1",
+    "lastpushDate": "2025-12-04T09:44:00.162Z",
+    "gitVersionName": "v1",
     "lastCommitUser": "vamshi "
   }
 }
