@@ -77,8 +77,8 @@
           "updatedAt": "2025-12-04T07:51:10.199Z",
           "__loaded": true,
           "editingVersion": {
-            "id": "68828860-1a6d-45db-9863-b41687eae3e2",
-            "name": "v1",
+            "id": "e4a23d5b-4a16-4ea4-b7b5-ee565afc9060",
+            "name": "v2",
             "definition": null,
             "globalSettings": {
               "appInMaintenance": false,
@@ -98,17 +98,17 @@
               }
             },
             "showViewerNavigation": true,
-            "homePageId": "7c2b26d1-b4ee-440a-904c-90dee570a08a",
+            "homePageId": "e01383f4-6044-4c77-a5a6-40db7f10e0c2",
             "appId": "a96584fa-dfa4-4058-92c6-2b47d28ec701",
             "currentEnvironmentId": "2b1efceb-418d-4877-885e-ba2dc0f151c5",
             "promotedFrom": null,
-            "parentVersionId": null,
-            "status": "PUBLISHED",
+            "parentVersionId": "68828860-1a6d-45db-9863-b41687eae3e2",
+            "status": "DRAFT",
             "description": "",
             "publishedAt": null,
             "releasedAt": null,
-            "createdAt": "2025-12-04T07:51:10.656Z",
-            "updatedAt": "2025-12-04T09:43:57.495Z"
+            "createdAt": "2025-12-04T09:44:16.402Z",
+            "updatedAt": "2025-12-04T09:44:31.671Z"
           },
           "components": [
             {
@@ -417,7 +417,7 @@
               "dataSourceId": "94e350c1-2ae3-451a-b338-a5fa2b12edb8",
               "appVersionId": "68828860-1a6d-45db-9863-b41687eae3e2",
               "createdAt": "2025-12-04T07:51:10.199Z",
-              "updatedAt": "2025-12-04T09:43:35.371Z"
+              "updatedAt": "2025-12-04T09:44:14.259Z"
             }
           ],
           "dataSources": [
@@ -459,7 +459,7 @@
               "showViewerNavigation": true,
               "homePageId": "7c2b26d1-b4ee-440a-904c-90dee570a08a",
               "appId": "a96584fa-dfa4-4058-92c6-2b47d28ec701",
-              "currentEnvironmentId": "2b1efceb-418d-4877-885e-ba2dc0f151c5",
+              "currentEnvironmentId": "8a027c8c-28c4-4a31-bc61-3ec354a7fbe2",
               "promotedFrom": null,
               "parentVersionId": null,
               "status": "PUBLISHED",
@@ -467,7 +467,7 @@
               "publishedAt": null,
               "releasedAt": null,
               "createdAt": "2025-12-04T07:51:10.656Z",
-              "updatedAt": "2025-12-04T09:43:57.495Z"
+              "updatedAt": "2025-12-04T09:44:11.902Z"
             }
           ],
           "appEnvironments": [
