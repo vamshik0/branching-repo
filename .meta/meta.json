@@ -65,11 +65,11 @@
   },
   "22d8fbe3-8d84-4d81-ad6f-a18aff225286": {
     "gitAppName": "fedex",
-    "lastCommitMessage": "Version v1_2 is renamed to v2",
-    "gitVersionId": "33c6bf43-e3e3-48c2-a8f0-9eaaacdc3c69",
-    "lastpushDate": "2025-12-02T14:11:40.063Z",
-    "gitVersionName": "v1",
-    "lastCommitUser": "lts-dev "
+    "lastCommitMessage": "Version v2_1 Created of app fedex",
+    "gitVersionId": "e264c111-f55c-4ee7-ac11-2a9e195ad0cd",
+    "lastpushDate": "2025-12-04T06:18:06.338Z",
+    "gitVersionName": "v2_1",
+    "lastCommitUser": "Vamshi Kuchana"
   },
   "afe1e0a7-dbef-4e7d-beb5-da3ccc2f2d99": {
     "gitAppName": "sylvester-stallone",
