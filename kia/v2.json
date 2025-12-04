@@ -107,7 +107,7 @@
             "showViewerNavigation": true,
             "homePageId": "9650750e-41f4-446e-99ec-fb806e2e4c9c",
             "appId": "41bcd56e-0367-431c-af06-c6ee47700ec8",
-            "currentEnvironmentId": "36a51d44-538f-42f5-9e72-e14ca83c9129",
+            "currentEnvironmentId": "36487450-fe77-44bc-b584-41f8be4d8b31",
             "promotedFrom": null,
             "parentVersionId": "592cc641-ecb2-4fd1-b194-92822dac5986",
             "status": "PUBLISHED",
@@ -115,14 +115,14 @@
             "publishedAt": null,
             "releasedAt": null,
             "createdAt": "2025-12-04T07:31:03.850Z",
-            "updatedAt": "2025-12-04T07:31:16.250Z"
+            "updatedAt": "2025-12-04T07:31:29.439Z"
           },
           "components": [
             {
-              "id": "11f01dcc-913c-425d-8e80-fd65ffea872e",
+              "id": "ca0bffb6-5fe2-4d4d-8753-389056992042",
               "name": "table1",
               "type": "Table",
-              "pageId": "29701bf8-2f58-4fb9-8551-3dd70ad3cd8c",
+              "pageId": "9650750e-41f4-446e-99ec-fb806e2e4c9c",
               "parent": null,
               "properties": {
                 "title": {
@@ -138,7 +138,7 @@
                   "value": "rawJson"
                 },
                 "data": {
-                  "value": "{{queries.c067498b-89bc-4dee-91ed-cfc2c68051e6.data}}"
+                  "value": "{{queries.5fdf2ffd-03c8-49b8-ac44-4cf70118a132.data}}"
                 },
                 "useDynamicColumn": {
                   "value": "{{false}}"
@@ -330,60 +330,60 @@
                 }
               },
               "validation": {},
-              "createdAt": "2025-12-04T07:29:48.454Z",
-              "updatedAt": "2025-12-04T07:30:17.333Z",
+              "createdAt": "2025-12-04T07:31:03.838Z",
+              "updatedAt": "2025-12-04T07:31:03.838Z",
               "layouts": [
                 {
-                  "id": "853eb5fe-213a-4c68-82f1-f88e148ffe43",
+                  "id": "2d078a70-ee1a-4b2d-96b3-4f35a98ef9a2",
                   "type": "mobile",
                   "top": 210,
                   "left": 3,
                   "width": 25,
                   "height": 460,
-                  "componentId": "11f01dcc-913c-425d-8e80-fd65ffea872e",
+                  "componentId": "ca0bffb6-5fe2-4d4d-8753-389056992042",
                   "dimensionUnit": "count",
-                  "updatedAt": "2025-12-04T07:29:48.454Z"
+                  "updatedAt": "2025-12-04T07:31:03.838Z"
                 },
                 {
-                  "id": "ff0a3998-48e7-432c-886c-15d11996f191",
+                  "id": "316add1b-571a-4b0b-ba84-4d298e04ea8d",
                   "type": "desktop",
                   "top": 210,
                   "left": 3,
                   "width": 12,
                   "height": 440,
-                  "componentId": "11f01dcc-913c-425d-8e80-fd65ffea872e",
+                  "componentId": "ca0bffb6-5fe2-4d4d-8753-389056992042",
                   "dimensionUnit": "count",
-                  "updatedAt": "2025-12-04T07:30:20.142Z"
+                  "updatedAt": "2025-12-04T07:31:03.838Z"
                 }
               ]
             }
           ],
           "pages": [
             {
-              "id": "29701bf8-2f58-4fb9-8551-3dd70ad3cd8c",
+              "id": "9650750e-41f4-446e-99ec-fb806e2e4c9c",
               "name": "Home",
               "handle": "home",
               "index": 1,
               "disabled": null,
               "hidden": null,
               "icon": null,
-              "createdAt": "2025-12-04T07:29:39.233Z",
-              "updatedAt": "2025-12-04T07:29:40.223Z",
+              "createdAt": "2025-12-04T07:31:03.838Z",
+              "updatedAt": "2025-12-04T07:31:03.838Z",
               "autoComputeLayout": true,
-              "appVersionId": "592cc641-ecb2-4fd1-b194-92822dac5986",
+              "appVersionId": "8790d539-987e-4278-a644-b074caf4ddf6",
               "pageGroupIndex": 1,
               "pageGroupId": null,
               "isPageGroup": false,
               "url": null,
               "openIn": "new_tab",
               "type": "default",
-              "appId": ""
+              "appId": "41bcd56e-0367-431c-af06-c6ee47700ec8"
             }
           ],
           "events": [],
           "dataQueries": [
             {
-              "id": "c067498b-89bc-4dee-91ed-cfc2c68051e6",
+              "id": "5fdf2ffd-03c8-49b8-ac44-4cf70118a132",
               "name": "getStudents",
               "options": {
                 "operation": "list_rows",
@@ -435,9 +435,9 @@
                 "runOnPageLoad": true
               },
               "dataSourceId": "350f5e88-ca26-4796-bd26-8a7d5122548c",
-              "appVersionId": "592cc641-ecb2-4fd1-b194-92822dac5986",
-              "createdAt": "2025-12-04T07:29:52.053Z",
-              "updatedAt": "2025-12-04T07:30:47.974Z"
+              "appVersionId": "8790d539-987e-4278-a644-b074caf4ddf6",
+              "createdAt": "2025-12-04T07:31:03.838Z",
+              "updatedAt": "2025-12-04T07:31:31.754Z"
             }
           ],
           "dataSources": [
@@ -456,8 +456,8 @@
           ],
           "appVersions": [
             {
-              "id": "592cc641-ecb2-4fd1-b194-92822dac5986",
-              "name": "v1",
+              "id": "8790d539-987e-4278-a644-b074caf4ddf6",
+              "name": "v2",
               "definition": null,
               "globalSettings": {
                 "appInMaintenance": false,
@@ -470,17 +470,17 @@
               },
               "pageSettings": null,
               "showViewerNavigation": true,
-              "homePageId": "29701bf8-2f58-4fb9-8551-3dd70ad3cd8c",
+              "homePageId": "9650750e-41f4-446e-99ec-fb806e2e4c9c",
               "appId": "41bcd56e-0367-431c-af06-c6ee47700ec8",
-              "currentEnvironmentId": "00e54399-2c61-4d38-afdc-e8c7276c86ac",
+              "currentEnvironmentId": "36487450-fe77-44bc-b584-41f8be4d8b31",
               "promotedFrom": null,
-              "parentVersionId": null,
+              "parentVersionId": "592cc641-ecb2-4fd1-b194-92822dac5986",
               "status": "PUBLISHED",
-              "description": "first",
+              "description": "",
               "publishedAt": null,
               "releasedAt": null,
-              "createdAt": "2025-12-04T07:29:39.451Z",
-              "updatedAt": "2025-12-04T07:30:45.717Z"
+              "createdAt": "2025-12-04T07:31:03.850Z",
+              "updatedAt": "2025-12-04T07:31:29.439Z"
             }
           ],
           "appEnvironments": [
