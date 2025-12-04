@@ -1,0 +1,561 @@
+{
+  "tooljet_database": [
+    {
+      "id": "ede9aae9-35a5-4f8f-8334-48d78e3ea73e",
+      "table_name": "Students",
+      "schema": {
+        "columns": [
+          {
+            "column_name": "id",
+            "data_type": "integer",
+            "column_default": "nextval(\"workspace_171539d0-6e55-4eb0-90ac-3bcb8aa08a42\".\"ede9aae9-35a5-4f8f-8334-48d78e3ea73e_id_seq\"",
+            "character_maximum_length": null,
+            "numeric_precision": 32,
+            "constraints_type": {
+              "is_not_null": true,
+              "is_primary_key": true,
+              "is_unique": false
+            },
+            "keytype": "PRIMARY KEY",
+            "configurations": {}
+          },
+          {
+            "column_name": "name",
+            "data_type": "character varying",
+            "column_default": null,
+            "character_maximum_length": null,
+            "numeric_precision": null,
+            "constraints_type": {
+              "is_not_null": false,
+              "is_primary_key": false,
+              "is_unique": false
+            },
+            "keytype": "",
+            "configurations": {}
+          },
+          {
+            "column_name": "std",
+            "data_type": "character varying",
+            "column_default": null,
+            "character_maximum_length": null,
+            "numeric_precision": null,
+            "constraints_type": {
+              "is_not_null": false,
+              "is_primary_key": false,
+              "is_unique": false
+            },
+            "keytype": "",
+            "configurations": {}
+          },
+          {
+            "column_name": "roll_no",
+            "data_type": "character varying",
+            "column_default": null,
+            "character_maximum_length": null,
+            "numeric_precision": null,
+            "constraints_type": {
+              "is_not_null": false,
+              "is_primary_key": false,
+              "is_unique": false
+            },
+            "keytype": "",
+            "configurations": {}
+          }
+        ],
+        "foreign_keys": []
+      }
+    }
+  ],
+  "app": [
+    {
+      "definition": {
+        "appV2": {
+          "id": "40f7f420-84d5-4f43-a033-98a3d2dbeace",
+          "type": "front-end",
+          "name": "asics",
+          "slug": "40f7f420-84d5-4f43-a033-98a3d2dbeace",
+          "isPublic": null,
+          "isMaintenanceOn": false,
+          "icon": "draghandle",
+          "organizationId": "171539d0-6e55-4eb0-90ac-3bcb8aa08a42",
+          "currentVersionId": null,
+          "userId": "eadb6940-aa5a-406b-86ac-d4725925fb1f",
+          "workflowApiToken": null,
+          "workflowEnabled": false,
+          "isInitialisedFromPrompt": false,
+          "appGeneratedFromPrompt": false,
+          "appBuilderMode": "visual",
+          "aiGenerationMetadata": null,
+          "createdAt": "2025-12-04T06:54:29.698Z",
+          "creationMode": "DEFAULT",
+          "updatedAt": "2025-12-04T06:54:29.699Z",
+          "__loaded": true,
+          "editingVersion": {
+            "id": "40cc1b87-42f6-49b7-9b3f-c882b4b7ccbe",
+            "name": "v1",
+            "definition": null,
+            "globalSettings": {
+              "appInMaintenance": false,
+              "canvasMaxWidth": 100,
+              "canvasMaxWidthType": "%",
+              "canvasMaxHeight": 2400,
+              "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+              "backgroundFxQuery": "",
+              "appMode": "light"
+            },
+            "pageSettings": null,
+            "showViewerNavigation": true,
+            "homePageId": "e4e98600-a794-4041-90fb-9dfe75504584",
+            "appId": "40f7f420-84d5-4f43-a033-98a3d2dbeace",
+            "currentEnvironmentId": "36a51d44-538f-42f5-9e72-e14ca83c9129",
+            "promotedFrom": null,
+            "parentVersionId": null,
+            "status": "PUBLISHED",
+            "description": "first-version",
+            "publishedAt": null,
+            "releasedAt": null,
+            "createdAt": "2025-12-04T06:54:29.961Z",
+            "updatedAt": "2025-12-04T06:55:51.699Z"
+          },
+          "components": [
+            {
+              "id": "a674e28e-8a72-40ce-9e59-2e4e167473dd",
+              "name": "table2",
+              "type": "Table",
+              "pageId": "e4e98600-a794-4041-90fb-9dfe75504584",
+              "parent": null,
+              "properties": {
+                "title": {
+                  "value": "Table"
+                },
+                "visible": {
+                  "value": "{{true}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "dataSourceSelector": {
+                  "value": "rawJson"
+                },
+                "data": {
+                  "value": "{{queries.d6546545-626a-4e36-9535-983ddca04024.data}}"
+                },
+                "useDynamicColumn": {
+                  "value": "{{false}}"
+                },
+                "columnData": {
+                  "value": "{{[{name: 'email', key: 'email', id: '1'}, {name: 'Full name', key: 'name', id: '2', isEditable: true}]}}"
+                },
+                "rowsPerPage": {
+                  "value": "{{10}}"
+                },
+                "serverSidePagination": {
+                  "value": "{{false}}"
+                },
+                "enableNextButton": {
+                  "value": "{{true}}"
+                },
+                "enablePrevButton": {
+                  "value": "{{true}}"
+                },
+                "totalRecords": {
+                  "value": "{{10}}"
+                },
+                "enablePagination": {
+                  "value": "{{true}}"
+                },
+                "serverSideSort": {
+                  "value": "{{false}}"
+                },
+                "serverSideFilter": {
+                  "value": "{{false}}"
+                },
+                "displaySearchBox": {
+                  "value": "{{true}}"
+                },
+                "showDownloadButton": {
+                  "value": "{{true}}"
+                },
+                "showFilterButton": {
+                  "value": "{{true}}"
+                },
+                "autogenerateColumns": {
+                  "value": true,
+                  "generateNestedColumns": true
+                },
+                "isAllColumnsEditable": {
+                  "value": "{{false}}"
+                },
+                "columns": {
+                  "value": [
+                    {
+                      "name": "id",
+                      "key": "id",
+                      "id": "e3ecbf7fa52c4d7210a93edb8f43776267a489bad52bd108be9588f790126737",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 30,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "name",
+                      "key": "name",
+                      "id": "5d2a3744a006388aadd012fcc15cc0dbcb5f9130e0fbb64c558561c97118754a",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "string",
+                      "objectFit": "contain",
+                      "borderRadius": "100",
+                      "columnSize": 130
+                    },
+                    {
+                      "name": "std",
+                      "key": "std",
+                      "id": "af385373-d328-40d9-9b45-7886004157f6",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 130,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "roll_no",
+                      "key": "roll_no",
+                      "id": "1125d750-b2d5-42c0-a298-7bd9d651ca2e",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 230,
+                      "columnType": "string"
+                    }
+                  ]
+                },
+                "showBulkUpdateActions": {
+                  "value": "{{true}}"
+                },
+                "showBulkSelector": {
+                  "value": "{{false}}"
+                },
+                "highlightSelectedRow": {
+                  "value": "{{false}}"
+                },
+                "columnSizes": {
+                  "value": "{{({})}}"
+                },
+                "actions": {
+                  "value": []
+                },
+                "enabledSort": {
+                  "value": "{{true}}"
+                },
+                "hideColumnSelectorButton": {
+                  "value": "{{false}}"
+                },
+                "defaultSelectedRow": {
+                  "value": "{{{\"id\":1}}}"
+                },
+                "showAddNewRowButton": {
+                  "value": "{{true}}"
+                },
+                "allowSelection": {
+                  "value": "{{true}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "dynamicHeight": {
+                  "value": "{{false}}"
+                },
+                "selectRowOnCellEdit": {
+                  "value": "{{false}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "columnTitleColor": {
+                  "value": "var(--cc-placeholder-text)"
+                },
+                "columnBackgroundColor": {
+                  "value": "var(--cc-surface2-surface)"
+                },
+                "containerBackgroundColor": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "textColor": {
+                  "value": "var(--cc-primary-text)"
+                },
+                "columnHeaderWrap": {
+                  "value": "fixed"
+                },
+                "headerCasing": {
+                  "value": "uppercase"
+                },
+                "actionButtonRadius": {
+                  "value": "0"
+                },
+                "cellSize": {
+                  "value": "regular"
+                },
+                "borderRadius": {
+                  "value": "6"
+                },
+                "borderColor": {
+                  "value": "var(--cc-default-border)"
+                },
+                "tableType": {
+                  "value": "table-classic"
+                },
+                "maxRowHeight": {
+                  "value": "auto"
+                },
+                "maxRowHeightValue": {
+                  "value": "{{0}}"
+                },
+                "contentWrap": {
+                  "value": "{{true}}"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "padding": {
+                  "value": "default"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2025-12-04T06:54:44.254Z",
+              "updatedAt": "2025-12-04T06:55:21.208Z",
+              "layouts": [
+                {
+                  "id": "5f18ca1a-36f7-418b-9572-9c4c8efe002b",
+                  "type": "mobile",
+                  "top": 110,
+                  "left": 2,
+                  "width": 25,
+                  "height": 460,
+                  "componentId": "a674e28e-8a72-40ce-9e59-2e4e167473dd",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-12-04T06:54:44.254Z"
+                },
+                {
+                  "id": "64a2108a-0fd0-4e06-9919-4f41ba827abf",
+                  "type": "desktop",
+                  "top": 110,
+                  "left": 2,
+                  "width": 12,
+                  "height": 460,
+                  "componentId": "a674e28e-8a72-40ce-9e59-2e4e167473dd",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-12-04T06:54:44.254Z"
+                }
+              ]
+            }
+          ],
+          "pages": [
+            {
+              "id": "e4e98600-a794-4041-90fb-9dfe75504584",
+              "name": "Home",
+              "handle": "home",
+              "index": 1,
+              "disabled": null,
+              "hidden": null,
+              "icon": null,
+              "createdAt": "2025-12-04T06:54:29.699Z",
+              "updatedAt": "2025-12-04T06:54:30.678Z",
+              "autoComputeLayout": true,
+              "appVersionId": "40cc1b87-42f6-49b7-9b3f-c882b4b7ccbe",
+              "pageGroupIndex": 1,
+              "pageGroupId": null,
+              "isPageGroup": false,
+              "url": null,
+              "openIn": "new_tab",
+              "type": "default",
+              "appId": ""
+            }
+          ],
+          "events": [],
+          "dataQueries": [
+            {
+              "id": "d6546545-626a-4e36-9535-983ddca04024",
+              "name": "getStudents",
+              "options": {
+                "operation": "list_rows",
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "table_id": "ede9aae9-35a5-4f8f-8334-48d78e3ea73e",
+                "join_table": {
+                  "joins": [
+                    {
+                      "id": 1764831300647,
+                      "conditions": {
+                        "operator": "AND",
+                        "conditionsList": [
+                          {
+                            "operator": "=",
+                            "leftField": {
+                              "table": "ede9aae9-35a5-4f8f-8334-48d78e3ea73e"
+                            }
+                          }
+                        ]
+                      },
+                      "joinType": "INNER"
+                    }
+                  ],
+                  "from": {
+                    "name": "ede9aae9-35a5-4f8f-8334-48d78e3ea73e",
+                    "type": "Table"
+                  },
+                  "fields": [
+                    {
+                      "name": "id",
+                      "table": "ede9aae9-35a5-4f8f-8334-48d78e3ea73e"
+                    },
+                    {
+                      "name": "name",
+                      "table": "ede9aae9-35a5-4f8f-8334-48d78e3ea73e"
+                    },
+                    {
+                      "name": "std",
+                      "table": "ede9aae9-35a5-4f8f-8334-48d78e3ea73e"
+                    },
+                    {
+                      "name": "roll_no",
+                      "table": "ede9aae9-35a5-4f8f-8334-48d78e3ea73e"
+                    }
+                  ]
+                },
+                "list_rows": {},
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "350f5e88-ca26-4796-bd26-8a7d5122548c",
+              "appVersionId": "40cc1b87-42f6-49b7-9b3f-c882b4b7ccbe",
+              "createdAt": "2025-12-04T06:54:57.828Z",
+              "updatedAt": "2025-12-04T06:55:09.807Z"
+            }
+          ],
+          "dataSources": [
+            {
+              "id": "350f5e88-ca26-4796-bd26-8a7d5122548c",
+              "name": "tooljetdbdefault",
+              "kind": "tooljetdb",
+              "type": "static",
+              "pluginId": null,
+              "appVersionId": null,
+              "organizationId": "171539d0-6e55-4eb0-90ac-3bcb8aa08a42",
+              "scope": "global",
+              "createdAt": "2025-12-02T08:16:41.126Z",
+              "updatedAt": "2025-12-02T08:16:41.126Z"
+            }
+          ],
+          "appVersions": [
+            {
+              "id": "40cc1b87-42f6-49b7-9b3f-c882b4b7ccbe",
+              "name": "v1",
+              "definition": null,
+              "globalSettings": {
+                "appInMaintenance": false,
+                "canvasMaxWidth": 100,
+                "canvasMaxWidthType": "%",
+                "canvasMaxHeight": 2400,
+                "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+                "backgroundFxQuery": "",
+                "appMode": "light"
+              },
+              "pageSettings": null,
+              "showViewerNavigation": true,
+              "homePageId": "e4e98600-a794-4041-90fb-9dfe75504584",
+              "appId": "40f7f420-84d5-4f43-a033-98a3d2dbeace",
+              "currentEnvironmentId": "36a51d44-538f-42f5-9e72-e14ca83c9129",
+              "promotedFrom": null,
+              "parentVersionId": null,
+              "status": "PUBLISHED",
+              "description": "first-version",
+              "publishedAt": null,
+              "releasedAt": null,
+              "createdAt": "2025-12-04T06:54:29.961Z",
+              "updatedAt": "2025-12-04T06:55:51.699Z"
+            }
+          ],
+          "appEnvironments": [
+            {
+              "id": "36a51d44-538f-42f5-9e72-e14ca83c9129",
+              "organizationId": "171539d0-6e55-4eb0-90ac-3bcb8aa08a42",
+              "name": "development",
+              "isDefault": false,
+              "priority": 1,
+              "enabled": true,
+              "createdAt": "2025-12-02T08:16:40.874Z",
+              "updatedAt": "2025-12-02T08:16:40.874Z"
+            },
+            {
+              "id": "36487450-fe77-44bc-b584-41f8be4d8b31",
+              "organizationId": "171539d0-6e55-4eb0-90ac-3bcb8aa08a42",
+              "name": "staging",
+              "isDefault": false,
+              "priority": 2,
+              "enabled": true,
+              "createdAt": "2025-12-02T08:16:40.877Z",
+              "updatedAt": "2025-12-02T08:16:40.877Z"
+            },
+            {
+              "id": "00e54399-2c61-4d38-afdc-e8c7276c86ac",
+              "organizationId": "171539d0-6e55-4eb0-90ac-3bcb8aa08a42",
+              "name": "production",
+              "isDefault": true,
+              "priority": 3,
+              "enabled": true,
+              "createdAt": "2025-12-02T08:16:40.878Z",
+              "updatedAt": "2025-12-02T08:16:40.878Z"
+            }
+          ],
+          "dataSourceOptions": [
+            {
+              "id": "06ac9d5b-8150-4bab-9bf5-01518ef445cd",
+              "dataSourceId": "350f5e88-ca26-4796-bd26-8a7d5122548c",
+              "environmentId": "36a51d44-538f-42f5-9e72-e14ca83c9129",
+              "options": null,
+              "createdAt": "2025-12-02T08:16:41.130Z",
+              "updatedAt": "2025-12-02T08:16:41.130Z"
+            },
+            {
+              "id": "8fef39a6-bbb0-4759-ba4b-fa7b07ed4956",
+              "dataSourceId": "350f5e88-ca26-4796-bd26-8a7d5122548c",
+              "environmentId": "36487450-fe77-44bc-b584-41f8be4d8b31",
+              "options": null,
+              "createdAt": "2025-12-02T08:16:41.130Z",
+              "updatedAt": "2025-12-02T08:16:41.130Z"
+            },
+            {
+              "id": "ee11f8a6-c706-4510-869f-4b26f0b9c2b4",
+              "dataSourceId": "350f5e88-ca26-4796-bd26-8a7d5122548c",
+              "environmentId": "00e54399-2c61-4d38-afdc-e8c7276c86ac",
+              "options": null,
+              "createdAt": "2025-12-02T08:16:41.130Z",
+              "updatedAt": "2025-12-02T08:16:41.130Z"
+            }
+          ],
+          "schemaDetails": {
+            "multiPages": true,
+            "multiEnv": true,
+            "globalDataSources": true
+          },
+          "modules": []
+        }
+      }
+    }
+  ],
+  "tooljet_version": "3.20.45-ee-lts"
+}
