@@ -158,5 +158,13 @@
     "lastpushDate": "2025-12-04T09:44:33.738Z",
     "gitVersionName": "v1",
     "lastCommitUser": "vamshi "
+  },
+  "0211050c-faf7-4529-a22e-c5d6984f28e4": {
+    "gitAppName": "mg",
+    "lastCommitMessage": " v2 Version of app mg promoted from development to staging",
+    "gitVersionId": "771e2f69-fa81-43c0-a430-3d20ac3e942a",
+    "lastpushDate": "2025-12-10T14:51:14.565Z",
+    "gitVersionName": "v2",
+    "lastCommitUser": "lts-dev "
   }
 }
