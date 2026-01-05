@@ -25,7 +25,7 @@
           "__loaded": true,
           "editingVersion": {
             "id": "c1646bcf-5416-413f-9a0c-f0190d1bf9b5",
-            "name": "v2",
+            "name": "v1",
             "definition": null,
             "globalSettings": {
               "appInMaintenance": false,
@@ -50,12 +50,12 @@
             "currentEnvironmentId": "36a51d44-538f-42f5-9e72-e14ca83c9129",
             "promotedFrom": null,
             "parentVersionId": null,
-            "status": "DRAFT",
-            "description": null,
+            "status": "PUBLISHED",
+            "description": "",
             "publishedAt": null,
             "releasedAt": null,
             "createdAt": "2026-01-05T15:16:11.182Z",
-            "updatedAt": "2026-01-05T15:16:11.257Z"
+            "updatedAt": "2026-01-05T15:17:47.522Z"
           },
           "components": [
             {
@@ -522,7 +522,7 @@
           "appVersions": [
             {
               "id": "c1646bcf-5416-413f-9a0c-f0190d1bf9b5",
-              "name": "v2",
+              "name": "v1",
               "definition": null,
               "globalSettings": {
                 "appInMaintenance": false,
@@ -547,12 +547,12 @@
               "currentEnvironmentId": "36a51d44-538f-42f5-9e72-e14ca83c9129",
               "promotedFrom": null,
               "parentVersionId": null,
-              "status": "DRAFT",
-              "description": null,
+              "status": "PUBLISHED",
+              "description": "",
               "publishedAt": null,
               "releasedAt": null,
               "createdAt": "2026-01-05T15:16:11.182Z",
-              "updatedAt": "2026-01-05T15:16:11.257Z"
+              "updatedAt": "2026-01-05T15:17:47.522Z"
             }
           ],
           "appEnvironments": [
