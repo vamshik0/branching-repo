@@ -1,9 +1,21 @@
 {
+  "5a20b496-70c4-451c-b395-32a05ead001c": {
+    "name": "mongodb",
+    "kind": "mongodb",
+    "updatedAt": "2026-04-07T06:53:28.890Z",
+    "contentHash": "37bcb4abda139ab7759376ff66de7fbe7e2335119832fbcc9079686388066ecc"
+  },
   "7c2cfe5b-7eb7-4beb-a6c8-c03e84bfa372": {
     "name": "restapi",
     "kind": "restapi",
     "updatedAt": "2026-04-07T06:03:50.972Z",
     "contentHash": "ad80b7ead5576653983af3a0b3a93e3a0b90a6e41cca519ebbe13c5cbfa960a1"
   },
-  "lastUpdatedAt": "2026-04-07T06:03:50.972Z"
+  "f3e969e1-9b4a-4b53-b767-099e01381e1e": {
+    "name": "snowflake",
+    "kind": "snowflake",
+    "updatedAt": "2026-04-07T06:53:28.890Z",
+    "contentHash": "e5c6b670737d41683a64f9538aac7f34f67189eed7ad888970f40e265b79287f"
+  },
+  "lastUpdatedAt": "2026-04-07T06:53:28.890Z"
 }
