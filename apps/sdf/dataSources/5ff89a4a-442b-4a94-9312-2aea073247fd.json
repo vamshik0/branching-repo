@@ -1,9 +1,0 @@
-{
-  "id": "5ff89a4a-442b-4a94-9312-2aea073247fd",
-  "name": "mongodb_2",
-  "kind": "mongodb",
-  "type": "default",
-  "pluginId": null,
-  "appVersionId": null,
-  "scope": "global"
-}
