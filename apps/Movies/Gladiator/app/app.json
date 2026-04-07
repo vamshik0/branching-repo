@@ -1,0 +1,13 @@
+{
+  "id": "cd729450-7143-48ad-87ed-9a031eaee0a0",
+  "name": "Gladiator",
+  "type": "front-end",
+  "slug": "fa153e12-c159-4011-a0f6-518dad585a58",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "home",
+  "tooljetVersion": "3.21.16-beta-ee"
+}
