@@ -6,7 +6,7 @@
   "parent": "4c47cc63-5f93-41d9-b534-364147c71418",
   "properties": {
     "value": {
-      "value": "John Doe"
+      "value": "{{queries.ef9fc92f-665a-4c27-9349-ff8222404dc9.data.title}}"
     },
     "label": {
       "value": "Name"
