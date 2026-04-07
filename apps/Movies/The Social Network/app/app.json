@@ -1,0 +1,13 @@
+{
+  "id": "4c72d88f-319d-4a60-963a-f19c826e8af1",
+  "name": "The Social Network",
+  "type": "front-end",
+  "slug": "d66b0f8f-eb7c-4c82-885a-edfe9607eb40",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "draghandle",
+  "tooljetVersion": "3.21.16-beta-ee"
+}
