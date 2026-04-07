@@ -1,0 +1,13 @@
+{
+  "id": "489e5c54-06e0-41b6-81cb-e2dfd745d8b5",
+  "name": "sdf",
+  "type": "front-end",
+  "slug": "8ca8cc4c-c577-4ac1-83f7-287380b4fda0",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.16-beta-ee"
+}
