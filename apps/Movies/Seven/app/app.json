@@ -3,7 +3,7 @@
   "name": "Seven",
   "type": "front-end",
   "slug": "ca939b6f-d976-4354-b68a-2f8787888061",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,

@@ -124,7 +124,13 @@
       "value": "{{false}}"
     },
     "columnSizes": {
-      "value": "{{({})}}"
+      "value": {
+        "64eda3a3-7c30-43aa-be59-a58fbf5fd046": 321,
+        "5d2a3744a006388aadd012fcc15cc0dbcb5f9130e0fbb64c558561c97118754a": 109,
+        "4c1ba72d-1842-4f35-841b-ec436606f03a": 90,
+        "35c97301-bb81-48b6-b455-0338d73c9d1f": 124,
+        "849930e9-a930-4f17-85ae-03cbf1b05a45": 119
+      }
     },
     "actions": {
       "value": []
@@ -226,9 +232,9 @@
     {
       "id": "dac94ea2-826e-4ba5-8fba-da8984d94937",
       "type": "desktop",
-      "top": 130,
-      "left": 18,
-      "width": 20,
+      "top": 640,
+      "left": 1,
+      "width": 16,
       "height": 460,
       "componentId": "f85e9db5-02cd-4a28-b4bc-afac7b2876c1",
       "dimensionUnit": "count"
