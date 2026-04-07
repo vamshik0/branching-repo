@@ -1,0 +1,13 @@
+{
+  "id": "5f5da982-fa8b-493a-ad9a-152db13378b6",
+  "name": "Folder",
+  "type": "front-end",
+  "slug": "bd058fc1-91f5-4578-9f96-229c557d8cc1",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "apps",
+  "tooljetVersion": "3.21.16-beta-ee"
+}

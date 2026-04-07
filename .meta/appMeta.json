@@ -27,5 +27,9 @@
   "7c43949b-af03-4679-8c32-e1ec95616bf4": {
     "appPath": "apps/QA apps/Bug tickets",
     "updatedAt": "2026-04-07T14:41:25.835Z"
+  },
+  "5f5da982-fa8b-493a-ad9a-152db13378b6": {
+    "appPath": "apps/Folder/Folder",
+    "updatedAt": "2026-04-07T15:06:46.563Z"
   }
 }
