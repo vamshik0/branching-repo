@@ -1,0 +1,13 @@
+{
+  "id": "b091670f-e75f-4026-809d-72351995f1db",
+  "name": "Seven",
+  "type": "front-end",
+  "slug": "ca939b6f-d976-4354-b68a-2f8787888061",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "table",
+  "tooljetVersion": "3.21.16-beta-ee"
+}
