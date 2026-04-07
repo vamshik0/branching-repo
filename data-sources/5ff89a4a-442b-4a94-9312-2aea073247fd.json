@@ -18,9 +18,12 @@
       "connection_format": "mongodb"
     },
     "production": {
-      "port": 27017,
+      "host": "9.234.17.31",
+      "port": "27018",
       "use_ssl": false,
+      "database": "test",
       "ssh_port": 22,
+      "username": "mongo",
       "ssh_enabled": "disabled",
       "ssh_auth_type": "private_key",
       "connection_type": "manual",
@@ -28,9 +31,12 @@
       "connection_format": "mongodb"
     },
     "staging": {
-      "port": 27017,
+      "host": "9.234.17.31",
+      "port": "27018",
       "use_ssl": false,
+      "database": "test",
       "ssh_port": 22,
+      "username": "mongo",
       "ssh_enabled": "disabled",
       "ssh_auth_type": "private_key",
       "connection_type": "manual",
