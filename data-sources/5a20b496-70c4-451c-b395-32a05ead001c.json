@@ -1,0 +1,38 @@
+{
+  "id": "5a20b496-70c4-451c-b395-32a05ead001c",
+  "name": "mongodb",
+  "kind": "mongodb",
+  "type": "default",
+  "options": {
+    "development": {
+      "port": 27017,
+      "use_ssl": false,
+      "ssh_port": 22,
+      "ssh_enabled": "disabled",
+      "ssh_auth_type": "private_key",
+      "connection_type": "manual",
+      "tls_certificate": "none",
+      "connection_format": "mongodb"
+    },
+    "production": {
+      "port": 27017,
+      "use_ssl": false,
+      "ssh_port": 22,
+      "ssh_enabled": "disabled",
+      "ssh_auth_type": "private_key",
+      "connection_type": "manual",
+      "tls_certificate": "none",
+      "connection_format": "mongodb"
+    },
+    "staging": {
+      "port": 27017,
+      "use_ssl": false,
+      "ssh_port": 22,
+      "ssh_enabled": "disabled",
+      "ssh_auth_type": "private_key",
+      "connection_type": "manual",
+      "tls_certificate": "none",
+      "connection_format": "mongodb"
+    }
+  }
+}
