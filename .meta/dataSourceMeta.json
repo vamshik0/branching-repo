@@ -1,15 +1,39 @@
 {
+  "0193b063-776a-45af-b1a0-9f2bfe6c4c83": {
+    "name": "airtable",
+    "kind": "airtable",
+    "updatedAt": "2026-04-07T15:33:43.680Z",
+    "contentHash": "ad9258311b54ff4faa3b692acb2362291970861ec2b72c3bffe18c450fb8f38b"
+  },
   "5ff89a4a-442b-4a94-9312-2aea073247fd": {
     "name": "mongodb_2",
     "kind": "mongodb",
     "updatedAt": "2026-04-07T11:02:56.122Z",
     "contentHash": "7cf6ebe7a4337485c916cedeae652d12f005485a5d1f247bc1c02f854bdc5819"
   },
+  "670982ed-a85a-425f-9bd2-6654256cf48d": {
+    "name": "grpcv2",
+    "kind": "grpcv2",
+    "updatedAt": "2026-04-07T15:33:43.680Z",
+    "contentHash": "2ef473caae4722f97382f2da9c39e632f2b895b1ed81efb8ea5b105fda859959"
+  },
+  "6c5306ac-c9f5-4023-a385-8320cb482783": {
+    "name": "grpcv2_2",
+    "kind": "grpcv2",
+    "updatedAt": "2026-04-07T15:33:43.680Z",
+    "contentHash": "d6b1240e48829ec3f57aa21c703bf4236913035ea7b2869a12cf48e88fbb89a8"
+  },
   "7c2cfe5b-7eb7-4beb-a6c8-c03e84bfa372": {
     "name": "JSON place holder",
     "kind": "restapi",
     "updatedAt": "2026-04-07T10:48:27.876Z",
     "contentHash": "58d839dce4b1b1ff027ebdd6e9652aa8a8fb7e1027f0ad93eb120a7f2c2ae66f"
+  },
+  "8e87eea8-839b-4340-9053-9445fdcea740": {
+    "name": "redis",
+    "kind": "redis",
+    "updatedAt": "2026-04-07T15:33:43.681Z",
+    "contentHash": "666b54e1a3b2b9f4936bbaf215f76916ad60761893d2683764e96ad7ac3771db"
   },
   "95d00ae2-4126-4a1e-9b2e-75b2c51940ae": {
     "name": "postgresql",
@@ -23,5 +47,17 @@
     "updatedAt": "2026-04-07T14:30:09.634Z",
     "contentHash": "d89a17fb16577e3a06e868a51e0186a44494a1404e513f32f9374131361a82de"
   },
-  "lastUpdatedAt": "2026-04-07T14:30:09.634Z"
+  "f27c35e1-9b69-4b2c-9351-089a78946013": {
+    "name": "googlesheetsv2",
+    "kind": "googlesheetsv2",
+    "updatedAt": "2026-04-07T15:33:43.681Z",
+    "contentHash": "4a6acdb7a3db5a3c6d01c7f95fa93ccdaf661d9737f919b998ad239f62d47cc7"
+  },
+  "fe73a0d1-a1f0-43cf-8246-ce8e2d3aef33": {
+    "name": "restapi",
+    "kind": "restapi",
+    "updatedAt": "2026-04-07T15:33:43.681Z",
+    "contentHash": "08b1f5ba063108b4dd4eebe9beb16c0edc733203eaf7ca7f59b6806799df7162"
+  },
+  "lastUpdatedAt": "2026-04-07T15:33:43.681Z"
 }
