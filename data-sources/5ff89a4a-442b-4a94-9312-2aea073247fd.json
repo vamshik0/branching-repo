@@ -1,13 +1,16 @@
 {
-  "id": "5a20b496-70c4-451c-b395-32a05ead001c",
-  "name": "mongodb",
+  "id": "5ff89a4a-442b-4a94-9312-2aea073247fd",
+  "name": "mongodb_2",
   "kind": "mongodb",
   "type": "default",
   "options": {
     "development": {
-      "port": 27017,
+      "host": "9.234.17.31",
+      "port": "27018",
       "use_ssl": false,
+      "database": "test",
       "ssh_port": 22,
+      "username": "mongo",
       "ssh_enabled": "disabled",
       "ssh_auth_type": "private_key",
       "connection_type": "manual",

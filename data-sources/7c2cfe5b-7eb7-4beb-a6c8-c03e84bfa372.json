@@ -1,0 +1,140 @@
+{
+  "id": "7c2cfe5b-7eb7-4beb-a6c8-c03e84bfa372",
+  "name": "JSON place holder",
+  "kind": "restapi",
+  "type": "default",
+  "options": {
+    "development": {
+      "url": "https://jsonplaceholder.typicode.com/todos/1",
+      "scopes": "read, write",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "audience": "",
+      "auth_url": "",
+      "username": "",
+      "auth_type": "none",
+      "client_id": "",
+      "tokenData": {
+        "encrypted": false
+      },
+      "grant_type": "authorization_code",
+      "client_auth": "body",
+      "add_token_to": "header",
+      "header_prefix": "Bearer ",
+      "ssl_certificate": "none",
+      "access_token_url": "",
+      "custom_auth_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "custom_query_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "retry_network_errors": true,
+      "multiple_auth_enabled": false,
+      "access_token_custom_headers": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    "production": {
+      "url": "https://jsonplaceholder.typicode.com/todos/1",
+      "scopes": "read, write",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "audience": "",
+      "auth_url": "",
+      "username": "",
+      "auth_type": "none",
+      "client_id": "",
+      "tokenData": {
+        "encrypted": false
+      },
+      "grant_type": "authorization_code",
+      "client_auth": "body",
+      "add_token_to": "header",
+      "header_prefix": "Bearer ",
+      "ssl_certificate": "none",
+      "access_token_url": "",
+      "custom_auth_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "custom_query_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "retry_network_errors": true,
+      "multiple_auth_enabled": false,
+      "access_token_custom_headers": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    "staging": {
+      "url": "https://jsonplaceholder.typicode.com/todos/1",
+      "scopes": "read, write",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "audience": "",
+      "auth_url": "",
+      "username": "",
+      "auth_type": "none",
+      "client_id": "",
+      "tokenData": {
+        "encrypted": false
+      },
+      "grant_type": "authorization_code",
+      "client_auth": "body",
+      "add_token_to": "header",
+      "header_prefix": "Bearer ",
+      "ssl_certificate": "none",
+      "access_token_url": "",
+      "custom_auth_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "custom_query_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "retry_network_errors": true,
+      "multiple_auth_enabled": false,
+      "access_token_custom_headers": [
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  }
+}
