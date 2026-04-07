@@ -1,0 +1,13 @@
+{
+  "id": "7c43949b-af03-4679-8c32-e1ec95616bf4",
+  "name": "Bug tickets",
+  "type": "front-end",
+  "slug": "abee8159-c0b7-4b6b-b1d5-68ecfc854eb5",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "sun",
+  "tooljetVersion": "3.21.16-beta-ee"
+}
