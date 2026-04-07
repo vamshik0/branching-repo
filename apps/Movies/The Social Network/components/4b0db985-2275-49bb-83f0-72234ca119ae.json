@@ -1,12 +1,12 @@
 {
-  "id": "8d243405-56ec-4af4-9ce2-74321ae36a99",
+  "id": "4b0db985-2275-49bb-83f0-72234ca119ae",
   "name": "button1",
   "type": "Button",
   "pageId": "68bda24a-f558-4361-90fb-5bccc92b7aaf",
-  "parent": "5f2a4b25-e187-4ae0-9129-80f0e086ff52-footer",
+  "parent": null,
   "properties": {
     "text": {
-      "value": "Submit"
+      "value": "Button"
     },
     "visibility": {
       "value": "{{true}}"
@@ -91,23 +91,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "1dfb7cd2-df11-4e0b-924b-f5de7c1ab4b0",
+      "id": "0c719d80-4f57-4865-91a4-011a26c02866",
       "type": "desktop",
-      "top": 10,
-      "left": 29,
-      "width": 13,
+      "top": 110,
+      "left": 1,
+      "width": 4,
       "height": 40,
-      "componentId": "8d243405-56ec-4af4-9ce2-74321ae36a99",
+      "componentId": "4b0db985-2275-49bb-83f0-72234ca119ae",
       "dimensionUnit": "count"
     },
     {
-      "id": "3a8ff09d-e38b-4f91-8320-5d0de5db817c",
+      "id": "01deb3e7-9e0f-4571-b3c1-81859ca72962",
       "type": "mobile",
-      "top": 10,
-      "left": 29,
-      "width": 13,
+      "top": 110,
+      "left": 1,
+      "width": 4,
       "height": 40,
-      "componentId": "8d243405-56ec-4af4-9ce2-74321ae36a99",
+      "componentId": "4b0db985-2275-49bb-83f0-72234ca119ae",
       "dimensionUnit": "count"
     }
   ]
