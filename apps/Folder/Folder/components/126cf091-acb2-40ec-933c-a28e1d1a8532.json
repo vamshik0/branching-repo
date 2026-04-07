@@ -6,7 +6,7 @@
   "parent": null,
   "properties": {
     "content": {
-      "value": "image"
+      "value": "video"
     },
     "visibility": {
       "value": "{{true}}"

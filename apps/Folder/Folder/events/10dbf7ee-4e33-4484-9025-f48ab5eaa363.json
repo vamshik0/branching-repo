@@ -1,0 +1,18 @@
+{
+  "id": "10dbf7ee-4e33-4484-9025-f48ab5eaa363",
+  "name": "button1 On click",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "actionId": "control-component",
+    "alertType": "info",
+    "component": "button1",
+    "componentId": "126cf091-acb2-40ec-933c-a28e1d1a8532",
+    "componentSpecificActionHandle": "resetImage",
+    "componentSpecificActionParams": []
+  },
+  "sourceId": "f1fa511f-58ad-4398-9ea2-9aa8e3359f6f",
+  "target": "component",
+  "appVersionId": "a549ea42-098b-42f4-aeb8-e18f885aa6e3"
+}
