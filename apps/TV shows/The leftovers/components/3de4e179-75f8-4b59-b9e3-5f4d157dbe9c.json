@@ -1,0 +1,142 @@
+{
+  "id": "3de4e179-75f8-4b59-b9e3-5f4d157dbe9c",
+  "name": "address.city",
+  "type": "TextInput",
+  "pageId": "39532271-a363-418e-a893-a1eb687ef97a",
+  "parent": "4c47cc63-5f93-41d9-b534-364147c71418",
+  "properties": {
+    "value": {
+      "value": "New York"
+    },
+    "label": {
+      "value": "City"
+    },
+    "placeholder": {
+      "value": "Enter your input"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    },
+    "showClearBtn": {
+      "value": "{{false}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "placeholderTextColor": {
+      "value": "var(--cc-placeholder-text)"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "accentColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "errTextColor": {
+      "value": "var(--cc-error-systemStatus)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "width": {
+      "value": "{{33}}"
+    },
+    "alignment": {
+      "value": "top"
+    },
+    "color": {
+      "value": "var(--cc-primary-text)"
+    },
+    "auto": {
+      "value": "{{true}}"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "icon": {
+      "value": "IconHome2"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "widthType": {
+      "value": "ofComponent"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "mandatory": {
+      "value": false
+    },
+    "regex": {
+      "value": ""
+    },
+    "minLength": {
+      "value": ""
+    },
+    "maxLength": {
+      "value": ""
+    },
+    "customRule": {
+      "value": ""
+    }
+  },
+  "layouts": [
+    {
+      "id": "e7ba3559-6993-4e73-b61f-5be38ec183af",
+      "type": "desktop",
+      "top": 480,
+      "left": 3,
+      "width": 37,
+      "height": 40,
+      "componentId": "3de4e179-75f8-4b59-b9e3-5f4d157dbe9c",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "e38d69cd-6268-4bcd-ad53-6feef13e203d",
+      "type": "mobile",
+      "top": 480,
+      "left": 3,
+      "width": 37,
+      "height": 40,
+      "componentId": "3de4e179-75f8-4b59-b9e3-5f4d157dbe9c",
+      "dimensionUnit": "count"
+    }
+  ]
+}
