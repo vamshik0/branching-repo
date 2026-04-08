@@ -205,11 +205,7 @@
       "value": "default"
     }
   },
-  "generalStyles": {
-    "boxShadow": {
-      "value": "0px 0px 0px 0px #00000040"
-    }
-  },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -223,7 +219,7 @@
     {
       "id": "c04ccb6d-98bc-47ff-ab5f-b42c9a4807a9",
       "type": "desktop",
-      "top": 90,
+      "top": 210,
       "left": 1,
       "width": 17,
       "height": 540,

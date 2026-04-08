@@ -1,0 +1,9 @@
+{
+  "id": "6925d39a-1b08-41fc-90ab-9835c1c28309",
+  "name": "jira",
+  "kind": "jira",
+  "type": "default",
+  "pluginId": "5dfffd48-bb68-4957-adf5-ed2638399b20",
+  "appVersionId": null,
+  "scope": "global"
+}

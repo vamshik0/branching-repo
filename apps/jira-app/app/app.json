@@ -1,13 +1,13 @@
 {
-  "id": "b9852ddd-62be-4994-a690-0a5494775060",
-  "name": "Pie chart",
+  "id": "f7025570-a969-48b1-88c8-73a628b89090",
+  "name": "jira-app",
   "type": "front-end",
-  "slug": "409e3146-76fd-4d6d-8c22-bd16ed0fcd10",
-  "isPublic": null,
+  "slug": "6b30e2f9-bf08-488c-9365-cc1fab9955a2",
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
-  "icon": "table",
+  "icon": "share",
   "tooljetVersion": "3.21.16-beta-ee"
 }
