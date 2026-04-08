@@ -43,5 +43,9 @@
   "252a86c2-d62c-4613-bb97-eff5453eb7d7": {
     "appPath": "apps/Test App",
     "updatedAt": "2026-04-08T04:54:13.466Z"
+  },
+  "f7025570-a969-48b1-88c8-73a628b89090": {
+    "appPath": "apps/jira-app",
+    "updatedAt": "2026-04-08T05:44:24.146Z"
   }
 }
