@@ -5,6 +5,12 @@
     "updatedAt": "2026-04-07T11:02:56.122Z",
     "contentHash": "7cf6ebe7a4337485c916cedeae652d12f005485a5d1f247bc1c02f854bdc5819"
   },
+  "6925d39a-1b08-41fc-90ab-9835c1c28309": {
+    "name": "jira",
+    "kind": "jira",
+    "updatedAt": "2026-04-08T05:44:39.310Z",
+    "contentHash": "4932264bfc60b72f574af9309a1be9c9db30b20f328ab04eaa144d5497cc44df"
+  },
   "7c2cfe5b-7eb7-4beb-a6c8-c03e84bfa372": {
     "name": "JSON place holder",
     "kind": "restapi",
@@ -29,5 +35,5 @@
     "updatedAt": "2026-04-07T14:30:09.634Z",
     "contentHash": "d89a17fb16577e3a06e868a51e0186a44494a1404e513f32f9374131361a82de"
   },
-  "lastUpdatedAt": "2026-04-08T05:34:31.320Z"
+  "lastUpdatedAt": "2026-04-08T05:44:39.310Z"
 }
