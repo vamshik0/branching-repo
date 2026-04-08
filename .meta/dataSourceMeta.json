@@ -20,8 +20,8 @@
   "a3622bec-4f32-4737-ac38-c9a657bcfbb2": {
     "name": "testMongo",
     "kind": "mongodb",
-    "updatedAt": "2026-04-08T05:04:31.871Z",
-    "contentHash": "efcf71a50ec5421c9d33d60dff99190a3cec1019798e37e04650458119c99d25"
+    "updatedAt": "2026-04-08T05:34:31.320Z",
+    "contentHash": "001f411ad7173fcc0f63768e5d66caeca741363f748cc5948ddda68376803138"
   },
   "dcccee48-320d-4ddf-9f89-687bcff1b2cc": {
     "name": "Different json data",
@@ -29,5 +29,5 @@
     "updatedAt": "2026-04-07T14:30:09.634Z",
     "contentHash": "d89a17fb16577e3a06e868a51e0186a44494a1404e513f32f9374131361a82de"
   },
-  "lastUpdatedAt": "2026-04-08T05:04:31.871Z"
+  "lastUpdatedAt": "2026-04-08T05:34:31.320Z"
 }
