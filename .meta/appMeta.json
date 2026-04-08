@@ -36,7 +36,11 @@
     "appPath": "apps/Data visualisation/Graph",
     "updatedAt": "2026-04-07T16:45:43.633Z"
   },
-  "252a86c2-d62c-4613-bb97-eff5453eb7d7": {
+  "b9852ddd-62be-4994-a690-0a5494775060": {
+    "appPath": "apps/Pie chart",
+    "updatedAt": "2026-04-08T05:29:33.229Z"
+  },
+    "252a86c2-d62c-4613-bb97-eff5453eb7d7": {
     "appPath": "apps/Test App",
     "updatedAt": "2026-04-08T04:54:13.466Z"
   }
