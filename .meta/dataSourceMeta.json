@@ -17,11 +17,17 @@
     "updatedAt": "2026-04-07T06:51:32.939Z",
     "contentHash": "1c5e1a56890d0d401477cba4edc35bf43b9fc5d5b6025cc6b4742a48e9f8a874"
   },
+  "a3622bec-4f32-4737-ac38-c9a657bcfbb2": {
+    "name": "testMongo",
+    "kind": "mongodb",
+    "updatedAt": "2026-04-08T04:55:25.408Z",
+    "contentHash": "5ac351a3669c062d60c04ea6508fdb2e80f400738704728bb37baa65d71ecf6a"
+  },
   "dcccee48-320d-4ddf-9f89-687bcff1b2cc": {
     "name": "Different json data",
     "kind": "restapi",
     "updatedAt": "2026-04-07T14:30:09.634Z",
     "contentHash": "d89a17fb16577e3a06e868a51e0186a44494a1404e513f32f9374131361a82de"
   },
-  "lastUpdatedAt": "2026-04-07T15:43:02.092Z"
+  "lastUpdatedAt": "2026-04-08T04:55:25.408Z"
 }
