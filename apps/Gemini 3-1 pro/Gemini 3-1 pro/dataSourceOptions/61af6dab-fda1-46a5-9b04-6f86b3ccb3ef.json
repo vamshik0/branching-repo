@@ -1,0 +1,105 @@
+{
+  "id": "61af6dab-fda1-46a5-9b04-6f86b3ccb3ef",
+  "options": {
+    "url": {
+      "value": "https://jsonplaceholder.typicode.com/comments",
+      "encrypted": false
+    },
+    "scopes": {
+      "value": "read, write",
+      "encrypted": false
+    },
+    "headers": {
+      "value": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "encrypted": false
+    },
+    "audience": {
+      "value": "",
+      "encrypted": false
+    },
+    "auth_url": {
+      "value": "",
+      "encrypted": false
+    },
+    "username": {
+      "value": "",
+      "encrypted": false
+    },
+    "auth_type": {
+      "value": "none",
+      "encrypted": false
+    },
+    "client_id": {
+      "value": "",
+      "encrypted": false
+    },
+    "grant_type": {
+      "value": "authorization_code",
+      "encrypted": false
+    },
+    "client_auth": {
+      "value": "body",
+      "encrypted": false
+    },
+    "add_token_to": {
+      "value": "header",
+      "encrypted": false
+    },
+    "header_prefix": {
+      "value": "Bearer ",
+      "encrypted": false
+    },
+    "ssl_certificate": {
+      "value": "none",
+      "encrypted": false
+    },
+    "access_token_url": {
+      "value": "",
+      "encrypted": false
+    },
+    "custom_auth_params": {
+      "value": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "encrypted": false
+    },
+    "custom_query_params": {
+      "value": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "encrypted": false
+    },
+    "retry_network_errors": {
+      "value": true,
+      "encrypted": false
+    },
+    "multiple_auth_enabled": {
+      "value": false,
+      "encrypted": false
+    },
+    "access_token_custom_headers": {
+      "value": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "encrypted": false
+    }
+  },
+  "environmentId": "b8146e4f-1026-44bd-b22f-82837cc8e382",
+  "dataSourceId": "b7d6b58a-4040-4b9a-befe-5cb1e9aa6dd2",
+  "createdAt": "2026-04-09T11:14:19.200Z",
+  "updatedAt": "2026-04-09T11:14:19.322Z"
+}
