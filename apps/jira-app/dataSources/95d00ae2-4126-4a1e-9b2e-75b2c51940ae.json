@@ -1,9 +1,0 @@
-{
-  "id": "95d00ae2-4126-4a1e-9b2e-75b2c51940ae",
-  "name": "postgresql",
-  "kind": "postgresql",
-  "type": "default",
-  "pluginId": null,
-  "appVersionId": null,
-  "scope": "global"
-}
