@@ -6,7 +6,7 @@
   "parent": null,
   "properties": {
     "text": {
-      "value": "Button"
+      "value": "render mongoDB data"
     },
     "visibility": {
       "value": "{{true}}"
@@ -95,7 +95,7 @@
       "type": "desktop",
       "top": 100,
       "left": 13,
-      "width": 4,
+      "width": 5,
       "height": 40,
       "componentId": "f1fa511f-58ad-4398-9ea2-9aa8e3359f6f",
       "dimensionUnit": "count"

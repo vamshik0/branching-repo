@@ -1,0 +1,58 @@
+{
+  "id": "9b95f7de-203d-45f9-9a8b-668b24ab620c",
+  "options": {
+    "host": {
+      "value": "9.234.17.31",
+      "encrypted": false
+    },
+    "port": {
+      "value": "27018",
+      "encrypted": false
+    },
+    "use_ssl": {
+      "value": false,
+      "encrypted": false
+    },
+    "database": {
+      "value": "test",
+      "encrypted": false
+    },
+    "password": {
+      "encrypted": true,
+      "credential_id": "b6dc5db5-f89d-4af2-bd7c-73e6e452bd3f",
+      "workspace_constant": "{{secrets.mongo}}"
+    },
+    "ssh_port": {
+      "value": 22,
+      "encrypted": false
+    },
+    "username": {
+      "value": "mongo",
+      "encrypted": false
+    },
+    "ssh_enabled": {
+      "value": "disabled",
+      "encrypted": false
+    },
+    "ssh_auth_type": {
+      "value": "private_key",
+      "encrypted": false
+    },
+    "connection_type": {
+      "value": "manual",
+      "encrypted": false
+    },
+    "tls_certificate": {
+      "value": "none",
+      "encrypted": false
+    },
+    "connection_format": {
+      "value": "mongodb",
+      "encrypted": false
+    }
+  },
+  "environmentId": "9630211d-2d24-4f7f-bf35-9842229ef8e2",
+  "dataSourceId": "a41ec6b0-74a0-4d71-a601-8430934e722e",
+  "createdAt": "2026-04-09T04:57:00.349Z",
+  "updatedAt": "2026-04-09T06:47:34.720Z"
+}
