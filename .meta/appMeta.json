@@ -47,5 +47,9 @@
   "f7025570-a969-48b1-88c8-73a628b89090": {
     "appPath": "apps/jira-app",
     "updatedAt": "2026-04-08T06:20:29.103Z"
+  },
+  "ae6f0b52-46c7-4e3a-b5a1-9f2606665f68": {
+    "appPath": "apps/Trello app",
+    "updatedAt": "2026-04-09T07:09:39.350Z"
   }
 }
