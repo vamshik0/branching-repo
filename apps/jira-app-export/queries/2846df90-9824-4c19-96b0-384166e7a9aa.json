@@ -1,0 +1,13 @@
+{
+  "id": "2846df90-9824-4c19-96b0-384166e7a9aa",
+  "name": "jira1",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "resource": "user",
+    "operation": "get_user",
+    "runOnPageLoad": true
+  },
+  "dataSourceId": "6925d39a-1b08-41fc-90ab-9835c1c28309",
+  "appVersionId": "4f90650e-e6c1-4472-ab42-c2abf3831083"
+}

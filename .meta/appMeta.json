@@ -55,5 +55,9 @@
   "d3922b85-2dbd-4f1d-91d0-8dd256cb5592": {
     "appPath": "apps/Gemini 3-1 pro/Gemini 3-1 pro",
     "updatedAt": "2026-04-09T12:00:05.894Z"
+  },
+  "f7025570-a969-48b1-88c8-73a628b89090": {
+    "appPath": "apps/jira-app-export",
+    "updatedAt": "2026-04-10T07:41:36.521Z"
   }
 }
