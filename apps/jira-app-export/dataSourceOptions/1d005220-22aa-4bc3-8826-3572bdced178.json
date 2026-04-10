@@ -1,0 +1,13 @@
+{
+  "id": "1d005220-22aa-4bc3-8826-3572bdced178",
+  "options": {
+    "auth_type": {
+      "value": "personal_access_token",
+      "encrypted": false
+    }
+  },
+  "environmentId": "b03a9c71-607d-423f-8bb7-43e9937c78c9",
+  "dataSourceId": "9c3b8e5f-316d-4198-b50f-b5551a3e350f",
+  "createdAt": "2026-04-10T08:32:46.369Z",
+  "updatedAt": "2026-04-10T08:32:46.611Z"
+}

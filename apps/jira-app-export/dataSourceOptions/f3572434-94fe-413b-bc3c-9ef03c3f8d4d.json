@@ -1,13 +1,13 @@
 {
-  "id": "b3cd96af-96d2-438a-a008-a5ae85f94cfa",
+  "id": "f3572434-94fe-413b-bc3c-9ef03c3f8d4d",
   "options": {
     "host": {
       "encrypted": true,
-      "credential_id": "686ddfb9-9f4e-48c8-b05f-fc888abb019b"
+      "credential_id": "d8608553-74ea-427d-b006-9c60f99393c9"
     },
     "port": {
       "encrypted": true,
-      "credential_id": "9729aead-96b0-4a41-9daf-a409c7984212"
+      "credential_id": "cc5261ed-3769-450b-8599-0fd79d139e0f"
     },
     "database": {
       "value": "sample_db",
@@ -15,11 +15,11 @@
     },
     "password": {
       "encrypted": true,
-      "credential_id": "1b65c281-d9c5-47e7-b175-214deebcdcef"
+      "credential_id": "5bd6da7f-5cb4-4b1d-9170-e6022dbf1119"
     },
     "username": {
       "encrypted": true,
-      "credential_id": "400d7ac5-31ba-4476-97d7-9b4a56c314bd"
+      "credential_id": "62b397d8-2b05-49c6-bcb8-48f07be6e727"
     },
     "ssl_enabled": {
       "value": false,
@@ -34,8 +34,8 @@
       "encrypted": false
     }
   },
-  "environmentId": "6f3bb879-5806-4f7d-8a24-1282c068e1a4",
-  "dataSourceId": "0518190f-5186-4940-aa02-17df6cad6404",
-  "createdAt": "2026-04-10T07:31:47.602Z",
-  "updatedAt": "2026-04-10T07:31:47.602Z"
+  "environmentId": "9aca771c-d231-493e-bacc-19e0004a175f",
+  "dataSourceId": "9f7fef10-be1f-4053-bcb0-5906b025c2de",
+  "createdAt": "2026-04-10T08:30:04.194Z",
+  "updatedAt": "2026-04-10T08:30:04.194Z"
 }

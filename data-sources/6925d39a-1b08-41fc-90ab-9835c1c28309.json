@@ -13,6 +13,5 @@
     "staging": {
       "auth_type": "personal_access_token"
     }
-  },
-  "isPlugin": true
+  }
 }
