@@ -59,5 +59,9 @@
   "f7025570-a969-48b1-88c8-73a628b89090": {
     "appPath": "apps/jira-app-export",
     "updatedAt": "2026-04-10T08:46:30.542Z"
+  },
+  "2c081995-b23c-492c-bc71-2150ec9e34dd": {
+    "appPath": "apps/Gladiator_Copy",
+    "updatedAt": "2026-04-13T07:28:35.990Z"
   }
 }
