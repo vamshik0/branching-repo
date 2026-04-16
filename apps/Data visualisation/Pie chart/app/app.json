@@ -2,12 +2,12 @@
   "id": "b9852ddd-62be-4994-a690-0a5494775060",
   "name": "Pie chart",
   "type": "front-end",
-  "slug": "409e3146-76fd-4d6d-8c22-bd16ed0fcd10",
-  "isPublic": null,
+  "slug": "ec29c841-0717-4135-8a50-bd6ab87e9677",
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "table",
-  "tooljetVersion": "3.21.16-beta-ee"
+  "tooljetVersion": "3.21.18-beta-ee"
 }
