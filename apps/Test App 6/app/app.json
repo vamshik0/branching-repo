@@ -2,12 +2,12 @@
   "id": "252a86c2-d62c-4613-bb97-eff5453eb7d7",
   "name": "Test App 6",
   "type": "front-end",
-  "slug": "9dcf932d-b20b-49cf-8b24-789add97a8a8",
-  "isPublic": null,
+  "slug": "5049b4a2-5f5c-4ffe-babf-66dd67ba8a28",
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "home",
-  "tooljetVersion": "3.21.16-beta-ee"
+  "tooljetVersion": "3.21.18-beta-ee"
 }
