@@ -1,5 +1,5 @@
 {
-  "id": "9bd2973b-3984-4b21-843e-869728883867",
+  "id": "364192b1-da58-4cf0-ac45-85efb20fe010",
   "options": {
     "url": {
       "value": "https://jsonplaceholder.typicode.com/users",
@@ -98,8 +98,8 @@
       "encrypted": false
     }
   },
-  "environmentId": "25ea517d-57f3-4ace-a195-62f68de04f7c",
-  "dataSourceId": "dcccee48-320d-4ddf-9f89-687bcff1b2cc",
-  "createdAt": "2026-04-07T14:31:22.198Z",
-  "updatedAt": "2026-04-08T05:35:26.160Z"
+  "environmentId": "560d38ef-eb68-4c7f-b915-645ccfb1c1de",
+  "dataSourceId": "efd4c91d-45bc-4b9d-8189-bf26de515023",
+  "createdAt": "2026-04-16T09:31:17.279Z",
+  "updatedAt": "2026-04-16T09:31:17.418Z"
 }
