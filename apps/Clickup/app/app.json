@@ -1,0 +1,13 @@
+{
+  "id": "fa9472ca-0323-4a32-ae78-2cf25d9cc81d",
+  "name": "Clickup",
+  "type": "front-end",
+  "slug": "b3afc2a5-1de1-4200-a484-4fab9a1e3edb",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "server",
+  "tooljetVersion": "3.21.19-beta-ee"
+}

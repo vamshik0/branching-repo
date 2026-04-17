@@ -67,5 +67,9 @@
   "a151ecaf-d976-4ec4-a94c-e33888b21aed": {
     "appPath": "apps/Cycle/Cycle app",
     "updatedAt": "2026-04-17T08:15:56.974Z"
+  },
+  "fa9472ca-0323-4a32-ae78-2cf25d9cc81d": {
+    "appPath": "apps/Clickup",
+    "updatedAt": "2026-04-17T08:34:08.789Z"
   }
 }
