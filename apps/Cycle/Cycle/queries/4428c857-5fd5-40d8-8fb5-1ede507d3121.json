@@ -13,7 +13,8 @@
     "retry_network_errors": true,
     "transformationLanguage": "javascript",
     "enableTransformation": false,
-    "mode": "sql"
+    "mode": "sql",
+    "runOnPageLoad": true
   },
   "dataSourceId": "7c2cfe5b-7eb7-4beb-a6c8-c03e84bfa372",
   "appVersionId": "a8d85f66-8ddb-4243-b8dc-435964127005"

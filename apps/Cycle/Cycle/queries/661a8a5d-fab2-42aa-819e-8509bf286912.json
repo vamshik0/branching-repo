@@ -5,7 +5,9 @@
     "mode": "sql",
     "transformationLanguage": "javascript",
     "enableTransformation": false,
-    "query": "select * from products"
+    "query": "select * from products",
+    "method": "get",
+    "runOnPageLoad": true
   },
   "dataSourceId": "50d1a55f-fbdb-4e9f-93b8-0f1e5219ef93",
   "appVersionId": "a8d85f66-8ddb-4243-b8dc-435964127005"
