@@ -1,0 +1,18 @@
+{
+  "id": "b79b3e6e-e593-4d99-afdc-ff730fb1d99f",
+  "name": "clickup",
+  "kind": "clickup",
+  "type": "default",
+  "options": {
+    "development": {
+      "apiKey": "{{constants.clickup}}"
+    },
+    "production": {
+      "apiKey": "{{constants.clickup}}"
+    },
+    "staging": {
+      "apiKey": "{{constants.clickup}}"
+    }
+  },
+  "isPlugin": true
+}
