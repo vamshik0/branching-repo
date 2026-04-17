@@ -1,0 +1,9 @@
+{
+  "id": "50d1a55f-fbdb-4e9f-93b8-0f1e5219ef93",
+  "name": "Sample data source",
+  "kind": "postgresql",
+  "type": "sample",
+  "pluginId": null,
+  "appVersionId": null,
+  "scope": "global"
+}
