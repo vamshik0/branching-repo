@@ -87,11 +87,7 @@
       "value": "ofComponent"
     }
   },
-  "generalStyles": {
-    "boxShadow": {
-      "value": "0px 0px 0px 0px #00000040"
-    }
-  },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -121,8 +117,8 @@
     {
       "id": "30a0cbf0-26d7-4987-9d72-94d4ab726510",
       "type": "desktop",
-      "top": 280,
-      "left": 4,
+      "top": 140,
+      "left": null,
       "width": 10,
       "height": 40,
       "componentId": "1849138c-613c-4846-835a-74cc4e37986b",

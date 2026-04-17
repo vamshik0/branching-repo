@@ -1,0 +1,14 @@
+{
+  "id": "d574e0dc-573b-4321-a57f-f5f74248eeab",
+  "options": {
+    "apiKey": {
+      "encrypted": true,
+      "credential_id": "cd906498-0e25-427d-8201-5baf16723edc",
+      "workspace_constant": "{{constants.clickup}}"
+    }
+  },
+  "environmentId": "7c0d7c55-06a0-4e8f-8855-0f61078b6f3b",
+  "dataSourceId": "d92bf24d-78c0-40e3-980d-026c903c9072",
+  "createdAt": "2026-04-17T08:56:35.653Z",
+  "updatedAt": "2026-04-17T08:56:36.101Z"
+}

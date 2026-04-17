@@ -1,0 +1,14 @@
+{
+  "id": "a6c640f6-a1f3-4867-8dba-3df6d786707a",
+  "options": {
+    "apiKey": {
+      "encrypted": true,
+      "credential_id": "b6eef816-8e60-431d-a6cd-ac9680ea8c67",
+      "workspace_constant": "{{constants.clickup}}"
+    }
+  },
+  "environmentId": "292cc0b9-c6ff-4507-8f23-a5e3b20ff36b",
+  "dataSourceId": "d92bf24d-78c0-40e3-980d-026c903c9072",
+  "createdAt": "2026-04-17T08:56:35.653Z",
+  "updatedAt": "2026-04-17T08:56:36.129Z"
+}
