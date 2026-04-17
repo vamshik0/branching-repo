@@ -1,0 +1,121 @@
+{
+  "id": "fcb1cb93-b114-4b5e-a62f-78b30a6b03c6",
+  "name": "clickup1",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "runOnPageLoad": true,
+    "params": {
+      "path": {},
+      "query": {},
+      "request": {}
+    },
+    "path": "/v2/user",
+    "operation": "get",
+    "selectedOperation": {
+      "summary": "Get Authorized User",
+      "tags": [
+        "Authorization"
+      ],
+      "description": "View the details of the authenticated user's ClickUp account.",
+      "operationId": "GetAuthorizedUser",
+      "parameters": [],
+      "responses": {
+        "200": {
+          "description": "",
+          "headers": {},
+          "content": {
+            "application/json": {
+              "schema": {
+                "title": "GetAuthorizedUserresponse",
+                "type": "object",
+                "properties": {
+                  "user": {
+                    "title": "User",
+                    "type": "object",
+                    "properties": {
+                      "id": {
+                        "type": "integer",
+                        "contentEncoding": "int32"
+                      },
+                      "username": {
+                        "type": "string"
+                      },
+                      "email": {
+                        "type": "string"
+                      },
+                      "color": {
+                        "type": "string"
+                      },
+                      "profilePicture": {
+                        "type": "string"
+                      },
+                      "initials": {
+                        "type": "string"
+                      },
+                      "week_start_day": {
+                        "type": "integer",
+                        "contentEncoding": "int32",
+                        "description": "The user's preferred start of the calendar week setting. \\ `0` is Sunday. \\ `1` is Monday."
+                      },
+                      "global_font_support": {
+                        "type": "boolean"
+                      },
+                      "timezeone": {
+                        "type": "string"
+                      }
+                    },
+                    "examples": [
+                      {
+                        "id": 123,
+                        "username": "John Doe",
+                        "email": "user@company.com",
+                        "color": "#000000",
+                        "profilePicture": "https://clickup.com/avatar.jpg",
+                        "initials": "JD",
+                        "week_start_day": 0,
+                        "global_font_support": false,
+                        "timezone": "America/Los_Angeles"
+                      }
+                    ]
+                  }
+                },
+                "examples": [
+                  {
+                    "user": {
+                      "id": 123,
+                      "username": "John Doe",
+                      "email": "user@company.com",
+                      "color": "#000000",
+                      "profilePicture": "https://clickup.com/avatar.jpg",
+                      "initials": "JD",
+                      "week_start_day": 0,
+                      "global_font_support": false,
+                      "timezone": "America/Los_Angeles"
+                    }
+                  }
+                ]
+              },
+              "example": {
+                "user": {
+                  "id": 123,
+                  "username": "John Doe",
+                  "email": "user@company.com",
+                  "color": "#000000",
+                  "profilePicture": "https://clickup.com/avatar.jpg",
+                  "initials": "JD",
+                  "week_start_day": 0,
+                  "global_font_support": false,
+                  "timezone": "America/Los_Angeles"
+                }
+              }
+            }
+          }
+        }
+      },
+      "deprecated": false
+    }
+  },
+  "dataSourceId": "b79b3e6e-e593-4d99-afdc-ff730fb1d99f",
+  "appVersionId": "0f24e90a-fa3f-46cb-8095-b808384acbac"
+}

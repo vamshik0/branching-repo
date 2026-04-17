@@ -1,0 +1,9 @@
+{
+  "id": "b79b3e6e-e593-4d99-afdc-ff730fb1d99f",
+  "name": "clickup",
+  "kind": "clickup",
+  "type": "default",
+  "pluginId": "74146d14-f333-4e37-b5ba-97d96a3415e9",
+  "appVersionId": null,
+  "scope": "global"
+}
