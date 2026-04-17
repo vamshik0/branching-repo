@@ -1,9 +1,9 @@
 {
   "id": "fa9472ca-0323-4a32-ae78-2cf25d9cc81d",
-  "name": "Clickup",
+  "name": "Click-up plugin",
   "type": "front-end",
-  "slug": "b3afc2a5-1de1-4200-a484-4fab9a1e3edb",
-  "isPublic": null,
+  "slug": "6a320c11-bb27-4771-9352-53bf674078e8",
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
