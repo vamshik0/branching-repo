@@ -3,11 +3,11 @@
   "name": "Maximum volume 1",
   "type": "front-end",
   "slug": "bea0545a-a1f9-4cd2-986b-83cea70ca86a",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "floppydisk",
-  "tooljetVersion": "3.21.16-beta-ee"
+  "tooljetVersion": "3.21.21-beta-ee"
 }
