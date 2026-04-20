@@ -1,0 +1,13 @@
+{
+  "id": "65becd24-713a-49e7-bf4c-5109e92d56cc",
+  "name": "Butterscotch",
+  "type": "front-end",
+  "slug": "905f659e-c834-4139-8959-8bf87503547d",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "archive",
+  "tooljetVersion": "3.21.21-beta-ee"
+}
