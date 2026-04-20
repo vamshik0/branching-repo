@@ -1,0 +1,13 @@
+{
+  "id": "10786cd5-3e4c-4032-8f5f-307783412a19",
+  "name": "Vanilla",
+  "type": "front-end",
+  "slug": "f854b3ec-a018-4b91-825f-da9fc4ad4309",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "server",
+  "tooljetVersion": "3.21.21-beta-ee"
+}
