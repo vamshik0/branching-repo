@@ -1,0 +1,9 @@
+{
+  "id": "7c2cfe5b-7eb7-4beb-a6c8-c03e84bfa372",
+  "name": "JSON place holder",
+  "kind": "restapi",
+  "type": "default",
+  "pluginId": null,
+  "appVersionId": null,
+  "scope": "global"
+}
