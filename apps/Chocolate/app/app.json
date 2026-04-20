@@ -1,0 +1,13 @@
+{
+  "id": "461604c6-932e-4533-938c-a7ed9e3c1b07",
+  "name": "Chocolate",
+  "type": "front-end",
+  "slug": "03bfa80f-4454-4b4c-bcc7-d8073727ac00",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "shield",
+  "tooljetVersion": "3.21.21-beta-ee"
+}
