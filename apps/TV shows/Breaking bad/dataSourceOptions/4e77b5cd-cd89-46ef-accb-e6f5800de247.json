@@ -1,0 +1,41 @@
+{
+  "id": "4e77b5cd-cd89-46ef-accb-e6f5800de247",
+  "options": {
+    "port": {
+      "value": 27017,
+      "encrypted": false
+    },
+    "use_ssl": {
+      "value": false,
+      "encrypted": false
+    },
+    "ssh_port": {
+      "value": 22,
+      "encrypted": false
+    },
+    "ssh_enabled": {
+      "value": "disabled",
+      "encrypted": false
+    },
+    "ssh_auth_type": {
+      "value": "private_key",
+      "encrypted": false
+    },
+    "connection_type": {
+      "value": "manual",
+      "encrypted": false
+    },
+    "tls_certificate": {
+      "value": "none",
+      "encrypted": false
+    },
+    "connection_format": {
+      "value": "mongodb",
+      "encrypted": false
+    }
+  },
+  "environmentId": "6f54e9e2-0c13-4422-a87c-b4017d2f6d5e",
+  "dataSourceId": "b37393b9-5394-4053-a174-2710534976ec",
+  "createdAt": "2026-04-21T06:35:28.527Z",
+  "updatedAt": "2026-04-21T06:35:28.527Z"
+}

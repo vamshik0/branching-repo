@@ -3,11 +3,11 @@
   "name": "Fight club",
   "type": "front-end",
   "slug": "c33d4b7e-ff9f-4e85-be3b-16473ad3a940",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "sun",
-  "tooljetVersion": "3.21.16-beta-ee"
+  "tooljetVersion": "3.21.21-beta-ee"
 }

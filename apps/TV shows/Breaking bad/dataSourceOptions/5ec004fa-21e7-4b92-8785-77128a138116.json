@@ -1,0 +1,45 @@
+{
+  "id": "5ec004fa-21e7-4b92-8785-77128a138116",
+  "options": {
+    "role": {
+      "value": "",
+      "encrypted": false
+    },
+    "schema": {
+      "value": "",
+      "encrypted": false
+    },
+    "account": {
+      "value": "",
+      "encrypted": false
+    },
+    "database": {
+      "value": "",
+      "encrypted": false
+    },
+    "username": {
+      "value": "",
+      "encrypted": false
+    },
+    "auth_type": {
+      "value": "basic",
+      "encrypted": false
+    },
+    "warehouse": {
+      "value": "",
+      "encrypted": false
+    },
+    "grant_type": {
+      "value": "authorization_code",
+      "encrypted": false
+    },
+    "oauth_type": {
+      "value": "custom_app",
+      "encrypted": false
+    }
+  },
+  "environmentId": "6459b036-b045-44e2-a11c-91935612c2fe",
+  "dataSourceId": "4d0a3d1e-1fbc-47b9-9d97-89a775746fb9",
+  "createdAt": "2026-04-21T06:35:28.527Z",
+  "updatedAt": "2026-04-21T06:35:28.527Z"
+}

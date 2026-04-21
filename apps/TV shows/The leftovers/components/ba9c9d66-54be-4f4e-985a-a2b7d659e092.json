@@ -141,6 +141,9 @@
     },
     "selectRowOnCellEdit": {
       "value": "{{false}}"
+    },
+    "disableRowDeselection": {
+      "value": "{{false}}"
     }
   },
   "general": {},
@@ -192,6 +195,9 @@
     },
     "padding": {
       "value": "default"
+    },
+    "selectedRowColor": {
+      "value": "var(--cc-surface2-surface)"
     }
   },
   "generalStyles": {

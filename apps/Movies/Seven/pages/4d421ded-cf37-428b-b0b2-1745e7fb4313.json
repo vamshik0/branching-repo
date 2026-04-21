@@ -14,5 +14,7 @@
   "url": null,
   "openIn": "new_tab",
   "type": "default",
+  "pageHeader": null,
+  "pageFooter": null,
   "appId": "b091670f-e75f-4026-809d-72351995f1db"
 }
