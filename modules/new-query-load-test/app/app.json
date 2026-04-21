@@ -1,0 +1,13 @@
+{
+  "id": "599467a0-83f9-4aa1-b4d8-2943ff21ac7e",
+  "name": "new-query-load-test",
+  "type": "module",
+  "slug": "ea26934c-0b24-4a13-98be-f5389602b764",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "apps",
+  "tooljetVersion": "3.21.21-beta-ee"
+}

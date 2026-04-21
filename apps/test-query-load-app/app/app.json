@@ -1,0 +1,13 @@
+{
+  "id": "811be62e-7464-488a-8231-191082d543b3",
+  "name": "test-query-load-app",
+  "type": "front-end",
+  "slug": "f288c417-3adb-42ef-a2ef-e5af0cae9b6b",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "server",
+  "tooljetVersion": "3.21.21-beta-ee"
+}

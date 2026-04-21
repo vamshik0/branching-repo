@@ -66,5 +66,9 @@
   "fa9472ca-0323-4a32-ae78-2cf25d9cc81d": {
     "appPath": "apps/Plugins/Click-up plugin",
     "updatedAt": "2026-04-17T10:33:44.949Z"
+  },
+  "811be62e-7464-488a-8231-191082d543b3": {
+    "appPath": "apps/test-query-load-app",
+    "updatedAt": "2026-04-21T08:32:12.589Z"
   }
 }

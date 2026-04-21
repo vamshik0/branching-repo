@@ -18,5 +18,9 @@
   "3e6fcb51-655b-46c9-b0f7-1e5e82c59016": {
     "appPath": "modules/apple-3",
     "updatedAt": "2026-04-21T07:15:29.748Z"
+  },
+  "599467a0-83f9-4aa1-b4d8-2943ff21ac7e": {
+    "appPath": "modules/new-query-load-test",
+    "updatedAt": "2026-04-21T08:32:12.588Z"
   }
 }
