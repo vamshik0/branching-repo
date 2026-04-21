@@ -3,7 +3,7 @@
   "name": "Vanilla",
   "type": "front-end",
   "slug": "f854b3ec-a018-4b91-825f-da9fc4ad4309",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
