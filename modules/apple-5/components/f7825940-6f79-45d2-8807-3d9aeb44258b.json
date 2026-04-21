@@ -1,0 +1,90 @@
+{
+  "id": "f7825940-6f79-45d2-8807-3d9aeb44258b",
+  "name": "audiorecorder1",
+  "type": "AudioRecorder",
+  "pageId": "77ae46b0-2b3e-4a1b-98e1-e0ec49b57b6a",
+  "parent": "09e9ca90-ef84-4d86-95d1-33c88b93a6cc",
+  "properties": {
+    "label": {
+      "value": "Click to start recording"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "recorderIcon": {
+      "value": "IconMicrophone"
+    },
+    "recorderIconColor": {
+      "value": "#F6430D"
+    },
+    "labelColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "accentColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "iconVisibility": {
+      "value": true
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "5cad8269-77e6-4fbf-a362-b18222f0f468",
+      "type": "desktop",
+      "top": 430,
+      "left": 3,
+      "width": 24,
+      "height": 70,
+      "componentId": "f7825940-6f79-45d2-8807-3d9aeb44258b",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "d7319ac7-125d-4c2d-ad35-5fbe85f1697b",
+      "type": "mobile",
+      "top": 430,
+      "left": 3,
+      "width": 24,
+      "height": 70,
+      "componentId": "f7825940-6f79-45d2-8807-3d9aeb44258b",
+      "dimensionUnit": "count"
+    }
+  ]
+}
