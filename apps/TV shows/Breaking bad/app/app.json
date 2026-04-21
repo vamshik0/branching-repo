@@ -3,11 +3,11 @@
   "name": "Breaking bad",
   "type": "front-end",
   "slug": "01a05f42-12e8-40e4-b3bb-6d5fdb1cc161",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "menuhome",
-  "tooljetVersion": "3.21.16-beta-ee"
+  "tooljetVersion": "3.21.21-beta-ee"
 }

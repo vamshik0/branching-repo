@@ -1,5 +1,5 @@
 {
-  "id": "e70c9e0f-dd52-4c05-812d-f4158694dea5",
+  "id": "6cd70eb4-10b1-4575-ba9f-339d0413fc77",
   "options": {
     "port": {
       "value": 27017,
@@ -34,8 +34,8 @@
       "encrypted": false
     }
   },
-  "environmentId": "55be074d-810a-4105-ad62-40d29ee6f2c1",
-  "dataSourceId": "5a20b496-70c4-451c-b395-32a05ead001c",
-  "createdAt": "2026-04-07T07:04:00.731Z",
-  "updatedAt": "2026-04-07T10:05:24.469Z"
+  "environmentId": "6459b036-b045-44e2-a11c-91935612c2fe",
+  "dataSourceId": "b37393b9-5394-4053-a174-2710534976ec",
+  "createdAt": "2026-04-21T06:35:28.527Z",
+  "updatedAt": "2026-04-21T06:35:28.527Z"
 }

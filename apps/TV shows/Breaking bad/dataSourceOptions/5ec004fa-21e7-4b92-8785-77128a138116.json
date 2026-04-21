@@ -1,5 +1,5 @@
 {
-  "id": "10e7abac-f78d-48db-bf45-ed26e285aee2",
+  "id": "5ec004fa-21e7-4b92-8785-77128a138116",
   "options": {
     "role": {
       "value": "",
@@ -38,8 +38,8 @@
       "encrypted": false
     }
   },
-  "environmentId": "7d4b8b23-da58-4bb8-bb6a-0e7a82ac5b76",
-  "dataSourceId": "f3e969e1-9b4a-4b53-b767-099e01381e1e",
-  "createdAt": "2026-04-07T07:04:00.731Z",
-  "updatedAt": "2026-04-07T10:05:24.489Z"
+  "environmentId": "6459b036-b045-44e2-a11c-91935612c2fe",
+  "dataSourceId": "4d0a3d1e-1fbc-47b9-9d97-89a775746fb9",
+  "createdAt": "2026-04-21T06:35:28.527Z",
+  "updatedAt": "2026-04-21T06:35:28.527Z"
 }
