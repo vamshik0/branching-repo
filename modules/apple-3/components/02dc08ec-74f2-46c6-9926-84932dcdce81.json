@@ -1,0 +1,102 @@
+{
+  "id": "02dc08ec-74f2-46c6-9926-84932dcdce81",
+  "name": "listview1",
+  "type": "Listview",
+  "pageId": "7023ae68-6b2d-4762-bfef-f57f227240db",
+  "parent": "1ad97c8d-4fee-4706-967d-61378ce7a04d",
+  "properties": {
+    "dataSourceSelector": {
+      "value": "rawJson"
+    },
+    "data": {
+      "value": "{{[\n    { imageURL: 'https://www.svgrepo.com/show/34217/image.svg', text: 'Sample text 1', buttonText: 'Button 1' },\n      { imageURL: 'https://www.svgrepo.com/show/34217/image.svg', text: 'Sample text 1', buttonText: 'Button 2' },\n      { imageURL: 'https://www.svgrepo.com/show/34217/image.svg', text: 'Sample text 1', buttonText: 'Button 3' },\n    ]}}"
+    },
+    "mode": {
+      "value": "list"
+    },
+    "columns": {
+      "value": "{{3}}"
+    },
+    "rowHeight": {
+      "value": "100"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "dynamicHeight": {
+      "value": "{{false}}"
+    },
+    "visible": {
+      "value": "{{true}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    },
+    "showBorder": {
+      "value": "{{true}}"
+    },
+    "rowsPerPage": {
+      "value": "{{10}}"
+    },
+    "enablePagination": {
+      "value": "{{false}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderColor": {
+      "value": "var(--cc-weak-border)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "1cd29c96-1bcb-42c2-aff8-2ec941d61238",
+      "type": "desktop",
+      "top": 160,
+      "left": 2,
+      "width": 38,
+      "height": 450,
+      "componentId": "02dc08ec-74f2-46c6-9926-84932dcdce81",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "915ad05b-3112-46fb-a3f9-6bfc60406598",
+      "type": "mobile",
+      "top": 160,
+      "left": 2,
+      "width": 38,
+      "height": 450,
+      "componentId": "02dc08ec-74f2-46c6-9926-84932dcdce81",
+      "dimensionUnit": "count"
+    }
+  ]
+}
