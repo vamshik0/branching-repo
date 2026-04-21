@@ -1,12 +1,12 @@
 {
-  "id": "4b0db985-2275-49bb-83f0-72234ca119ae",
+  "id": "bc22d2f5-e38a-4089-8bae-edd1f1da9668",
   "name": "button1",
   "type": "Button",
-  "pageId": "68bda24a-f558-4361-90fb-5bccc92b7aaf",
-  "parent": null,
+  "pageId": "b0634dc7-9ad4-410f-bc91-6c2a7940d9cb",
+  "parent": "e7829d83-7ef7-4b6b-8821-87da40d5afbd",
   "properties": {
     "text": {
-      "value": "Button"
+      "value": "Apple-2"
     },
     "visibility": {
       "value": "{{true}}"
@@ -75,7 +75,11 @@
       "value": "primary"
     }
   },
-  "generalStyles": {},
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -87,23 +91,23 @@
   "validation": {},
   "layouts": [
     {
-      "id": "0c719d80-4f57-4865-91a4-011a26c02866",
+      "id": "708c5591-6ebf-4b57-8c35-527cc6acdfb3",
       "type": "desktop",
-      "top": 110,
-      "left": 1,
-      "width": 4,
+      "top": 70,
+      "left": 4,
+      "width": 10,
       "height": 40,
-      "componentId": "4b0db985-2275-49bb-83f0-72234ca119ae",
+      "componentId": "bc22d2f5-e38a-4089-8bae-edd1f1da9668",
       "dimensionUnit": "count"
     },
     {
-      "id": "01deb3e7-9e0f-4571-b3c1-81859ca72962",
+      "id": "0f3786e1-b64b-49ce-92ac-100ed0fdcdd7",
       "type": "mobile",
-      "top": 110,
-      "left": 1,
-      "width": 4,
+      "top": 70,
+      "left": 4,
+      "width": 10,
       "height": 40,
-      "componentId": "4b0db985-2275-49bb-83f0-72234ca119ae",
+      "componentId": "bc22d2f5-e38a-4089-8bae-edd1f1da9668",
       "dimensionUnit": "count"
     }
   ]
