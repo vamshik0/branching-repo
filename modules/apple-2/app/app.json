@@ -1,0 +1,13 @@
+{
+  "id": "fe7a03ba-6bd9-4dc2-adc9-3b0b9a11ce4d",
+  "name": "apple-2",
+  "type": "module",
+  "slug": "1e46f812-506c-49b6-a420-8e12bf7e0fb5",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "sentfast",
+  "tooljetVersion": "3.21.21-beta-ee"
+}

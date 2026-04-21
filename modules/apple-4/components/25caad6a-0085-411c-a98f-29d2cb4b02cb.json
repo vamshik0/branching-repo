@@ -1,0 +1,97 @@
+{
+  "id": "25caad6a-0085-411c-a98f-29d2cb4b02cb",
+  "name": "toggleswitch1",
+  "type": "ToggleSwitchV2",
+  "pageId": "5a55a3ef-ce33-4dc1-a507-344f0cfbca55",
+  "parent": "e7cf219d-6d4b-4dad-b0a7-439c0c5ffa4f",
+  "properties": {
+    "label": {
+      "value": "Label"
+    },
+    "defaultValue": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "toggleSwitchColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "uncheckedColor": {
+      "value": "var(--cc-surface3-surface)"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "handleColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "alignment": {
+      "value": "right"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "padding": {
+      "value": "default"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "mandatory": {
+      "value": "{{false}}"
+    },
+    "customRule": {
+      "value": null
+    }
+  },
+  "layouts": [
+    {
+      "id": "0c7be230-804a-4f49-8734-b648159046bb",
+      "type": "desktop",
+      "top": 400,
+      "left": 6,
+      "width": 14,
+      "height": 30,
+      "componentId": "25caad6a-0085-411c-a98f-29d2cb4b02cb",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "b9f68e62-4ac5-4f2b-bb44-24c5e34e6b95",
+      "type": "mobile",
+      "top": 400,
+      "left": 6,
+      "width": 14,
+      "height": 30,
+      "componentId": "25caad6a-0085-411c-a98f-29d2cb4b02cb",
+      "dimensionUnit": "count"
+    }
+  ]
+}

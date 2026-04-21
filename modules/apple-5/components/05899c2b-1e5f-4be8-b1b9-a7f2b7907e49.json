@@ -1,0 +1,100 @@
+{
+  "id": "05899c2b-1e5f-4be8-b1b9-a7f2b7907e49",
+  "name": "checkbox1",
+  "type": "Checkbox",
+  "pageId": "77ae46b0-2b3e-4a1b-98e1-e0ec49b57b6a",
+  "parent": "09e9ca90-ef84-4d86-95d1-33c88b93a6cc",
+  "properties": {
+    "label": {
+      "value": "Label"
+    },
+    "defaultValue": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "checkboxColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "uncheckedColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "handleColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "alignment": {
+      "value": "right"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "padding": {
+      "value": "default"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "mandatory": {
+      "value": "{{false}}"
+    },
+    "customRule": {
+      "value": null
+    }
+  },
+  "layouts": [
+    {
+      "id": "bd9a7a91-ccfd-4a0f-8db2-5c9aeb405afc",
+      "type": "desktop",
+      "top": 190,
+      "left": 5,
+      "width": 14,
+      "height": 30,
+      "componentId": "05899c2b-1e5f-4be8-b1b9-a7f2b7907e49",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "d6f5fd9f-7d9b-42c3-bcc4-daf4642424f5",
+      "type": "mobile",
+      "top": 190,
+      "left": 5,
+      "width": 14,
+      "height": 30,
+      "componentId": "05899c2b-1e5f-4be8-b1b9-a7f2b7907e49",
+      "dimensionUnit": "count"
+    }
+  ]
+}

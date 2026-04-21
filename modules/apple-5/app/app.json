@@ -1,0 +1,13 @@
+{
+  "id": "d5fbedcb-817a-4972-873b-9ae5140d3696",
+  "name": "apple-5",
+  "type": "module",
+  "slug": "659afaf7-02ef-40ec-8cc8-7593753046b1",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "sun",
+  "tooljetVersion": "3.21.21-beta-ee"
+}
