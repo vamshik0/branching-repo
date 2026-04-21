@@ -5,12 +5,6 @@
     "updatedAt": "2026-04-09T06:46:27.836Z",
     "contentHash": "ec1cbe6c85cff4cf64413ad740c73bcaa1f246d18c075ec80286b586e6f50489"
   },
-  "6925d39a-1b08-41fc-90ab-9835c1c28309": {
-    "name": "jira",
-    "kind": "jira",
-    "updatedAt": "2026-04-10T08:44:46.052Z",
-    "contentHash": "4932264bfc60b72f574af9309a1be9c9db30b20f328ab04eaa144d5497cc44df"
-  },
   "7c2cfe5b-7eb7-4beb-a6c8-c03e84bfa372": {
     "name": "JSON place holder",
     "kind": "restapi",
