@@ -3,7 +3,7 @@
   "name": "air-1",
   "type": "module",
   "slug": "29902158-ca65-48c4-b562-e5c74823b863",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
