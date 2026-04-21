@@ -3,7 +3,6 @@
     "appPath": "apps/Movies/Fight club",
     "updatedAt": "2026-04-07T06:03:11.944Z"
   },
-  "lastUpdatedAt": "2026-04-07T06:54:12.333Z",
   "b091670f-e75f-4026-809d-72351995f1db": {
     "appPath": "apps/Movies/Seven",
     "updatedAt": "2026-04-07T14:05:27.132Z"
@@ -56,10 +55,6 @@
     "appPath": "apps/Gemini 3-1 pro/Gemini 3-1 pro",
     "updatedAt": "2026-04-09T12:00:05.894Z"
   },
-  "f7025570-a969-48b1-88c8-73a628b89090": {
-    "appPath": "apps/jira-app-export",
-    "updatedAt": "2026-04-10T08:46:30.542Z"
-  },
   "2c081995-b23c-492c-bc71-2150ec9e34dd": {
     "appPath": "apps/Cloned apps/Gladiator_Copy",
     "updatedAt": "2026-04-13T07:44:30.531Z"
@@ -71,17 +66,5 @@
   "fa9472ca-0323-4a32-ae78-2cf25d9cc81d": {
     "appPath": "apps/Plugins/Click-up plugin",
     "updatedAt": "2026-04-17T10:33:44.949Z"
-  },
-  "461604c6-932e-4533-938c-a7ed9e3c1b07": {
-    "appPath": "apps/Chocolate",
-    "updatedAt": "2026-04-20T13:38:20.222Z"
-  },
-  "10786cd5-3e4c-4032-8f5f-307783412a19": {
-    "appPath": "apps/Vanilla",
-    "updatedAt": "2026-04-21T05:48:48.416Z"
-  },
-  "65becd24-713a-49e7-bf4c-5109e92d56cc": {
-    "appPath": "apps/Butterscotch",
-    "updatedAt": "2026-04-20T13:56:37.197Z"
   }
 }
