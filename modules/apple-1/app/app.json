@@ -1,0 +1,13 @@
+{
+  "id": "8318ef65-592c-4e2c-bf54-5ca36efbc0d1",
+  "name": "apple-1",
+  "type": "module",
+  "slug": "9c0da80a-c664-42a5-94ec-388a134c5c32",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.21-beta-ee"
+}

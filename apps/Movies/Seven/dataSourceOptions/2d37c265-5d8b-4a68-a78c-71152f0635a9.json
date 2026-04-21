@@ -1,5 +1,5 @@
 {
-  "id": "2d34b510-f7c9-4e2f-8a22-870d0419db14",
+  "id": "2d37c265-5d8b-4a68-a78c-71152f0635a9",
   "options": {
     "host": {
       "value": "9.234.17.31",
@@ -16,6 +16,11 @@
     "database": {
       "value": "test",
       "encrypted": false
+    },
+    "password": {
+      "encrypted": true,
+      "credential_id": "b674a0b7-9be2-4492-9199-44db2b92024b",
+      "workspace_constant": "{{secrets.mongo}}"
     },
     "ssh_port": {
       "value": 22,
@@ -46,8 +51,8 @@
       "encrypted": false
     }
   },
-  "environmentId": "deb299b6-f5df-456b-bb97-48cbc2f3c648",
-  "dataSourceId": "27234cc5-ec69-4659-a7b7-299747d5a8e2",
-  "createdAt": "2026-04-07T13:39:51.873Z",
-  "updatedAt": "2026-04-07T13:39:51.911Z"
+  "environmentId": "6f54e9e2-0c13-4422-a87c-b4017d2f6d5e",
+  "dataSourceId": "9051bb0a-d4e5-4493-8cf3-205b78126a50",
+  "createdAt": "2026-04-21T06:09:35.956Z",
+  "updatedAt": "2026-04-21T07:03:55.462Z"
 }
