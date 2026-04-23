@@ -1,0 +1,31 @@
+{
+  "id": "6286ba5b-593c-4795-b3e2-2eddca208de5",
+  "name": "testForce",
+  "kind": "salesforce",
+  "type": "default",
+  "options": {
+    "development": {
+      "code": null,
+      "scopes": "full",
+      "auth_type": "oauth2",
+      "grant_type": "authorization_code",
+      "oauth_type": "custom_app",
+      "redirect_url": ""
+    },
+    "production": {
+      "scopes": "full",
+      "auth_type": "oauth2",
+      "grant_type": "authorization_code",
+      "oauth_type": "custom_app",
+      "redirect_url": ""
+    },
+    "staging": {
+      "scopes": "full",
+      "auth_type": "oauth2",
+      "grant_type": "authorization_code",
+      "oauth_type": "custom_app",
+      "redirect_url": ""
+    }
+  },
+  "isPlugin": true
+}
