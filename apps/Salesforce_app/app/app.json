@@ -1,0 +1,13 @@
+{
+  "id": "38cd14cc-c618-43a0-8d98-4f215c021da8",
+  "name": "Salesforce_app",
+  "type": "front-end",
+  "slug": "b6681f5f-55a7-4338-ad14-4b18d7f1532c",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "floppydisk",
+  "tooljetVersion": "3.21.23-beta-ee"
+}

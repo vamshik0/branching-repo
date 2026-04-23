@@ -1,0 +1,9 @@
+{
+  "id": "6286ba5b-593c-4795-b3e2-2eddca208de5",
+  "name": "testForce",
+  "kind": "salesforce",
+  "type": "default",
+  "pluginId": "0671313f-f259-4014-a2c3-e4605762de9f",
+  "appVersionId": null,
+  "scope": "global"
+}

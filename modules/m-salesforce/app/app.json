@@ -1,0 +1,13 @@
+{
+  "id": "b8ed3c0f-8aaf-4961-9ae1-0531a7a231ab",
+  "name": "m-salesforce",
+  "type": "module",
+  "slug": "a832d236-4c97-4592-b617-f8c9372f559f",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "layers",
+  "tooljetVersion": "3.21.23-beta-ee"
+}
