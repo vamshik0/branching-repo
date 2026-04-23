@@ -3,7 +3,7 @@
   "name": "DS-test-app",
   "type": "front-end",
   "slug": "84cea5d9-bde3-4ed9-869a-51d5a02c9578",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
