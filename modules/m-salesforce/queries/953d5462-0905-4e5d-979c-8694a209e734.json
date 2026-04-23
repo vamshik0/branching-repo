@@ -3,9 +3,9 @@
   "name": "mongodb1",
   "options": {
     "document": "{ }",
-    "transformationLanguage": "javascript",
-    "enableTransformation": false,
-    "operation": "list_collections"
+    "enable_transformation": false,
+    "operation": "list_collections",
+    "transformationLanguage": "javascript"
   },
   "dataSourceId": "a3622bec-4f32-4737-ac38-c9a657bcfbb2",
   "appVersionId": "99735477-233c-4042-a20a-d550523350f7"
