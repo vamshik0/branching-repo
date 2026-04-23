@@ -18,7 +18,7 @@
       "value": "rawJson"
     },
     "data": {
-      "value": "{{queries.dc1ffc57-7999-49f1-95f5-1bf9bff91922.data}}"
+      "value": "{{queries.953d5462-0905-4e5d-979c-8694a209e734.data}}"
     },
     "useDynamicColumn": {
       "value": "{{false}}"
@@ -223,7 +223,11 @@
       "value": "default"
     }
   },
-  "generalStyles": {},
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
