@@ -3,7 +3,7 @@
   "name": "m-ds-test-app",
   "type": "module",
   "slug": "32460bcc-22f6-41a9-a95b-fddd0133548a",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
