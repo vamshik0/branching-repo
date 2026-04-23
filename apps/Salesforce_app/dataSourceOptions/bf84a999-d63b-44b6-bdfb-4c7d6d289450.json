@@ -1,0 +1,29 @@
+{
+  "id": "bf84a999-d63b-44b6-bdfb-4c7d6d289450",
+  "options": {
+    "scopes": {
+      "value": "full",
+      "encrypted": false
+    },
+    "auth_type": {
+      "value": "oauth2",
+      "encrypted": false
+    },
+    "grant_type": {
+      "value": "authorization_code",
+      "encrypted": false
+    },
+    "oauth_type": {
+      "value": "custom_app",
+      "encrypted": false
+    },
+    "redirect_url": {
+      "value": "",
+      "encrypted": false
+    }
+  },
+  "environmentId": "c41cb773-c4f0-4489-8dd1-424a25d6f0dc",
+  "dataSourceId": "4e6fdf7b-81a3-4717-be96-58ebd0b4fe26",
+  "createdAt": "2026-04-23T20:29:19.842Z",
+  "updatedAt": "2026-04-23T20:29:19.842Z"
+}

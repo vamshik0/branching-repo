@@ -22,5 +22,13 @@
   "599467a0-83f9-4aa1-b4d8-2943ff21ac7e": {
     "appPath": "modules/new-query-load-test",
     "updatedAt": "2026-04-21T08:41:56.755Z"
+  },
+  "b8ed3c0f-8aaf-4961-9ae1-0531a7a231ab": {
+    "appPath": "modules/m-salesforce",
+    "updatedAt": "2026-04-23T20:41:09.485Z"
+  },
+  "f9394743-4989-4405-906f-866c9ec394c4": {
+    "appPath": "modules/m-ds-test-app",
+    "updatedAt": "2026-04-23T20:43:34.832Z"
   }
 }

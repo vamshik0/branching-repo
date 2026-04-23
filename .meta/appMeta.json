@@ -70,5 +70,17 @@
   "811be62e-7464-488a-8231-191082d543b3": {
     "appPath": "apps/test-query-load-app",
     "updatedAt": "2026-04-21T08:41:56.755Z"
+  },
+  "38cd14cc-c618-43a0-8d98-4f215c021da8": {
+    "appPath": "apps/Salesforce_app",
+    "updatedAt": "2026-04-23T20:39:04.090Z"
+  },
+  "fe516ed7-faf0-4708-ae64-12647cf1a12d": {
+    "appPath": "apps/DS-test-app",
+    "updatedAt": "2026-04-23T20:41:09.528Z"
+  },
+  "339eac1d-827e-4b21-b12f-da8a76948638": {
+    "appPath": "apps/DS-testing-app",
+    "updatedAt": "2026-04-23T20:43:34.837Z"
   }
 }
