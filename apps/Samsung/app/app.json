@@ -1,0 +1,13 @@
+{
+  "id": "eabbbfa9-8abe-48cd-9418-cdcb7549ccbc",
+  "name": "Samsung",
+  "type": "front-end",
+  "slug": "6bb31b59-7bda-42f0-81e7-2db100452a3d",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.23-beta-ee"
+}
