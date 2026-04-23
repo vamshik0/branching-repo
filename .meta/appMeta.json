@@ -78,5 +78,9 @@
   "fe516ed7-faf0-4708-ae64-12647cf1a12d": {
     "appPath": "apps/DS-test-app",
     "updatedAt": "2026-04-23T18:39:29.106Z"
+  },
+  "339eac1d-827e-4b21-b12f-da8a76948638": {
+    "appPath": "apps/DS-testing-app",
+    "updatedAt": "2026-04-23T18:43:29.237Z"
   }
 }

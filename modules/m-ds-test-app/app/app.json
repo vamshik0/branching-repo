@@ -1,0 +1,13 @@
+{
+  "id": "f9394743-4989-4405-906f-866c9ec394c4",
+  "name": "m-ds-test-app",
+  "type": "module",
+  "slug": "32460bcc-22f6-41a9-a95b-fddd0133548a",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "shield",
+  "tooljetVersion": "3.21.23-beta-ee"
+}
