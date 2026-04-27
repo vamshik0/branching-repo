@@ -1,0 +1,13 @@
+{
+  "id": "59994bca-a291-4baa-adc4-128dbac3ecc5",
+  "name": "Version-id-check-app",
+  "type": "front-end",
+  "slug": "4e267457-5a7c-473a-80ad-bd3d7cb826b3",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "archive",
+  "tooljetVersion": "3.21.25-beta-ee"
+}
