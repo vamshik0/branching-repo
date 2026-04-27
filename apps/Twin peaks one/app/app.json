@@ -1,0 +1,13 @@
+{
+  "id": "d4c034b6-b0fb-473d-b7a5-935c22c30ccd",
+  "name": "Twin peaks one",
+  "type": "front-end",
+  "slug": "23ed6945-4bda-497f-a4eb-2a50b28904cb",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "globe",
+  "tooljetVersion": "3.21.25-beta-ee"
+}

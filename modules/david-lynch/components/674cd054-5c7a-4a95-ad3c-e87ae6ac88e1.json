@@ -1,0 +1,56 @@
+{
+  "id": "674cd054-5c7a-4a95-ad3c-e87ae6ac88e1",
+  "name": "ModuleContainer",
+  "type": "ModuleContainer",
+  "pageId": "1a1aff1b-253f-4031-8528-c9fbe3a5b6d4",
+  "parent": null,
+  "properties": {
+    "inputItems": {
+      "value": []
+    },
+    "outputItems": {
+      "value": []
+    },
+    "visibility": {
+      "value": "{{true}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "#fff"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{true}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "57c60d25-d608-450b-b592-e730803c0236",
+      "type": "desktop",
+      "top": 50,
+      "left": 3,
+      "width": 24,
+      "height": 700,
+      "componentId": "674cd054-5c7a-4a95-ad3c-e87ae6ac88e1",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "9e6b3a69-0cd0-4a24-a844-b0f2794ae948",
+      "type": "mobile",
+      "top": 50,
+      "left": 3,
+      "width": 38,
+      "height": 400,
+      "componentId": "674cd054-5c7a-4a95-ad3c-e87ae6ac88e1",
+      "dimensionUnit": "count"
+    }
+  ]
+}
