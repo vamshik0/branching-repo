@@ -1,0 +1,13 @@
+{
+  "id": "0bcb0592-ebb3-415b-817c-f48dfa2d7056",
+  "name": "david-lynch",
+  "type": "module",
+  "slug": "bb523af1-e98b-4ad7-8c1c-f8ad625be782",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "globe",
+  "tooljetVersion": "3.21.25-beta-ee"
+}
