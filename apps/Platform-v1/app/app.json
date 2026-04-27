@@ -1,0 +1,13 @@
+{
+  "id": "c72b47a1-48f8-4c0c-9f23-c5b46332046f",
+  "name": "Platform-v1",
+  "type": "front-end",
+  "slug": "ead4709b-b693-4b2d-972b-a3f99186e018",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.25-beta-ee"
+}
