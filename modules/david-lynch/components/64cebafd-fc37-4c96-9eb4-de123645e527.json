@@ -52,6 +52,9 @@
     },
     "buttonToSubmit": {
       "value": "3f46023f-172c-46e4-aac0-ff3fbc733c25"
+    },
+    "fields": {
+      "value": []
     }
   },
   "general": {},
@@ -78,7 +81,11 @@
       "value": "var(--cc-weak-border)"
     }
   },
-  "generalStyles": {},
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
