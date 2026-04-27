@@ -49,7 +49,7 @@
       ]
     },
     "production": {
-      "url": "https://jsonplaceholder.typicode.com/albums",
+      "url": "https://jsonplaceholder.typicode.com/users",
       "scopes": "read, write",
       "headers": [
         [
