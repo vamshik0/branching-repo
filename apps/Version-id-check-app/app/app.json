@@ -3,7 +3,7 @@
   "name": "Version-id-check-app",
   "type": "front-end",
   "slug": "4e267457-5a7c-473a-80ad-bd3d7cb826b3",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
