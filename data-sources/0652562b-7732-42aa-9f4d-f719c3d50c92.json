@@ -1,0 +1,12 @@
+{
+  "id": "0652562b-7732-42aa-9f4d-f719c3d50c92",
+  "name": "openai_test",
+  "kind": "openai",
+  "type": "default",
+  "options": {
+    "development": {},
+    "production": {},
+    "staging": {}
+  },
+  "isPlugin": true
+}

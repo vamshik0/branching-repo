@@ -98,5 +98,9 @@
   "d4c034b6-b0fb-473d-b7a5-935c22c30ccd": {
     "appPath": "apps/Twin peaks three",
     "updatedAt": "2026-04-27T19:23:54.368Z"
+  },
+  "24b2c98a-96d1-4783-afb6-d194820847f2": {
+    "appPath": "apps/github-app-export-with-2-plugins",
+    "updatedAt": "2026-04-28T11:51:56.097Z"
   }
 }
