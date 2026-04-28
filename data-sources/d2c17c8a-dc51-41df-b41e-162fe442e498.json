@@ -1,0 +1,11 @@
+{
+  "id": "d2c17c8a-dc51-41df-b41e-162fe442e498",
+  "name": "test-airtable",
+  "kind": "airtable",
+  "type": "default",
+  "options": {
+    "development": {},
+    "production": {},
+    "staging": {}
+  }
+}

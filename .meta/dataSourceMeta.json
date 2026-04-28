@@ -47,11 +47,17 @@
     "updatedAt": "2026-04-17T08:34:32.371Z",
     "contentHash": "a011e59dc6aca55c24cc67b6e03f7de24f4b7c75b995898f4e4dedb7782b46c0"
   },
+  "d2c17c8a-dc51-41df-b41e-162fe442e498": {
+    "name": "test-airtable",
+    "kind": "airtable",
+    "updatedAt": "2026-04-28T11:30:58.545Z",
+    "contentHash": "a9ed1324d5297fc2a2c9a7f2d400449deaa7c57900e32ecfba518309108504d1"
+  },
   "dcccee48-320d-4ddf-9f89-687bcff1b2cc": {
     "name": "Different json data",
     "kind": "restapi",
     "updatedAt": "2026-04-07T14:30:09.634Z",
     "contentHash": "d89a17fb16577e3a06e868a51e0186a44494a1404e513f32f9374131361a82de"
   },
-  "lastUpdatedAt": "2026-04-27T11:23:03.642Z"
+  "lastUpdatedAt": "2026-04-28T11:30:58.545Z"
 }
