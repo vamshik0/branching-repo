@@ -1,4 +1,10 @@
 {
+  "0652562b-7732-42aa-9f4d-f719c3d50c92": {
+    "name": "openai_test",
+    "kind": "openai",
+    "updatedAt": "2026-04-28T11:52:13.861Z",
+    "contentHash": "106e8b606e9107d25f41afa907b5b9bba305c16caa1bfc3c0f0e95a922589b13"
+  },
   "1e871f54-82bc-4324-bce2-146fac5ffcb2": {
     "name": "changing_restApi",
     "kind": "restapi",
@@ -41,6 +47,12 @@
     "updatedAt": "2026-04-08T05:34:31.320Z",
     "contentHash": "001f411ad7173fcc0f63768e5d66caeca741363f748cc5948ddda68376803138"
   },
+  "a7801dd9-cb02-4284-bceb-0bb01307aa97": {
+    "name": "prod_restApi",
+    "kind": "restapi",
+    "updatedAt": "2026-04-28T11:52:13.862Z",
+    "contentHash": "80f4decaeedc6464ec467e653ff507274f6e095637cfbdd91315a51f91de04e6"
+  },
   "b79b3e6e-e593-4d99-afdc-ff730fb1d99f": {
     "name": "clickup",
     "kind": "clickup",
@@ -53,11 +65,17 @@
     "updatedAt": "2026-04-28T11:30:58.545Z",
     "contentHash": "a9ed1324d5297fc2a2c9a7f2d400449deaa7c57900e32ecfba518309108504d1"
   },
+  "dccaedbe-1d2a-45d8-8323-1c8c62536b85": {
+    "name": "github_test",
+    "kind": "github",
+    "updatedAt": "2026-04-28T11:52:13.862Z",
+    "contentHash": "236d74c931c62859f8abd4c7341d3f8089c1e9c64029dbfdb98e04f9b3d99b50"
+  },
   "dcccee48-320d-4ddf-9f89-687bcff1b2cc": {
     "name": "Different json data",
     "kind": "restapi",
     "updatedAt": "2026-04-07T14:30:09.634Z",
     "contentHash": "d89a17fb16577e3a06e868a51e0186a44494a1404e513f32f9374131361a82de"
   },
-  "lastUpdatedAt": "2026-04-28T11:30:58.545Z"
+  "lastUpdatedAt": "2026-04-28T11:52:13.863Z"
 }
