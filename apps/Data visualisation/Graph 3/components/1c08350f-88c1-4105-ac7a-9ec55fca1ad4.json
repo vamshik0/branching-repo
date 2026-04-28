@@ -1,0 +1,96 @@
+{
+  "id": "1c08350f-88c1-4105-ac7a-9ec55fca1ad4",
+  "name": "isActive",
+  "type": "Checkbox",
+  "pageId": "1f633c73-7ed1-4835-828f-4c19dcc9d394",
+  "parent": "a09dbfa2-07bb-41ef-a781-cfa96fa1a3cd",
+  "properties": {
+    "label": {
+      "value": "Is Active"
+    },
+    "defaultValue": {
+      "value": "{{true}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "textColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "checkboxColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "uncheckedColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "handleColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "alignment": {
+      "value": "top"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "padding": {
+      "value": "default"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "mandatory": {
+      "value": false
+    },
+    "customRule": {
+      "value": null
+    }
+  },
+  "layouts": [
+    {
+      "id": "fc0c5693-a0b9-4a8f-a454-e59f87f99e78",
+      "type": "desktop",
+      "top": 200,
+      "left": 3,
+      "width": 37,
+      "height": 30,
+      "componentId": "1c08350f-88c1-4105-ac7a-9ec55fca1ad4",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "148e3311-fd3a-4c91-a7a0-085adcca5c5e",
+      "type": "mobile",
+      "top": 200,
+      "left": 3,
+      "width": 37,
+      "height": 30,
+      "componentId": "1c08350f-88c1-4105-ac7a-9ec55fca1ad4",
+      "dimensionUnit": "count"
+    }
+  ]
+}
