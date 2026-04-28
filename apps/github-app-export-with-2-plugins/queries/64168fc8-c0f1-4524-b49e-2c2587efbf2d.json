@@ -1,0 +1,14 @@
+{
+  "id": "64168fc8-c0f1-4524-b49e-2c2587efbf2d",
+  "name": "github1",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "operation": "get_user_info",
+    "encoding_format__m1": "float",
+    "encoding_format__m2": "float",
+    "encoding_format__m3": "float"
+  },
+  "dataSourceId": "dccaedbe-1d2a-45d8-8323-1c8c62536b85",
+  "appVersionId": "f4612324-8b69-4293-9fd3-356cc35bf611"
+}

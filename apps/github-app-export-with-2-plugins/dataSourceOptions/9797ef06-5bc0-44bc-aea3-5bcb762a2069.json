@@ -1,0 +1,17 @@
+{
+  "id": "9797ef06-5bc0-44bc-aea3-5bcb762a2069",
+  "options": {
+    "auth_type": {
+      "value": "personal_access_token",
+      "encrypted": false
+    },
+    "personal_token": {
+      "encrypted": true,
+      "credential_id": "74575384-2d3d-4822-8171-0a0a617425e6"
+    }
+  },
+  "environmentId": "bf3d5776-f4f1-48c3-a693-a4f2b14d81a8",
+  "dataSourceId": "21b0cd6a-1cc7-49b1-a54d-7020f3fa2c96",
+  "createdAt": "2026-04-28T11:47:49.347Z",
+  "updatedAt": "2026-04-28T11:47:49.347Z"
+}

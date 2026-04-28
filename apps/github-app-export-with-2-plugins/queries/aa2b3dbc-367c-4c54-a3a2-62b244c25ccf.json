@@ -1,0 +1,12 @@
+{
+  "id": "aa2b3dbc-367c-4c54-a3a2-62b244c25ccf",
+  "name": "openai1",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "operation": "completion",
+    "model": "gpt-3.5-turbo-instruct"
+  },
+  "dataSourceId": "0652562b-7732-42aa-9f4d-f719c3d50c92",
+  "appVersionId": "f4612324-8b69-4293-9fd3-356cc35bf611"
+}
