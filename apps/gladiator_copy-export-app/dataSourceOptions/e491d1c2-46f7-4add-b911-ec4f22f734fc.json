@@ -1,8 +1,8 @@
 {
-  "id": "228e13f4-6afc-4408-b744-b31b70b36d81",
+  "id": "e491d1c2-46f7-4add-b911-ec4f22f734fc",
   "options": {
     "url": {
-      "value": "https://jsonplaceholder.typicode.com/comments",
+      "value": "https://jsonplaceholder.typicode.com/albums",
       "encrypted": false
     },
     "scopes": {
@@ -98,8 +98,8 @@
       "encrypted": false
     }
   },
-  "environmentId": "4a5e8e92-217d-4135-ad89-bde10138a0c7",
-  "dataSourceId": "9dbd5fc7-7996-4476-872e-d4d3d94ef641",
-  "createdAt": "2026-04-13T05:02:28.076Z",
-  "updatedAt": "2026-04-13T07:31:03.237Z"
+  "environmentId": "c9b3b23a-ec8f-4517-98ca-e7734f53b33c",
+  "dataSourceId": "5d1bbc6f-7a5b-4306-9852-e7cc105e093f",
+  "createdAt": "2026-04-10T07:07:55.307Z",
+  "updatedAt": "2026-04-10T07:07:55.468Z"
 }
