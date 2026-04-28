@@ -1,8 +1,8 @@
 {
-  "id": "5a7178a3-d396-48fb-a307-1cdf6ede2ac0",
+  "id": "69d70f79-43e6-47dd-aa9c-06b1b713dbf5",
   "options": {
     "url": {
-      "value": "https://jsonplaceholder.typicode.com/users",
+      "value": "https://jsonplaceholder.typicode.com/comments",
       "encrypted": false
     },
     "scopes": {
@@ -98,8 +98,8 @@
       "encrypted": false
     }
   },
-  "environmentId": "fec4836f-91f9-4079-8230-4260d974620a",
-  "dataSourceId": "9dbd5fc7-7996-4476-872e-d4d3d94ef641",
-  "createdAt": "2026-04-13T05:02:28.076Z",
-  "updatedAt": "2026-04-13T07:31:03.239Z"
+  "environmentId": "9800fb7f-1510-4c3c-905b-6707745249c8",
+  "dataSourceId": "5d1bbc6f-7a5b-4306-9852-e7cc105e093f",
+  "createdAt": "2026-04-10T07:07:55.307Z",
+  "updatedAt": "2026-04-10T07:07:55.462Z"
 }
