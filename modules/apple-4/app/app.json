@@ -3,11 +3,11 @@
   "name": "apple-4",
   "type": "module",
   "slug": "d5fbedcb-817a-4972-873b-9ae5140d3696",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "sun",
-  "tooljetVersion": "3.21.21-beta-ee"
+  "tooljetVersion": "3.21.29-beta-ee"
 }

@@ -1,0 +1,145 @@
+{
+  "id": "3073d70f-2770-46b7-b0d2-773d547c29f4",
+  "name": "steps1",
+  "type": "Steps",
+  "pageId": "6c204d3c-a8ef-444d-baec-9e63ed8200b2",
+  "parent": "c5df1f2f-f3fd-49d5-9669-c1e0a937f003",
+  "properties": {
+    "steps": {
+      "value": [
+        {
+          "name": "step 1",
+          "tooltip": "",
+          "id": 1,
+          "visible": {
+            "value": true
+          },
+          "disabled": {
+            "value": false
+          }
+        },
+        {
+          "name": "step 2",
+          "tooltip": "",
+          "id": 2,
+          "visible": {
+            "value": true
+          },
+          "disabled": {
+            "value": false
+          }
+        },
+        {
+          "name": "step 3",
+          "tooltip": "",
+          "id": 3,
+          "visible": {
+            "value": true
+          },
+          "disabled": {
+            "value": false
+          }
+        },
+        {
+          "name": "step 4",
+          "tooltip": "",
+          "id": 4,
+          "visible": {
+            "value": true
+          },
+          "disabled": {
+            "value": false
+          }
+        },
+        {
+          "name": "step 5",
+          "tooltip": "",
+          "id": 5,
+          "visible": {
+            "value": true
+          },
+          "disabled": {
+            "value": false
+          }
+        }
+      ]
+    },
+    "schema": {
+      "value": "{{ [{ name: 'step 1', tooltip: '', id: 1,visible: true, disabled: false},{ name: 'step 2', tooltip: '', id: 2,visible: true, disabled: false},{ name: 'step 3', tooltip: '', id: 3,visible: true, disabled: false},{ name: 'step 4', tooltip: '', id: 4,visible: true, disabled: false},{ name: 'step 5', tooltip: '', id: 5,visible: true, disabled: false}]}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "variant": {
+      "value": "titles"
+    },
+    "currentStep": {
+      "value": "{{3}}"
+    },
+    "stepsSelectable": {
+      "value": true
+    },
+    "advanced": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "incompletedAccent": {
+      "value": "var(--cc-surface3-surface)"
+    },
+    "incompletedLabel": {
+      "value": "var(--cc-primary-text)"
+    },
+    "completedAccent": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "completedLabel": {
+      "value": "var(--cc-primary-text)"
+    },
+    "currentStepLabel": {
+      "value": "var(--cc-primary-text)"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "3b7ff44e-c0b4-4ed0-9c6e-54cc40462686",
+      "type": "desktop",
+      "top": 490,
+      "left": 7,
+      "width": 27,
+      "height": 38,
+      "componentId": "3073d70f-2770-46b7-b0d2-773d547c29f4",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "d4cdd431-172b-401c-9925-21d8af803118",
+      "type": "mobile",
+      "top": 480,
+      "left": 0,
+      "width": 43,
+      "height": 38,
+      "componentId": "3073d70f-2770-46b7-b0d2-773d547c29f4",
+      "dimensionUnit": "count"
+    }
+  ]
+}
