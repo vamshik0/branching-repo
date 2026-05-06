@@ -10,7 +10,14 @@
     "backgroundFxQuery": "",
     "appMode": "light"
   },
-  "pageSettings": null,
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{true}}",
+        "fxActive": false
+      }
+    }
+  },
   "showViewerNavigation": false,
   "homePageId": "b0634dc7-9ad4-410f-bc91-6c2a7940d9cb",
   "versionType": "branch",
@@ -21,5 +28,6 @@
   "publishedAt": null,
   "releasedAt": null,
   "isStub": false,
+  "moduleReferenceId": "e7aa3c8e-45ef-44f8-ab2a-64da04e69910",
   "sourceTag": null
 }
