@@ -50,5 +50,9 @@
   "f3196c18-cfb6-42e8-91bb-3216d63f7e32": {
     "appPath": "modules/m-badminton",
     "updatedAt": "2026-05-15T07:07:39.061Z"
+  },
+  "a6aa4888-7ffe-4785-9bc0-90cbcedb957e": {
+    "appPath": "modules/m-tennis",
+    "updatedAt": "2026-05-15T07:10:36.844Z"
   }
 }
