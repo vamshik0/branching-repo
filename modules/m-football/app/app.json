@@ -1,0 +1,13 @@
+{
+  "id": "45b0f623-eb3e-4ed3-860a-2a45f6b0fb7d",
+  "name": "m-football",
+  "type": "module",
+  "slug": "3eb1a44d-1ed2-4d06-8ddb-fdee449be42e",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "home",
+  "tooljetVersion": "3.21.32-beta-ee"
+}

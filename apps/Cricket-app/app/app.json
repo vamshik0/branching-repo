@@ -1,0 +1,13 @@
+{
+  "id": "792182d2-a9d2-4031-a7a1-3707185bdf38",
+  "name": "Cricket-app",
+  "type": "front-end",
+  "slug": "b6c05a40-9f5a-4e60-bcd8-6cd7b429a8ce",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "shield",
+  "tooljetVersion": "3.21.32-beta-ee"
+}
