@@ -46,5 +46,13 @@
   "45b0f623-eb3e-4ed3-860a-2a45f6b0fb7d": {
     "appPath": "modules/m-football",
     "updatedAt": "2026-05-15T06:55:19.995Z"
+  },
+  "f3196c18-cfb6-42e8-91bb-3216d63f7e32": {
+    "appPath": "modules/m-badminton",
+    "updatedAt": "2026-05-15T07:49:57.431Z"
+  },
+  "a6aa4888-7ffe-4785-9bc0-90cbcedb957e": {
+    "appPath": "modules/m-tennis",
+    "updatedAt": "2026-05-15T07:10:36.844Z"
   }
 }
