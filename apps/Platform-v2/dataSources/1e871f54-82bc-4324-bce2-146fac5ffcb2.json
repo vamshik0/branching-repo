@@ -1,0 +1,9 @@
+{
+  "id": "1e871f54-82bc-4324-bce2-146fac5ffcb2",
+  "name": "changing_restApi",
+  "kind": "restapi",
+  "type": "default",
+  "pluginId": null,
+  "appVersionId": null,
+  "scope": "global"
+}

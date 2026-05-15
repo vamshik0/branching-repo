@@ -1,0 +1,13 @@
+{
+  "id": "24b2c98a-96d1-4783-afb6-d194820847f2",
+  "name": "github-app-export-with-2-plugins",
+  "type": "front-end",
+  "slug": "dcced8a6-4d41-4343-af0a-73241b9f01fc",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "shield",
+  "tooljetVersion": "3.21.25-beta-ee"
+}

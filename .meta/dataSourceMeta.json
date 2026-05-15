@@ -1,15 +1,27 @@
 {
+  "0652562b-7732-42aa-9f4d-f719c3d50c92": {
+    "name": "openai_test",
+    "kind": "openai",
+    "updatedAt": "2026-04-28T11:52:13.861Z",
+    "contentHash": "106e8b606e9107d25f41afa907b5b9bba305c16caa1bfc3c0f0e95a922589b13"
+  },
+  "1e871f54-82bc-4324-bce2-146fac5ffcb2": {
+    "name": "changing_restApi",
+    "kind": "restapi",
+    "updatedAt": "2026-04-27T11:23:03.641Z",
+    "contentHash": "07ac2dd1d1f6f9991121924a0f17f2dd887bc30c7679c67f151416196b82aad1"
+  },
   "5ff89a4a-442b-4a94-9312-2aea073247fd": {
     "name": "mongodb_2",
     "kind": "mongodb",
     "updatedAt": "2026-04-09T06:46:27.836Z",
     "contentHash": "ec1cbe6c85cff4cf64413ad740c73bcaa1f246d18c075ec80286b586e6f50489"
   },
-  "6925d39a-1b08-41fc-90ab-9835c1c28309": {
-    "name": "jira",
-    "kind": "jira",
-    "updatedAt": "2026-04-10T08:44:46.052Z",
-    "contentHash": "4932264bfc60b72f574af9309a1be9c9db30b20f328ab04eaa144d5497cc44df"
+  "6286ba5b-593c-4795-b3e2-2eddca208de5": {
+    "name": "testForce",
+    "kind": "salesforce",
+    "updatedAt": "2026-04-23T18:33:11.643Z",
+    "contentHash": "0a5460fc38138e682c1681e7b8fdc1da8f9998899d6457c4a3af503a5a142f57"
   },
   "7c2cfe5b-7eb7-4beb-a6c8-c03e84bfa372": {
     "name": "JSON place holder",
@@ -35,11 +47,29 @@
     "updatedAt": "2026-04-08T05:34:31.320Z",
     "contentHash": "001f411ad7173fcc0f63768e5d66caeca741363f748cc5948ddda68376803138"
   },
+  "a7801dd9-cb02-4284-bceb-0bb01307aa97": {
+    "name": "prod_restApi",
+    "kind": "restapi",
+    "updatedAt": "2026-04-28T11:52:13.862Z",
+    "contentHash": "80f4decaeedc6464ec467e653ff507274f6e095637cfbdd91315a51f91de04e6"
+  },
   "b79b3e6e-e593-4d99-afdc-ff730fb1d99f": {
     "name": "clickup",
     "kind": "clickup",
     "updatedAt": "2026-04-17T08:34:32.371Z",
     "contentHash": "a011e59dc6aca55c24cc67b6e03f7de24f4b7c75b995898f4e4dedb7782b46c0"
+  },
+  "d2c17c8a-dc51-41df-b41e-162fe442e498": {
+    "name": "test-airtable",
+    "kind": "airtable",
+    "updatedAt": "2026-04-28T11:30:58.545Z",
+    "contentHash": "a9ed1324d5297fc2a2c9a7f2d400449deaa7c57900e32ecfba518309108504d1"
+  },
+  "dccaedbe-1d2a-45d8-8323-1c8c62536b85": {
+    "name": "github_test",
+    "kind": "github",
+    "updatedAt": "2026-04-28T11:52:13.862Z",
+    "contentHash": "236d74c931c62859f8abd4c7341d3f8089c1e9c64029dbfdb98e04f9b3d99b50"
   },
   "dcccee48-320d-4ddf-9f89-687bcff1b2cc": {
     "name": "Different json data",
@@ -47,5 +77,5 @@
     "updatedAt": "2026-04-07T14:30:09.634Z",
     "contentHash": "d89a17fb16577e3a06e868a51e0186a44494a1404e513f32f9374131361a82de"
   },
-  "lastUpdatedAt": "2026-04-17T08:34:32.371Z"
+  "lastUpdatedAt": "2026-04-28T11:52:13.863Z"
 }

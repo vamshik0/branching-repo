@@ -3,11 +3,11 @@
   "name": "Cycle app",
   "type": "front-end",
   "slug": "08be17ac-5719-40f6-950f-af97a85fcced",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "grid",
-  "tooljetVersion": "3.21.19-beta-ee"
+  "tooljetVersion": "3.21.21-beta-ee"
 }

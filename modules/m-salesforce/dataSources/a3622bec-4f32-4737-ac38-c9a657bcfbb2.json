@@ -1,0 +1,9 @@
+{
+  "id": "a3622bec-4f32-4737-ac38-c9a657bcfbb2",
+  "name": "testMongo",
+  "kind": "mongodb",
+  "type": "default",
+  "pluginId": null,
+  "appVersionId": null,
+  "scope": "global"
+}

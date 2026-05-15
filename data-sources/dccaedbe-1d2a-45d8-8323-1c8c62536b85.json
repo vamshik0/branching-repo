@@ -1,0 +1,18 @@
+{
+  "id": "dccaedbe-1d2a-45d8-8323-1c8c62536b85",
+  "name": "github_test",
+  "kind": "github",
+  "type": "default",
+  "options": {
+    "development": {
+      "auth_type": "personal_access_token"
+    },
+    "production": {
+      "auth_type": "personal_access_token"
+    },
+    "staging": {
+      "auth_type": "personal_access_token"
+    }
+  },
+  "isPlugin": true
+}

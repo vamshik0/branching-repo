@@ -3,11 +3,11 @@
   "name": "The leftovers",
   "type": "front-end",
   "slug": "573d48f6-06f8-4518-a6aa-489c972d7009",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "shield",
-  "tooljetVersion": "3.21.16-beta-ee"
+  "tooljetVersion": "3.21.21-beta-ee"
 }

@@ -1,0 +1,13 @@
+{
+  "id": "4624025f-9959-4260-bd2a-f5a11bb3da2e",
+  "name": "m-samsung",
+  "type": "module",
+  "slug": "f3651316-7a4b-4770-a3a8-3262c5d42fb0",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "apps",
+  "tooljetVersion": "3.21.23-beta-ee"
+}

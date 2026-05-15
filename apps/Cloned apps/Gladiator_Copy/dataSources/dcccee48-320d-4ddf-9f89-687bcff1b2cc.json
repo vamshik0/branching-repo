@@ -1,9 +1,0 @@
-{
-  "id": "dcccee48-320d-4ddf-9f89-687bcff1b2cc",
-  "name": "Different json data",
-  "kind": "restapi",
-  "type": "default",
-  "pluginId": null,
-  "appVersionId": null,
-  "scope": "global"
-}

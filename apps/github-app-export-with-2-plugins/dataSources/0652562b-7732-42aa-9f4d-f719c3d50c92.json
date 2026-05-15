@@ -1,0 +1,9 @@
+{
+  "id": "0652562b-7732-42aa-9f4d-f719c3d50c92",
+  "name": "openai_test",
+  "kind": "openai",
+  "type": "default",
+  "pluginId": "e76be2bf-7610-48c9-b850-043b84daa1b3",
+  "appVersionId": null,
+  "scope": "global"
+}

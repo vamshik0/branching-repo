@@ -1,0 +1,9 @@
+{
+  "id": "dccaedbe-1d2a-45d8-8323-1c8c62536b85",
+  "name": "github_test",
+  "kind": "github",
+  "type": "default",
+  "pluginId": "dbf9399e-5bcc-47f4-81b7-43bc1b261f69",
+  "appVersionId": null,
+  "scope": "global"
+}

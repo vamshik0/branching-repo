@@ -3,8 +3,8 @@
   "name": "Home",
   "handle": "home",
   "index": 1,
-  "disabled": null,
-  "hidden": null,
+  "disabled": false,
+  "hidden": false,
   "icon": null,
   "autoComputeLayout": true,
   "appVersionId": "91fe8bb2-92d5-40aa-b605-c349774c41ed",
@@ -14,5 +14,7 @@
   "url": null,
   "openIn": "new_tab",
   "type": "default",
+  "pageHeader": null,
+  "pageFooter": null,
   "appId": "ae6f0b52-46c7-4e3a-b5a1-9f2606665f68"
 }

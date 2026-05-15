@@ -3,11 +3,11 @@
   "name": "Trello app",
   "type": "front-end",
   "slug": "aaddc35d-b790-4c66-bff5-b63823f9dcb1",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "archive",
-  "tooljetVersion": "3.21.16-beta-ee"
+  "tooljetVersion": "3.21.25-beta-ee"
 }

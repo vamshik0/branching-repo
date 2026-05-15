@@ -1,0 +1,11 @@
+{
+  "id": "0c8ac664-130d-4708-b8a1-0ff66a25e5a0",
+  "name": "runjs1",
+  "options": {
+    "code": "return 'world'",
+    "parameters": [],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "a61fb785-c773-4213-a84f-3022339f1e1a",
+  "appVersionId": "432a657b-b309-4ac0-85bd-5334fb15a940"
+}

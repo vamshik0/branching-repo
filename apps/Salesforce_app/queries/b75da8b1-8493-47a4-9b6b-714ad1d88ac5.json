@@ -1,0 +1,13 @@
+{
+  "id": "b75da8b1-8493-47a4-9b6b-714ad1d88ac5",
+  "name": "salesforce1",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "operation": "soql",
+    "language": "soql",
+    "soql_query": "return 'hello'"
+  },
+  "dataSourceId": "6286ba5b-593c-4795-b3e2-2eddca208de5",
+  "appVersionId": "e5f75ea8-4c63-4643-b589-2b208f3dfbe8"
+}
