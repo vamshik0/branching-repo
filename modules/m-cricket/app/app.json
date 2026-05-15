@@ -1,0 +1,13 @@
+{
+  "id": "f93ee0c7-b7bf-4f97-aaf7-a47e35139c32",
+  "name": "m-cricket",
+  "type": "module",
+  "slug": "7767999c-c7f2-482c-959b-976fe8ae64d2",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "table",
+  "tooljetVersion": "3.21.32-beta-ee"
+}
