@@ -1,0 +1,13 @@
+{
+  "id": "f3196c18-cfb6-42e8-91bb-3216d63f7e32",
+  "name": "m-badminton",
+  "type": "module",
+  "slug": "10435f07-e0ad-41b8-a316-15ea60c3cbf8",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.32-beta-ee"
+}
