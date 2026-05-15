@@ -106,5 +106,9 @@
   "792182d2-a9d2-4031-a7a1-3707185bdf38": {
     "appPath": "apps/Cricket-app",
     "updatedAt": "2026-05-15T06:45:12.367Z"
+  },
+  "bfc18e5f-4c82-46c2-be97-6bdc91bea3dd": {
+    "appPath": "apps/Neymar",
+    "updatedAt": "2026-05-15T06:55:19.995Z"
   }
 }

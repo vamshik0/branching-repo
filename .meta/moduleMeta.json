@@ -42,5 +42,9 @@
   "f93ee0c7-b7bf-4f97-aaf7-a47e35139c32": {
     "appPath": "modules/m-cricket",
     "updatedAt": "2026-05-15T06:45:12.367Z"
+  },
+  "45b0f623-eb3e-4ed3-860a-2a45f6b0fb7d": {
+    "appPath": "modules/m-football",
+    "updatedAt": "2026-05-15T06:55:19.995Z"
   }
 }
